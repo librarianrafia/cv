@@ -13,7 +13,7 @@ Humanities Librarian.
 
 ## Currently
 
-Standing on the shoulders of giants
+Rafia Mirza is currently a Humanities Research Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and leads the <a href="http://www.smu.edu/dhri">Digital Humanities Research Institute at SMU.</a> She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
 
 ### Specialized in
 
