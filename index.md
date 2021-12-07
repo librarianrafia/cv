@@ -15,14 +15,9 @@ Humanities Librarian.
 
 Rafia Mirza is currently a Humanities Research Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and leads the <a href="http://www.smu.edu/dhri">Digital Humanities Research Institute at SMU.</a> She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Her research focuses on digital humanities, library pedagogy, project planning and infrastructure in libraries as well as race, gender and labor in librarianship. .
 
 
 ## Education
