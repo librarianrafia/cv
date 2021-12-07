@@ -22,20 +22,34 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008` __University of Michigan, School of Information (Ann Arbor, MI)__
+- MSI (Master of Science in Information)
+- Specialization in Library and Information Services (LIS).
+- University Library Associate: Graduate Library Public Services  Associate
+- Courses included: Information Architecture; Grantwriting; Outcome-Based Evaluation; and Understanding Records and Archives
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2006` __University of Minnesota (Minneapolis, MN.)__
+- PhD coursework ABD (All But Dissertation) status in the American Studies Department (passed: written prelims 9/8/05, orals 10/6/05).
 
-- Sizar
+- Field of Concentration: Representations of Orientalism in American Mass Media, 1970s-Present
+- Studied Hindi at Landour Language School in Mussoorie, India (2/06-4/06)
+- MacArthur Scholar (2002-2005)
 
-`1667 - death`
-__Trinity College, Cambridge__
+`1999` __State University of New York at Buffalo, NY.__
 
-- Fellow
+- (1999) Bachelor of Arts in English Literature and American Studies.
+- (1999) Bachelor of Arts in Psychology.
 
+- Graduated Magna Cum Laude and with Departmental Honors (in all three majors)
+- Dean's List
+- Chosen as the Outstanding Graduate in the American Studies Department, State University of New York at Buffalo, NY, 1999
+- Received a Dean’s medal, Chosen as the “Outstanding Graduate” in the American Studies Department, 1999.
+- Received ‘Disparate Major’ collegiate medal to recognize intellectual breadth in a course of study.
 
+### Honor Societies
+- Phi Beta Kappa
+- Phi Eta Sigma
+- Golden Key
 
 ## Awards
 
@@ -48,7 +62,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=ritomzMAAAAJ&hl=en) -->
 
 ### Journals
 
