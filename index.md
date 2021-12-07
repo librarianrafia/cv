@@ -19,14 +19,13 @@ Rafia Mirza is currently a Humanities Research Librarian at SMU. She helps provi
 
 Her research focuses on digital humanities, library pedagogy, project planning and infrastructure in libraries as well as race, gender and labor in librarianship. .
 
-
 ## Education
 
 `2008` __University of Michigan, School of Information (Ann Arbor, MI)__
 - MSI (Master of Science in Information)
   - Specialization in Library and Information Services (LIS).
   - University Library Associate: Graduate Library Public Services Associate
-  - Courses included: Information Architecture; Grantwriting; Outcome-Based Evaluation; and Understanding Records and Archives
+  <!--- - Courses included: Information Architecture; Grantwriting; Outcome-Based Evaluation; and Understanding Records and Archives --->
 
 `2006` __University of Minnesota (Minneapolis, MN.)__
 - PhD coursework ABD (All But Dissertation) status in the American Studies Department (passed: written prelims 9/8/05, orals 10/6/05).
