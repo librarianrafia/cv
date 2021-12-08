@@ -60,7 +60,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `May 2014–May 2015` Trailblazers: Pathways to Successful Supervision Staff Development Supervisory Program
 - Attended series of workshops focused on supervisory skills offered by University of Texas at Arlington Human Resources.
-<!--- Team Building for Supervisors
+<!-- Team Building for Supervisors
     - Leadership Skills for Supervisors
     - Dealing with Difficult Employees and People
     - Welcoming Diversity
@@ -97,6 +97,16 @@ Her research focuses on digital humanities, library pedagogy, project planning a
   - This appointment came with a scholarship for the School of Information at the University of Michigan, Ann Arbor. 
  
  `May 1999` Outstanding Graduate in the American Studies Department sponsored by State University of New York at Buffalo.
+ 
+ ### Grant Support
+
+`2013` Co-applicant with Reece, D. the  UT Arlington Libraries application for the Muslim Journeys grant. 
+
+  - We were <a href="http://www.neh.gov/files/press-release/mj-bookshelf-winners.pdf">one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH. </a>
+  - Supported the grant by helping with displays, creating a web page to highlight the materials.
+
+- On Committee for creating the <a href="http://library.uta.edu/mavvets/">MavVets project</a>
+    - Worked on white paper for original internal grant
 
 ## Publications
 
@@ -104,13 +114,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 
 ### Footer
