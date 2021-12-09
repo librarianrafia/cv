@@ -50,7 +50,6 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 ## Continuing Education
 
-
  `June 11-20, 2018`  <a href="http://dhinstitutes.org/">DHRI (Digital Humanities Research Institute) </a>
 - Participant in 2018 cohort of DHRI a ten-day residential workshop at held at The Graduate Center, CUNY.
 
@@ -141,11 +140,11 @@ Walker, S, Beilin, I. & Mirza, R. (2019). <a href="https://acrl.ala.org/IS/instr
 
 Ossom Williamson, P. & Mirza, R. (2015). <a href="https://books.google.com/books?hl=en&lr=&id=Pv3bBgAAQBAJ&oi=fnd&pg=PA211&dq=rafia+mirza+peace+williamson&ots=tgbSHn0sWd&sig=8141E4llWMu5WS6g-Zv2WYaI0tY#v=onepage&q=rafia%20mirza%20peace%20williamson&f=false"> Does Google Scholar help or hurt institutional repositories? </a>In C. Smallwood (Ed.), The complete guide to using Google in libraries: instruction, administration, and staff productivity (pp. 211-222). Lanham, MD: Rowman & Littlefiend.
 
-Mirza, R.  & Seale M. (2011) Watchers, Punks and Dashing Heroes: Representations of Male Librarians in Generation X Mass Culture.In M. Wallace, R. Tolley-Stokes, and E. S. Estep (Eds.), <a href=https://dc.etsu.edu/etsu_books/195/"> The Generation X Librarian: Essays on Leadership, Technology, Pop Culture, Social Responsibility and Professional Identity</a> (pp.135-146). Jefferson, N.C: McFarland & Co.
+Mirza, R.  & Seale M. (2011) Watchers, Punks and Dashing Heroes: Representations of Male Librarians in Generation X Mass Culture.In M. Wallace, R. Tolley-Stokes, and E. S. Estep (Eds.), <a href="https://dc.etsu.edu/etsu_books/195/"> The Generation X Librarian: Essays on Leadership, Technology, Pop Culture, Social Responsibility and Professional Identity</a> (pp.135-146). Jefferson, N.C: McFarland & Co.
 
 ### Workbooks
 Currier, B. D., Mirza, R., & Ossom Williamson, P. (2016). Memorandum of Understanding Workbook, Version 1.0, Memorandum of Understanding Collection. Arlington, TX: ResearchCommons. <a href="https://rc.library.uta.edu/uta-ir/handle/10106/25646"> https://rc.library.uta.edu/uta-ir/handle/10106/25646</a>
-DOI:<a href=http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.32855/utalibraries.2016.01</a>
+DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.32855/utalibraries.2016.01</a>
 
 ### Conference Proceedings
 Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), Fiesta de Excelencia: Celebrating Excellence in Library Instruction : Thirty-ninth National LOEX Library Instruction Conference Proceedings, Fort Worth, Texas, May 5-7, 2011 (pp. 000-00). Ypsilanti, MI: LOEX Press.
