@@ -66,8 +66,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `2009` __University of Maryland University College__
 - <a href="http://liblicense.crl.edu/ListArchives/0808/msg00129.html">Center for Intellectual Property Copyright Leadership and Management Certificate</a>
-<!---Certificate required completion of following Online modules
- - IPNA 801: Copright Law and Integrated Access    - IPNA 802: Copyright Law and Integrated Access     - IPNA 803: Orphan Works Workshop   - IPNA 804: Licensing Issues     - IPNA 805: Copyright Policy Development     - IPNA 806: College Cheating Trends     - IPNA 807: Fair Use and Balance in Copyright ---> 
+<!---Certificate required completion of following Online modules, IPNA 801: Copright Law and Integrated Access, IPNA 802: Copyright Law and Integrated Access, IPNA 803: Orphan Works Workshop, IPNA 804: Licensing Issues, IPNA 805: Copyright Policy Development, IPNA 806: College Cheating Trends, IPNA 807: Fair Use and Balance in Copyright---> 
 
 ## Awards
 
@@ -92,7 +91,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 `2013` Co-applicant with Reece, D. the  UT Arlington Libraries application for the Muslim Journeys grant. 
 
   - We were <a href="http://www.neh.gov/files/press-release/mj-bookshelf-winners.pdf">one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH. </a>
-  - Supported the grant by helping with displays, creating a web page to highlight the materials.
+ - Supported the grant by helping with displays, creating a web page to highlight the materials.
 
 - On Committee for creating the <a href="http://library.uta.edu/mavvets/">MavVets project</a>
     - Worked on white paper for original internal grant
