@@ -140,55 +140,55 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Texas Library Association 2019
 - Presenters: Holmes, R.,  Mirza, R., Williamson, P.O. (2019, April 16)
 
-`2017` How to Bring Digital Humanities in the Classroom
-- THATcamp Clear Lake
-- Slides
-- Invited Speaker for pre-conference: Mirza, R.  (2017, Nov. 3)
+`2017` [How to Bring Digital Humanities in the Classroom](https://rafiamirzasite.wordpress.com/2017/11/03/thatcampdhinclassroom/)
+- [THATcamp Clear Lake](http://clearlake2017.thatcamp.org/)
+- [Slides](https://osf.io/r8pxc/)
+- Invited Speaker for pre-conference: Mirza, R. (2017, Nov. 3)
 
-`2017` After the Mandates & Manifestos, What Next? The Denton Declaration at 5
-- UNT’s Open Acccess Symposium 2017
+`2017` [After the Mandates & Manifestos, What Next? The Denton Declaration at 5](https://openaccess.unt.edu/symposium/2017/sessions)
+- [UNT’s Open Acccess Symposium 2017](https://openaccess.unt.edu/symposium/2017/)
 - Moderator/Organizer:: Keralis, S.
 - Presenters: Gonzales, M.,  Weimer, K.H., Rondelli,M., Mirza,R., Halbert, M. (2017, May 19)
 
 `2017` Introduction to MOU Workbook
-- February Membership Meeting
+- [Wils'](http://www.wils.org/about-wils/)February Membership Meeting
 - Invited Speakers for lightening talk: Currier, B.,  Mirza, R. (2017, February 16)
 
-`2015` Encouraging Digital Scholarship in Graduate Education
-- Cross Timbers Library Collaborative (CTLC) Annual conference
+`2015` [Encouraging Digital Scholarship in Graduate Education](https://digital.library.unt.edu/ark:/67531/metadc701856/)
+- [Cross Timbers Library Collaborative (CTLC) Annual conference](https://ct-lc.org/Events/2015-Conference)
 - Panel Presenters: Barham, R., Keralis, S. D. C., Mirza, R.,Smith, S., Waugh, L.
-- Click here for Abstract 
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/13/encouraging-digital-scholarship-in-graduate-education/) 
 
 `2013` Libraries as Digital Humanities Partners on Campus
-- TX Digital Humanities Annual Conference (2014, April 10-12)
+- [TX Digital Humanities Annual Conference (2014, April 10-12)](http://en.bitrum.unileon.es/4-resources/calls/calls-archive/2014-03-201stinauguraltexasdigitalhumanitiesconference)
 - Poster Presenters: Gonzales, M. & Mirza, R.
 
 `2014` Wonder Women! The Untold Story of American Superheroines
-- Screening of 2011 documentary, Followed by a panel discussion of experts on Wonder Women, comic books, and gender studies.
+- [Screening of 2011 documentary, Followed by a panel discussion of experts on Wonder Women, comic books, and gender studies.](https://www.theshorthorn.com/life_and_entertainment/superheroine-documentary-inspires-women-to-be-themselves/article_b1235538-b0ad-11e3-a54e-001a4bcf6878.html)
 - Invited Speakers for Panel discussion: Brown, M.,  Mirza, R., Murphy, A.  (2014, March 20)
 
-`2013` What Are the Digital Humanities and What Do They Want from Libraries?
-- Cross Timbers Library Collaborative Annual conference (2013, August)
+`2013` [What Are the Digital Humanities and What Do They Want from Libraries?](https://ct-lc.org/Events/2013-Conference)
+- [Cross Timbers Library Collaborative Annual conference (2013, August)](https://ct-lc.org/sites/ct-lc.org/files/CTLC%20presentation%20summaries%202013.pdf)
 - Roundtable Speakers: Engel, K.,  Keralis S., Mirza, R., Murphy, J., Stvan, L.
 
-`2013` ALTMETRICS: What is it and how is it relevant to librarians?
-- Cross Timbers Library Collaborative Scholarly Communications & Digital Curation Affinity Group Meeting (2013, December 12)
+`2013` [ALTMETRICS: What is it and how is it relevant to librarians?](https://www.slideshare.net/ciakov/iakovakis-mirzaaltmetrics)
+- [Cross Timbers Library Collaborative Scholarly Communications & Digital Curation Affinity Group Meeting (2013, December 12)](https://www.ct-lc.org/node/48)
 - Presenters: Iakovakis, C., Mirza, R.
 
-`2012` Re/searching on the Web
-- THATCamp Texas (2012, March)
+`2012` [Re/searching on the Web](http://texas2012.thatcamp.org/tag/web/)
+- [THATCamp Texas (2012, March)](http://texas2012.thatcamp.org/)
 - Presenter: Mirza, R
-- Click here for Abstract 
+- [Click here for Abstract ](https://rafiamirzasite.wordpress.com/2016/03/13/researching-on-the-web/)
 
-`2012` Digital Age Copyright & Your Rights as an Author
-- THATCamp Texas (2012, March)
+`2012` [Digital Age Copyright & Your Rights as an Author](http://texas2012.thatcamp.org/tag/copyright/)
+- [THATCamp Texas (2012, March)](http://texas2012.thatcamp.org/)
 - Presenter: Mirza, R.
-- Click here for Abstract
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/13/digital-age-copyright/)
 
 `2011` Social Networking at UTA Library
 - Phoenix Staff Development Day, Texas Women’s University, Denton, TX (2011, May)
 - Presenters: Bailey, J. & Mirza, R.
-- Click here for Abstract.
+- [Click here for Abstract.](https://rafiamirzasite.wordpress.com/2016/03/13/social-networking-at-uta-library/)
 
 ### National presentations & workshops
 
