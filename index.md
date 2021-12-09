@@ -135,87 +135,107 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 ## Presentations & Workshops
 
 ### National presentations & workshops
-National & International
 
-Expanding Communities of Practice Pedagogy Showcase
-Association for Computers and the Humanities (ACH) , PA. (2019, July 24-26)
-Speakers: Lisa Marie Rhody (Chair), Westerling K., Chapman R., Davis A., Fallon D., Gay A., Johnson D., Mirza R., Noonan S., Peaker A., Torres-Medina R., Karlin J., Smyth P., Zweibel S.
-Towards of a Praxis of Library Documentation
-Digital Library Federation Forum, NV. (2018, October 15-17)
-Speakers: Mirza, R., Currier, B.
-Valuing Labor When You’re “The Man” (kind of): Q&A
-Digital Library Federation Forum, NV. (2018, October 15-17)
-Speakers: Tillman, R., Rodriguez, S., Mirza, R. Arnold, H.
-Overcoming the Curse of Knowledge with Cross-disciplinary Collaboration: Applying User Experience Approaches to Digital Humanities
-Digital Frontiers, KS. (2018, October 5)
-Presenters: Terrill, M., McMichael, J., Mirza, R.
-Dudes Code, Ladies Coordinate: Gendered Labor in Digital Scholarship
-Digital Library Federation Forum 2017. October, 23, Pittsburgh, PA. 
-Presenters: Mirza, R. & Seale, M.
-Click here for slides
-Modifying a Project Memorandum of Understanding for Reuse
-Digital Frontiers 2017, September 21.
-Presenters: Mirza, R. & Downing, J., 2017.
-see poster for complete list of contributors.
-Memorandum of Understanding Workshop: Creating a Process for Successful Digital Collaboration.
-Digital Initiatives Symposium. April 27-28, 2016. San Diego, CA.
-Presenters (Pre-Conference Workshop): Currier, B.D., Mirza, R., & Ossom-Williams, P. (2016).
-Click Here for Abstract 
-Using Omeka as a Gateway to Digital Projects
-Digital Frontiers, Denton, TX. (2015, September 18)
-Presenters:Downing, J., Johnson, L., Reece, D.  & Mirza., R
-Click here for Abstract
-Developing Library Services for Digital Humanities & E-Science Support Using Qualitative Research
-Digital Frontiers (2014).
-Presenters:  Iakovakis, C. & Mirza, R.
-Click here for Abstract
-Plugged into User Behavior: Low-Budget, High-Impact Usability Testing of Library Subject Guides
-Association of College and Research Libraries (ACRL)  Annual Conference. (2013, April).
-Presenters:  Bailey, J, Herzog, A., Huddleston, B., Mirza, R., & Trkay, G.
-Click here for Abstract 
-Digital Learning: Teaching Information Literacy through Online Research Guides 
-Annual Innovations in Online Learning Conference, San Antonio, TX. (2012, May).
-Presentation  with  Trkay, G., Mirza, R., & Bailey, J.
-Click here for the Abstract.
- LibGuides, Videos, and Screencasting: Technologies to Enhance and Promote Digital Wisdom in Information Literacy Instruction
-2011 LOEX Annual Conference, Fort Worth, TX.(2001, May)
-Presenters: Bailey, J. & Mirza, R.
-Click here for Abstract
-If a Picture Paints a Thousand Words, Imagine What a Video Can Do: Making Promotional, Advocacy, and Instructional Videos on a Shoestring
-Association of College and Research Libraries Annual Conference, Philadelphia, PA,(2011, March).
-Presenters (Day long Pre Conference Workshop):  Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
-Click here for Abstract
-Supercharged, Integrated, and On Demand
-Amigos Online Conference: Reference @ Your Library.(2010, August).
-Presenters:Bailey, J., Trkay, G., & Mirza, R.
-Click here for Abstract
-Rising (and Raising) Expectations: Expanding the Academic Cyberinfrastructure at Academic Libraries
-EDUCAUSE Southwest Regional Conference, Austin, TX. (2010,February).
-Presenters: Bailey, J., Frierson,F., &  Mirza, R.
-Click here for Abstract
-Project J: How Web 2.0 Should ALA Go?
-American Library Association Annual Conference, Washington, DC. (2010, June).
-Poster presenters:  Chen, J., Hoenke J.,  Jennings, S. ,  Krakow, A., Mirza. R. (ALA Emerging Leaders 2010, Group J)
-Click here for Abstract 
- LibrarySTEW:Fortifying Staff and Services
-American Library Association Annual Conference, Washington, DC. (2010, June).
-Poster presenters: Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
-Click here for Abstract
- Techno Scholar: The Librarian as Digital Professional 
-LIRT Summit (2009)
-Poster Presenter: Mirza, R.
-The Terror Within: Militia Terrorism in Arlington Road
-Mid-America American Studies Association (2005, April)
-Paper Presenter: Mirza, R.
-America Under Siege: The Terrors of Race, Religion and Culture in Hollywood’s The Siege
-National Popular Culture Association (2004, April).
-Paper Presentation: Mirza, R. .
-America Under Siege: The Terrors of Race, Religion and Culture in Hollywood’s The Siege
-Midwest Popular Culture Association Annual Conference  (2003,October).
-Paper Presentation: Mirza, R.
-Feminism and Islam
-American Men’s Studies Association 8th Annual Conference (2000, April).
-Presenter: Mirza, R.
+`2019` [Expanding Communities of Practice Pedagogy Showcase](https://ach.dhinstitutes.org/)
+- Association for Computers and the Humanities (ACH) , PA. (2019, July 24-26)
+- Speakers: Lisa Marie Rhody (Chair), Westerling K., Chapman R., Davis A., Fallon D., Gay A., Johnson D., Mirza R., Noonan S., Peaker A., Torres-Medina R., Karlin J., Smyth P., Zweibel S.
+
+`2018` [Towards of a Praxis of Library Documentation](https://dlfforum2018.sched.com/event/FVD6/w2c-project-management?iframe=no&w=100%&sidebar=no&bg=no)
+- Digital Library Federation Forum, NV. (2018, October 15-17)
+- Speakers: Mirza, R., Currier, B.
+
+`2018` Valuing Labor When You’re “The Man” (kind of): Q&A
+- Digital Library Federation Forum, NV. (2018, October 15-17)
+- Speakers: Tillman, R., Rodriguez, S., Mirza, R. Arnold, H.
+
+`2018` Overcoming the Curse of Knowledge with Cross-disciplinary Collaboration: Applying User Experience Approaches to Digital Humanities
+- Digital Frontiers, KS. (2018, October 5)
+- Presenters: Terrill, M., McMichael, J., Mirza, R.
+
+`2017` Dudes Code, Ladies Coordinate: Gendered Labor in Digital Scholarship
+- Digital Library Federation Forum 2017. October, 23, Pittsburgh, PA. 
+- Presenters: Mirza, R. & Seale, M.
+- Click here for slides
+
+`2017` Modifying a Project Memorandum of Understanding for Reuse
+- Digital Frontiers 2017, September 21.
+- Presenters: Mirza, R. & Downing, J., 2017.
+- see poster for complete list of contributors.
+
+`2016` Memorandum of Understanding Workshop: Creating a Process for Successful Digital Collaboration.
+- Digital Initiatives Symposium. April 27-28, 2016. San Diego, CA.
+- Presenters (Pre-Conference Workshop): Currier, B.D., Mirza, R., & Ossom-Williams, P. (2016).
+- Click Here for Abstract 
+
+`2015` Using Omeka as a Gateway to Digital Projects
+- Digital Frontiers, Denton, TX. (2015, September 18)
+- Presenters:Downing, J., Johnson, L., Reece, D.  & Mirza., R
+- Click here for Abstract
+
+`2014` Developing Library Services for Digital Humanities & E-Science Support Using Qualitative Research
+- Digital Frontiers (2014).
+- Presenters:  Iakovakis, C. & Mirza, R.
+- Click here for Abstract
+
+`2013` Plugged into User Behavior: Low-Budget, High-Impact Usability Testing of Library Subject Guides
+--Association of College and Research Libraries (ACRL)  Annual Conference. (2013, April).
+- Presenters:  Bailey, J, Herzog, A., Huddleston, B., Mirza, R., & Trkay, G.
+- Click here for Abstract 
+
+`2012` Digital Learning: Teaching Information Literacy through Online Research Guides 
+- Annual Innovations in Online Learning Conference, San Antonio, TX. (2012, May).
+- Presentation  with  Trkay, G., Mirza, R., & Bailey, J.
+- Click here for the Abstract.
+
+`2011` LibGuides, Videos, and Screencasting: Technologies to Enhance and Promote Digital Wisdom in Information Literacy Instruction
+- 2011 LOEX Annual Conference, Fort Worth, TX.(2011, May)
+- Presenters: Bailey, J. & Mirza, R.
+- Click here for Abstract
+
+`2011` If a Picture Paints a Thousand Words, Imagine What a Video Can Do: Making Promotional, Advocacy, and Instructional Videos on a Shoestring
+- Association of College and Research Libraries Annual Conference, Philadelphia, PA,(2011, March).
+- Presenters (Day long Pre Conference Workshop):  Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
+- Click here for Abstract
+
+`2010` Supercharged, Integrated, and On Demand
+- Amigos Online Conference: Reference @ Your Library.(2010, August).
+- Presenters:Bailey, J., Trkay, G., & Mirza, R.
+- Click here for Abstract
+
+`2010` Rising (and Raising) Expectations: Expanding the Academic Cyberinfrastructure at Academic Libraries
+- EDUCAUSE Southwest Regional Conference, Austin, TX. (2010,February).
+- Presenters: Bailey, J., Frierson,F., &  Mirza, R.
+- Click here for Abstract
+
+`2010` Project J: How Web 2.0 Should ALA Go?
+- American Library Association Annual Conference, Washington, DC. (2010, June).
+- Poster presenters:  Chen, J., Hoenke J.,  Jennings, S. ,  Krakow, A., Mirza. R. (ALA Emerging Leaders 2010, Group J)
+- Click here for Abstract 
+ 
+`2110` LibrarySTEW:Fortifying Staff and Services
+- American Library Association Annual Conference, Washington, DC. (2010, June).
+- Poster presenters: Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
+- Click here for Abstract
+ 
+`2009`Techno Scholar: The Librarian as Digital Professional 
+- LIRT Summit (2009)
+- Poster Presenter: Mirza, R.
+
+`2005` The Terror Within: Militia Terrorism in Arlington Road
+- Mid-America American Studies Association (2005, April)
+- Paper Presenter: Mirza, R.
+
+`2004` America Under Siege: The Terrors of Race, Religion and Culture in Hollywood’s The Siege
+- National Popular Culture Association (2004, April).
+- Paper Presentation: Mirza, R. .
+
+`2003` America Under Siege: The Terrors of Race, Religion and Culture in Hollywood’s The Siege
+- Midwest Popular Culture Association Annual Conference  (2003,October).
+- Paper Presentation: Mirza, R.
+
+`2000` Feminism and Islam
+- American Men’s Studies Association 8th Annual Conference (2000, April).
+- Presenter: Mirza, R.
 
 ### Virtual presentations & workshops
 `2021` Mirza, R., & Seale, M., et al. (2021). Academic Libraries and the Irrational – A Discussion with CJAL Special Issue Authors and Editors (CJAL). May 25, 2021. Online.
