@@ -59,25 +59,15 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `May 2014–May 2015` Trailblazers: Pathways to Successful Supervision Staff Development Supervisory Program
 - Attended series of workshops focused on supervisory skills offered by University of Texas at Arlington Human Resources.
-<!--Team Building for Supervisors
- Leadership Skills for Supervisors
- Dealing with Difficult Employees and People
- Welcoming Diversity
- Conducting Effective Meetings---> 
+<!--Team Building for Supervisors, Leadership Skills for Supervisors, Dealing with Difficult Employees and People, Welcoming Diversity, Conducting Effective Meetings---> 
 
 `2001`  Cutting the Red Tape: Finding and Using E-Government Tools and Resources 
 - <a href="https://www.alastore.ala.org/detail.aspx?ID=3297"> Completed ALA e course</a>
 
 `2009` __University of Maryland University College__
 - <a href="http://liblicense.crl.edu/ListArchives/0808/msg00129.html">Center for Intellectual Property Copyright Leadership and Management Certificate</a>
-<!--- Certificate required completion of following Online modules
-    - IPNA 801: Copright Law and Integrated Access
-    - IPNA 802: Copyright Law and Integrated Access
-    - IPNA 803: Orphan Works Workshop
-    - IPNA 804: Licensing Issues
-    - IPNA 805: Copyright Policy Development
-    - IPNA 806: College Cheating Trends
-    - IPNA 807: Fair Use and Balance in Copyright ---> 
+<!---Certificate required completion of following Online modules
+ - IPNA 801: Copright Law and Integrated Access    - IPNA 802: Copyright Law and Integrated Access     - IPNA 803: Orphan Works Workshop   - IPNA 804: Licensing Issues     - IPNA 805: Copyright Policy Development     - IPNA 806: College Cheating Trends     - IPNA 807: Fair Use and Balance in Copyright ---> 
 
 ## Awards
 
@@ -126,7 +116,7 @@ Currier, B. D., Mirza, R., & Downing, J. (2017). They think all of this is new: 
 *Note:* <a href="https://litwinbooks.com/karen-nicholson-wins-seventh-annual-library-juice-paper-contest/PREPRINT"> available here. </a>
 
 *Note:* Referenced in Project management approaches in libraries section of the C&RLN 2018 trends overview:
-- Research Planning and Review Committee, A. (2018). 2018 top trends in academic libraries: A review of the trends and issues affecting academic libraries in higher education. College & Research Libraries News, 79(6), 286.<a href="https://crln.acrl.org/index.php/crlnews/article/view/17001">doi:https://doi.org/10.5860/crln.79.6.286</a>
+- Research Planning and Review Committee, A. (2018). 2018 top trends in academic libraries: A review of the trends and issues affecting academic libraries in higher education. College & Research Libraries News, 79(6), 286. <a href="https://crln.acrl.org/index.php/crlnews/article/view/17001">doi:https://doi.org/10.5860/crln.79.6.286</a>
 
 
 ### Published Panels 
