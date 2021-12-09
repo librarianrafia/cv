@@ -144,78 +144,78 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Digital Library Federation Forum, NV. (2018, October 15-17)
 - Speakers: Mirza, R., Currier, B.
 
-`2018` Valuing Labor When You’re “The Man” (kind of): Q&A
+`2018` [Valuing Labor When You’re “The Man” (kind of): Q&A](https://dlfforum2018.sched.com/event/FVBb/m2c-valuing-labor-when-youre-the-man-kind-of-qa?iframe=no&w=100%&sidebar=no&bg=no)
 - Digital Library Federation Forum, NV. (2018, October 15-17)
 - Speakers: Tillman, R., Rodriguez, S., Mirza, R. Arnold, H.
 
-`2018` Overcoming the Curse of Knowledge with Cross-disciplinary Collaboration: Applying User Experience Approaches to Digital Humanities
+`2018` [Overcoming the Curse of Knowledge with Cross-disciplinary Collaboration: Applying User Experience Approaches to Digital Humanities](https://digital-frontiers.org/past-events/df2018/df18schedule/overcoming-the-curse-of-knowledge/)
 - Digital Frontiers, KS. (2018, October 5)
 - Presenters: Terrill, M., McMichael, J., Mirza, R.
 
-`2017` Dudes Code, Ladies Coordinate: Gendered Labor in Digital Scholarship
-- Digital Library Federation Forum 2017. October, 23, Pittsburgh, PA. 
+`2017` [Dudes Code, Ladies Coordinate: Gendered Labor in Digital Scholarship](https://rafiamirzasite.wordpress.com/2017/09/21/modifyingmou/)
+- [Digital Library Federation Forum 2017.](https://dlfforum2017.sched.com/event/d84993ffe2df349f1165ec594678c16a) October, 23, Pittsburgh, PA. 
 - Presenters: Mirza, R. & Seale, M.
-- Click here for slides
+- [Click here for slides](https://osf.io/hj3ks/)
 
-`2017` Modifying a Project Memorandum of Understanding for Reuse
-- Digital Frontiers 2017, September 21.
+`2017` [Modifying a Project Memorandum of Understanding for Reuse](https://rafiamirzasite.wordpress.com/2017/09/21/modifyingmou/)
+- [Digital Frontiers 2017,](https://digital-frontiers.org/past-events/df17/) September 21.
 - Presenters: Mirza, R. & Downing, J., 2017.
-- see poster for complete list of contributors.
+- [see poster for complete list of contributors.](https://rc.library.uta.edu/uta-ir/handle/10106/26937)
 
 `2016` Memorandum of Understanding Workshop: Creating a Process for Successful Digital Collaboration.
-- Digital Initiatives Symposium. April 27-28, 2016. San Diego, CA.
+- [Digital Initiatives Symposium.](https://digital.sandiego.edu/symposium/2016/) April 27-28, 2016. San Diego, CA.
 - Presenters (Pre-Conference Workshop): Currier, B.D., Mirza, R., & Ossom-Williams, P. (2016).
-- Click Here for Abstract 
+- [Click Here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/mou-workshop/) 
 
-`2015` Using Omeka as a Gateway to Digital Projects
+`2015` [Using Omeka as a Gateway to Digital Projects](https://digital-frontiers.org/past-events/df15/)
 - Digital Frontiers, Denton, TX. (2015, September 18)
 - Presenters:Downing, J., Johnson, L., Reece, D.  & Mirza., R
-- Click here for Abstract
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/13/using-omeka-as-a-gateway-to-digital-projects/)
 
 `2014` Developing Library Services for Digital Humanities & E-Science Support Using Qualitative Research
-- Digital Frontiers (2014).
+- [Digital Frontiers (2014).](https://digital-frontiers.org/past-events/df14/)
 - Presenters:  Iakovakis, C. & Mirza, R.
-- Click here for Abstract
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/13/developing-library-services-for-digital-humanities/)
 
 `2013` Plugged into User Behavior: Low-Budget, High-Impact Usability Testing of Library Subject Guides
---Association of College and Research Libraries (ACRL)  Annual Conference. (2013, April).
+--[Association of College and Research Libraries (ACRL)  Annual Conference. (2013, April).](https://www.ala.org/acrl/acrl/conferences/2013/papers)
 - Presenters:  Bailey, J, Herzog, A., Huddleston, B., Mirza, R., & Trkay, G.
-- Click here for Abstract 
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/plugged-into-user-behavior/) 
 
 `2012` Digital Learning: Teaching Information Literacy through Online Research Guides 
 - Annual Innovations in Online Learning Conference, San Antonio, TX. (2012, May).
 - Presentation  with  Trkay, G., Mirza, R., & Bailey, J.
-- Click here for the Abstract.
+- [Click here for the Abstract.](https://rafiamirzasite.wordpress.com/2016/03/12/digital-learning/)
 
 `2011` LibGuides, Videos, and Screencasting: Technologies to Enhance and Promote Digital Wisdom in Information Literacy Instruction
-- 2011 LOEX Annual Conference, Fort Worth, TX.(2011, May)
+- [LOEX Annual Conference, Fort Worth, TX.(2011, May)](https://commons.emich.edu/loexconf2011/12/)
 - Presenters: Bailey, J. & Mirza, R.
-- Click here for Abstract
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/libguides-videos-and-screencasting/)
 
 `2011` If a Picture Paints a Thousand Words, Imagine What a Video Can Do: Making Promotional, Advocacy, and Instructional Videos on a Shoestring
-- Association of College and Research Libraries Annual Conference, Philadelphia, PA,(2011, March).
+- [Association of College and Research Libraries Annual Conference, Philadelphia, PA,(2011, March).](https://www.ala.org/acrl/conferences/confsandpreconfs/national/acrl2011papers)
 - Presenters (Day long Pre Conference Workshop):  Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
-- Click here for Abstract
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/if-a-picture-paints-a-thousand-words/)
 
 `2010` Supercharged, Integrated, and On Demand
-- Amigos Online Conference: Reference @ Your Library.(2010, August).
+- [Amigos Online Conference](https://www.amigos.org/node/670): Reference @ Your Library.(2010, August).
 - Presenters:Bailey, J., Trkay, G., & Mirza, R.
-- Click here for Abstract
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/supercharged-integrated-and-on-demand/)
 
 `2010` Rising (and Raising) Expectations: Expanding the Academic Cyberinfrastructure at Academic Libraries
-- EDUCAUSE Southwest Regional Conference, Austin, TX. (2010,February).
+- [EDUCAUSE Southwest Regional Conference, Austin, TX. (2010,February).]1(https://events.educause.edu/archives/2010/educause-southwest-regional-conference-2010)
 - Presenters: Bailey, J., Frierson,F., &  Mirza, R.
-- Click here for Abstract
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/rising-and-raising-expectations/)
 
 `2010` Project J: How Web 2.0 Should ALA Go?
 - American Library Association Annual Conference, Washington, DC. (2010, June).
-- Poster presenters:  Chen, J., Hoenke J.,  Jennings, S. ,  Krakow, A., Mirza. R. (ALA Emerging Leaders 2010, Group J)
-- Click here for Abstract 
+- Poster presenters:  Chen, J., Hoenke J.,  Jennings, S. ,  Krakow, A., Mirza. R. [(ALA Emerging Leaders 2010, Group J)](https://emergingleaders.ala.org/news/category/2010-class/)
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/how-web-2-0-should-ala-go/) 
  
 `2110` LibrarySTEW:Fortifying Staff and Services
-- American Library Association Annual Conference, Washington, DC. (2010, June).
+- [American Library Association Annual Conference, Washington, DC. (2010, June).](https://www.ala.org/alcts/events/ac/2010)
 - Poster presenters: Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
-- Click here for Abstract
+- [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/librarystew/)
  
 `2009`Techno Scholar: The Librarian as Digital Professional 
 - LIRT Summit (2009)
