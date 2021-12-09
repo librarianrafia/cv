@@ -25,7 +25,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - MSI (Master of Science in Information)
   - Specialization in Library and Information Services (LIS).
   - University Library Associate: Graduate Library Public Services Associate
-  <!--- - Courses included: Information Architecture; Grantwriting; Outcome-Based Evaluation; and Understanding Records and Archives --->
+  <!--- Courses included: Information Architecture; Grantwriting; Outcome-Based Evaluation; and Understanding Records and Archives --->
 
 `2006` __University of Minnesota (Minneapolis, MN.)__
 - PhD coursework ABD (All But Dissertation) status in the American Studies Department
@@ -59,11 +59,11 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `May 2014–May 2015` Trailblazers: Pathways to Successful Supervision Staff Development Supervisory Program
 - Attended series of workshops focused on supervisory skills offered by University of Texas at Arlington Human Resources.
-<!-- Team Building for Supervisors
-    - Leadership Skills for Supervisors
-    - Dealing with Difficult Employees and People
-    - Welcoming Diversity
-    - Conducting Effective Meetings ---> 
+<!--Team Building for Supervisors
+ Leadership Skills for Supervisors
+ Dealing with Difficult Employees and People
+ Welcoming Diversity
+ Conducting Effective Meetings---> 
 
 `2001`  Cutting the Red Tape: Finding and Using E-Government Tools and Resources 
 - <a href="https://www.alastore.ala.org/detail.aspx?ID=3297"> Completed ALA e course</a>
