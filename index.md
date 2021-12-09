@@ -79,8 +79,8 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - Applause Award  sponsored by University of Texas at Arlington Libraries
 - Customer Commitment Award sponsored by University of Texas at Arlington Libraries
 - For providing excellent customer service to UT Arlington graduate students with Jody Bailey (EDGE Workshop on Word for Dissertation) (2012, October)-->
- 
- ### Grant Support
+
+### Grant support
 
 `2013` Co-applicant with Reece, D. the  UT Arlington Libraries application for the Muslim Journeys grant. 
 
