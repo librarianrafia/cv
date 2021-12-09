@@ -13,7 +13,7 @@ Humanities Librarian.
 
 ## Currently
 
-Rafia Mirza is currently a Humanities Research Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and leads the <a href="http://www.smu.edu/dhri">Digital Humanities Research Institute at SMU.</a> She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
+Rafia Mirza is currently a Humanities Research Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and leads the [Digital Humanities Research Institute at SMU.](http://www.smu.edu/dhri) She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
 
 ### Research interests
 
@@ -22,14 +22,14 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 ## Education
 
 `2008` __University of Michigan, School of Information (Ann Arbor, MI)__
-- MSI (Master of Science in Information)
+- MSI (Master of Science in Information).
   - Specialization in Library and Information Services (LIS).
-  - University Library Associate: Graduate Library Public Services Associate
+  - University Library Associate: Graduate Library Public Services Associate.
   <!--- Courses included: Information Architecture; Grantwriting; Outcome-Based Evaluation; and Understanding Records and Archives --->
 
 `2006` __University of Minnesota (Minneapolis, MN.)__
-- PhD coursework ABD (All But Dissertation) status in the American Studies Department
-     - (passed: written prelims 9/8/05, orals 10/6/05).
+- PhD coursework ABD (All But Dissertation) status in the American Studies Department.
+     - passed: written prelims 9/8/05, orals 10/6/05.
   - Field of Concentration: Representations of Orientalism in American Mass Media, 1970s-Present.
   - Studied Hindi at Landour Language School in Mussoorie, India (2/06-4/06).
   - MacArthur Scholar (2002-2005).
@@ -37,9 +37,9 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 `1999` __State University of New York at Buffalo, NY.__
 - Bachelor of Arts in English Literature and American Studies.
 - Bachelor of Arts in Psychology.
-  - Graduated Magna Cum Laude and with Departmental Honors (in all three majors)
-  - Dean's List
-  - Chosen as the Outstanding Graduate in the American Studies Department, State University of New York at Buffalo, NY, 1999
+  - Graduated Magna Cum Laude and with Departmental Honors (in all three majors).
+  - Dean's List.
+  - Chosen as the Outstanding Graduate in the American Studies Department, State University of New York at Buffalo, NY, 1999.
   - Received a Dean’s medal, Chosen as the “Outstanding Graduate” in the American Studies Department, 1999.
   - Received ‘Disparate Major’ collegiate medal to recognize intellectual breadth in a course of study.
 
