@@ -102,9 +102,9 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 ### Articles
 
-`2020` Seale, M., & Mirza, R. (2020). The Coin of Love and Virtue: Academic Libraries and Value in a Global Pandemic. The Canadian Journal of Academic Librarianship 6, 6 (December), 1-30. https://cjal.ca/index.php/capal/article/view/34457
+`2020` Seale, M., & Mirza, R. (2020). The Coin of Love and Virtue: Academic Libraries and Value in a Global Pandemic. The Canadian Journal of Academic Librarianship 6, 6 (December), 1-30. (https://cjal.ca/index.php/capal/article/view/34457)
 
-`2019` Seale, M., & Mirza, R. (2019). <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/34"> Empty Presence: Library Labor, Prestige, and the MLS. </a>Library Trends 68(2), 252-268. https://www.muse.jhu.edu/article/746747.
+`2019` Seale, M., & Mirza, R. (2019). <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/34"> Empty Presence: Library Labor, Prestige, and the MLS. </a>Library Trends 68(2), 252-268. (https://www.muse.jhu.edu/article/746747).
 
 Mirza, R. & Seale, M. (2019). <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/34"> Speech and Silence: Race, Neoliberalism, and Intellectual Freedom.</a> Journal of Radical Librarianship. 5.
 
