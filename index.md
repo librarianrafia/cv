@@ -121,7 +121,7 @@ Mirza, R. & Seale, M. (2019). <a href="https://journal.radicallibrarianship.org/
 
 Note: <a href="https://litwinbooks.com/karen-nicholson-wins-seventh-annual-library-juice-paper-contest/">Honorable mention for Seventh (2019) Annual Library Juice Paper Contest.</a>
 
-Currier, B. D., Mirza, R., & Downing, J. (2017). They think all of this is new: Leveraging librarians’ project management skills for the digital humanities. College & Undergraduate Libraries, 1-20. <a href=http://dx.doi.org/10.1080/10691316.2017.1347541"> doi:10.1080/10691316.2017.1347541</a>
+Currier, B. D., Mirza, R., & Downing, J. (2017). They think all of this is new: Leveraging librarians’ project management skills for the digital humanities. College & Undergraduate Libraries, 1-20. <a href="http://dx.doi.org/10.1080/10691316.2017.1347541"> doi:10.1080/10691316.2017.1347541</a>
 
 *Note:* <a href="https://litwinbooks.com/karen-nicholson-wins-seventh-annual-library-juice-paper-contest/PREPRINT"> available here. </a>
 
