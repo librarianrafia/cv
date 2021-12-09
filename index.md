@@ -138,6 +138,68 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 ### Conference Proceedings
 Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), <a href="http://www.worldcat.org/oclc/868908524 Fiesta de Excelencia: Celebrating Excellence in Library Instruction : Thirty-ninth National LOEX Library Instruction Conference Proceedings"></a>, Fort Worth, Texas, May 5-7, 2011 (pp. 000-00). Ypsilanti, MI: LOEX Press.
 
+## Presentations & Workshops
+
+### Regional presentations & workshops
+
+`April 16, 2019` Collaborative Digital Project Management in Libraries
+- Texas Library Association 2019
+- Presenters: Holmes, R.,  Mirza, R., Williamson, P.O.
+
+`Nov. 3, 2017` How to Bring Digital Humanities in the Classroom
+- THATcamp Clear Lake
+- Slides
+- Invited Speaker for pre-conference: Mirza, R. 
+
+`May 19, 2017` After the Mandates & Manifestos, What Next? The Denton Declaration at 5
+- UNT’s Open Acccess Symposium 2017
+- Moderator/Organizer:: Keralis, S.
+- Presenters: Gonzales, M.,  Weimer, K.H., Rondelli,M., Mirza,R., Halbert, M.
+
+`Feb. 16, 2017` Introduction to MOU Workbook
+Wils’ February Membership Meeting
+Invited Speakers for lightening talk: Currier, B.,  Mirza, R. 
+
+`August 2015`Encouraging Digital Scholarship in Graduate Education
+Cross Timbers Library Collaborative (CTLC) Annual conference
+Panel Presenters: Barham, R., Keralis, S. D. C., Mirza, R.,Smith, S., Waugh, L.
+Click here for Abstract 
+
+April  10-12Libraries as Digital Humanities Partners on Campus
+TX Digital Humanities Annual Conference (2014, April 10-12)
+Poster Presenters: Gonzales, M. & Mirza, R.
+
+Wonder Women! The Untold Story of American Superheroines
+Screening of 2011 documentary, Followed by a panel discussion of experts on Wonder Women, comic books, and gender studies.
+Invited Speakers for Panel discussion: Brown, M.,  Mirza, R., Murphy, A.  (2014, March 20
+
+What Are the Digital Humanities and What Do They Want from Libraries?
+Cross Timbers Library Collaborative Annual conference (2013, August)
+Roundtable Speakers: Engel, K.,  Keralis S., Mirza, R., Murphy, J., Stvan, L.
+
+ALTMETRICS: What is it and how is it relevant to librarians?
+Cross Timbers Library Collaborative Scholarly Communications & Digital Curation Affinity Group Meeting (2013, December 12)
+Presenters: Iakovakis, C., Mirza, R.
+
+Re/searching on the Web
+THATCamp Texas (2012, March)
+Presenter: Mirza, R
+Click here for Abstract 
+
+Digital Age Copyright & Your Rights as an Author
+THATCamp Texas (2012, March)
+Presenter: Mirza, R.
+Click here for Abstract
+
+Social Networking at UTA Library
+Phoenix Staff Development Day, Texas Women’s University, Denton, TX (2011, May)
+Presenters: Bailey, J. & Mirza, R.
+Click here for Abstract.
+
+### National presentations & workshops
+
+### Virtual presentations & workshops
+
 
 ### Footer
 
