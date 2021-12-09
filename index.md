@@ -25,6 +25,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - MSI (Master of Science in Information).
   - Specialization in Library and Information Services (LIS).
   - University Library Associate: Graduate Library Public Services Associate.
+    - This appointment came with a scholarship for the School of Information at the University of Michigan, Ann Arbor.  
   <!--- Courses included: Information Architecture; Grantwriting; Outcome-Based Evaluation; and Understanding Records and Archives --->
 
 `2006` __University of Minnesota (Minneapolis, MN.)__
@@ -78,13 +79,6 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - Applause Award  sponsored by University of Texas at Arlington Libraries
 - Customer Commitment Award sponsored by University of Texas at Arlington Libraries
 - For providing excellent customer service to UT Arlington graduate students with Jody Bailey (EDGE Workshop on Word for Dissertation) (2012, October)-->
-
-#### Academic Awards and Scholarships
-
-`May 2013` Public Services Associate: University Library Associate sponsored by University of Michigan, Ann Arbor.
-  - This appointment came with a scholarship for the School of Information at the University of Michigan, Ann Arbor. 
- 
- `May 1999` Outstanding Graduate in the American Studies Department sponsored by State University of New York at Buffalo.
  
  ### Grant Support
 
@@ -106,37 +100,37 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `2019` Seale, M., & Mirza, R. (2019). <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/34"> Empty Presence: Library Labor, Prestige, and the MLS. </a>Library Trends 68(2), 252-268. (https://www.muse.jhu.edu/article/746747).
 
-Mirza, R. & Seale, M. (2019). <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/34"> Speech and Silence: Race, Neoliberalism, and Intellectual Freedom.</a> Journal of Radical Librarianship. 5.
+`2019` Mirza, R. & Seale, M. (2019). <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/34"> Speech and Silence: Race, Neoliberalism, and Intellectual Freedom.</a> Journal of Radical Librarianship. 5.
 
 Note: <a href="https://litwinbooks.com/karen-nicholson-wins-seventh-annual-library-juice-paper-contest/">Honorable mention for Seventh (2019) Annual Library Juice Paper Contest.</a>
 
-Currier, B. D., Mirza, R., & Downing, J. (2017). They think all of this is new: Leveraging librarians’ project management skills for the digital humanities. College & Undergraduate Libraries, 1-20. <a href="http://dx.doi.org/10.1080/10691316.2017.1347541"> doi:10.1080/10691316.2017.1347541</a>
+`2017` Currier, B. D., Mirza, R., & Downing, J. (2017). They think all of this is new: Leveraging librarians’ project management skills for the digital humanities. College & Undergraduate Libraries, 1-20. <a href="http://dx.doi.org/10.1080/10691316.2017.1347541"> doi:10.1080/10691316.2017.1347541</a>
 
 *Note:* <a href="https://litwinbooks.com/karen-nicholson-wins-seventh-annual-library-juice-paper-contest/PREPRINT"> available here. </a>
 
 *Note:* Referenced in Project management approaches in libraries section of the C&RLN 2018 trends overview:
-- Research Planning and Review Committee, A. (2018). 2018 top trends in academic libraries: A review of the trends and issues affecting academic libraries in higher education. College & Research Libraries News, 79(6), 286. <a href="https://crln.acrl.org/index.php/crlnews/article/view/17001">doi:https://doi.org/10.5860/crln.79.6.286</a>
+`2018` Research Planning and Review Committee, A. (2018). 2018 top trends in academic libraries: A review of the trends and issues affecting academic libraries in higher education. College & Research Libraries News, 79(6), 286. <a href="https://crln.acrl.org/index.php/crlnews/article/view/17001">doi:https://doi.org/10.5860/crln.79.6.286</a>
 
 
 ### Published Panels 
-Walker, S, Beilin, I. & Mirza, R. (2019). <a href="https://acrl.ala.org/IS/instruction-tools-resources-2/professional-development/research-agenda-for-library-instruction-and-information-literacy/2019-research-agenda-conversations/2019"> Research Agenda Conversations, ACRL Instruction Section Research & Scholarship website.</a>
+`2019` Walker, S, Beilin, I. & Mirza, R. (2019). <a href="https://acrl.ala.org/IS/instruction-tools-resources-2/professional-development/research-agenda-for-library-instruction-and-information-literacy/2019-research-agenda-conversations/2019"> Research Agenda Conversations, ACRL Instruction Section Research & Scholarship website.</a>
 
 ### Book Chapters
- Mirza, R. & Seale, M. (2017). Who Killed the World? White Masculinity and the Technocratic Library of the Future. In Schlesselman-Tarango, G. (ed.), <a href="https://litwinbooks.com/books/topographies-of-whiteness/">Topographies of Whiteness: Mapping Whiteness in Library and Information Science</a> (pp. 175-201) (Series on Critical Race Studies and Multiculturalism in LIS). Sacramento: Library Juice Press.
+`2017` Mirza, R. & Seale, M. (2017). Who Killed the World? White Masculinity and the Technocratic Library of the Future. In Schlesselman-Tarango, G. (ed.), <a href="https://litwinbooks.com/books/topographies-of-whiteness/">Topographies of Whiteness: Mapping Whiteness in Library and Information Science</a> (pp. 175-201) (Series on Critical Race Studies and Multiculturalism in LIS). Sacramento: Library Juice Press.
 
 *Note:* <a href="https://litwinbooks.com/david-hudson-wins-fifth-annual-library-juice-paper-contest/">Honorable mention for Fifth (2017) Annual Library Juice Paper Contest.</a>
 *Note:* <a href="http://mauraseale.org/wp-content/uploads/2016/03/Mirza-Seale-Technocratic-Library.pdf"> Text available here.</a>
 
-Ossom Williamson, P. & Mirza, R. (2015). <a href="https://books.google.com/books?hl=en&lr=&id=Pv3bBgAAQBAJ&oi=fnd&pg=PA211&dq=rafia+mirza+peace+williamson&ots=tgbSHn0sWd&sig=8141E4llWMu5WS6g-Zv2WYaI0tY#v=onepage&q=rafia%20mirza%20peace%20williamson&f=false"> Does Google Scholar help or hurt institutional repositories? </a>In C. Smallwood (Ed.), The complete guide to using Google in libraries: instruction, administration, and staff productivity (pp. 211-222). Lanham, MD: Rowman & Littlefiend.
+`2015` Ossom Williamson, P. & Mirza, R. (2015). <a href="https://books.google.com/books?hl=en&lr=&id=Pv3bBgAAQBAJ&oi=fnd&pg=PA211&dq=rafia+mirza+peace+williamson&ots=tgbSHn0sWd&sig=8141E4llWMu5WS6g-Zv2WYaI0tY#v=onepage&q=rafia%20mirza%20peace%20williamson&f=false"> Does Google Scholar help or hurt institutional repositories? </a>In C. Smallwood (Ed.), The complete guide to using Google in libraries: instruction, administration, and staff productivity (pp. 211-222). Lanham, MD: Rowman & Littlefiend.
 
-Mirza, R.  & Seale M. (2011) Watchers, Punks and Dashing Heroes: Representations of Male Librarians in Generation X Mass Culture.In M. Wallace, R. Tolley-Stokes, and E. S. Estep (Eds.), <a href="https://dc.etsu.edu/etsu_books/195/"> The Generation X Librarian: Essays on Leadership, Technology, Pop Culture, Social Responsibility and Professional Identity</a> (pp.135-146). Jefferson, N.C: McFarland & Co.
+`2011` Mirza, R.  & Seale M. (2011) Watchers, Punks and Dashing Heroes: Representations of Male Librarians in Generation X Mass Culture.In M. Wallace, R. Tolley-Stokes, and E. S. Estep (Eds.), <a href="https://dc.etsu.edu/etsu_books/195/"> The Generation X Librarian: Essays on Leadership, Technology, Pop Culture, Social Responsibility and Professional Identity</a> (pp.135-146). Jefferson, N.C: McFarland & Co.
 
 ### Workbooks
 Currier, B. D., Mirza, R., & Ossom Williamson, P. (2016). Memorandum of Understanding Workbook, Version 1.0, Memorandum of Understanding Collection. Arlington, TX: ResearchCommons. <a href="https://rc.library.uta.edu/uta-ir/handle/10106/25646"> https://rc.library.uta.edu/uta-ir/handle/10106/25646</a>
 DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.32855/utalibraries.2016.01</a>
 
 ### Conference Proceedings
-Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), <a href="http://www.worldcat.org/oclc/868908524 Fiesta de Excelencia: Celebrating Excellence in Library Instruction : Thirty-ninth National LOEX Library Instruction Conference Proceedings"></a>, Fort Worth, Texas, May 5-7, 2011 (pp. 000-00). Ypsilanti, MI: LOEX Press.
+`2013` Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), <a href="http://www.worldcat.org/oclc/868908524 Fiesta de Excelencia: Celebrating Excellence in Library Instruction : Thirty-ninth National LOEX Library Instruction Conference Proceedings"></a>, Fort Worth, Texas, May 5-7, 2011 (pp. 000-00). Ypsilanti, MI: LOEX Press.
 
 ## Presentations & Workshops
 
