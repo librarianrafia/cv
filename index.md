@@ -147,7 +147,7 @@ Currier, B. D., Mirza, R., & Ossom Williamson, P. (2016). Memorandum of Understa
 DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.32855/utalibraries.2016.01</a>
 
 ### Conference Proceedings
-Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), Fiesta de Excelencia: Celebrating Excellence in Library Instruction : Thirty-ninth National LOEX Library Instruction Conference Proceedings, Fort Worth, Texas, May 5-7, 2011 (pp. 000-00). Ypsilanti, MI: LOEX Press.
+Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), <a href="http://www.worldcat.org/oclc/868908524 Fiesta de Excelencia: Celebrating Excellence in Library Instruction : Thirty-ninth National LOEX Library Instruction Conference Proceedings"></a>, Fort Worth, Texas, May 5-7, 2011 (pp. 000-00). Ypsilanti, MI: LOEX Press.
 
 
 ### Footer
