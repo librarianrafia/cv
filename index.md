@@ -134,6 +134,98 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 ## Presentations & Workshops
 
+### National presentations & workshops
+National & International
+
+Expanding Communities of Practice Pedagogy Showcase
+Association for Computers and the Humanities (ACH) , PA. (2019, July 24-26)
+Speakers: Lisa Marie Rhody (Chair), Westerling K., Chapman R., Davis A., Fallon D., Gay A., Johnson D., Mirza R., Noonan S., Peaker A., Torres-Medina R., Karlin J., Smyth P., Zweibel S.
+Towards of a Praxis of Library Documentation
+Digital Library Federation Forum, NV. (2018, October 15-17)
+Speakers: Mirza, R., Currier, B.
+Valuing Labor When You’re “The Man” (kind of): Q&A
+Digital Library Federation Forum, NV. (2018, October 15-17)
+Speakers: Tillman, R., Rodriguez, S., Mirza, R. Arnold, H.
+Overcoming the Curse of Knowledge with Cross-disciplinary Collaboration: Applying User Experience Approaches to Digital Humanities
+Digital Frontiers, KS. (2018, October 5)
+Presenters: Terrill, M., McMichael, J., Mirza, R.
+Dudes Code, Ladies Coordinate: Gendered Labor in Digital Scholarship
+Digital Library Federation Forum 2017. October, 23, Pittsburgh, PA. 
+Presenters: Mirza, R. & Seale, M.
+Click here for slides
+Modifying a Project Memorandum of Understanding for Reuse
+Digital Frontiers 2017, September 21.
+Presenters: Mirza, R. & Downing, J., 2017.
+see poster for complete list of contributors.
+Memorandum of Understanding Workshop: Creating a Process for Successful Digital Collaboration.
+Digital Initiatives Symposium. April 27-28, 2016. San Diego, CA.
+Presenters (Pre-Conference Workshop): Currier, B.D., Mirza, R., & Ossom-Williams, P. (2016).
+Click Here for Abstract 
+Using Omeka as a Gateway to Digital Projects
+Digital Frontiers, Denton, TX. (2015, September 18)
+Presenters:Downing, J., Johnson, L., Reece, D.  & Mirza., R
+Click here for Abstract
+Developing Library Services for Digital Humanities & E-Science Support Using Qualitative Research
+Digital Frontiers (2014).
+Presenters:  Iakovakis, C. & Mirza, R.
+Click here for Abstract
+Plugged into User Behavior: Low-Budget, High-Impact Usability Testing of Library Subject Guides
+Association of College and Research Libraries (ACRL)  Annual Conference. (2013, April).
+Presenters:  Bailey, J, Herzog, A., Huddleston, B., Mirza, R., & Trkay, G.
+Click here for Abstract 
+Digital Learning: Teaching Information Literacy through Online Research Guides 
+Annual Innovations in Online Learning Conference, San Antonio, TX. (2012, May).
+Presentation  with  Trkay, G., Mirza, R., & Bailey, J.
+Click here for the Abstract.
+ LibGuides, Videos, and Screencasting: Technologies to Enhance and Promote Digital Wisdom in Information Literacy Instruction
+2011 LOEX Annual Conference, Fort Worth, TX.(2001, May)
+Presenters: Bailey, J. & Mirza, R.
+Click here for Abstract
+If a Picture Paints a Thousand Words, Imagine What a Video Can Do: Making Promotional, Advocacy, and Instructional Videos on a Shoestring
+Association of College and Research Libraries Annual Conference, Philadelphia, PA,(2011, March).
+Presenters (Day long Pre Conference Workshop):  Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
+Click here for Abstract
+Supercharged, Integrated, and On Demand
+Amigos Online Conference: Reference @ Your Library.(2010, August).
+Presenters:Bailey, J., Trkay, G., & Mirza, R.
+Click here for Abstract
+Rising (and Raising) Expectations: Expanding the Academic Cyberinfrastructure at Academic Libraries
+EDUCAUSE Southwest Regional Conference, Austin, TX. (2010,February).
+Presenters: Bailey, J., Frierson,F., &  Mirza, R.
+Click here for Abstract
+Project J: How Web 2.0 Should ALA Go?
+American Library Association Annual Conference, Washington, DC. (2010, June).
+Poster presenters:  Chen, J., Hoenke J.,  Jennings, S. ,  Krakow, A., Mirza. R. (ALA Emerging Leaders 2010, Group J)
+Click here for Abstract 
+ LibrarySTEW:Fortifying Staff and Services
+American Library Association Annual Conference, Washington, DC. (2010, June).
+Poster presenters: Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
+Click here for Abstract
+ Techno Scholar: The Librarian as Digital Professional 
+LIRT Summit (2009)
+Poster Presenter: Mirza, R.
+The Terror Within: Militia Terrorism in Arlington Road
+Mid-America American Studies Association (2005, April)
+Paper Presenter: Mirza, R.
+America Under Siege: The Terrors of Race, Religion and Culture in Hollywood’s The Siege
+National Popular Culture Association (2004, April).
+Paper Presentation: Mirza, R. .
+America Under Siege: The Terrors of Race, Religion and Culture in Hollywood’s The Siege
+Midwest Popular Culture Association Annual Conference  (2003,October).
+Paper Presentation: Mirza, R.
+Feminism and Islam
+American Men’s Studies Association 8th Annual Conference (2000, April).
+Presenter: Mirza, R.
+
+### Virtual presentations & workshops
+`2021` Mirza, R., & Seale, M., et al. (2021). Academic Libraries and the Irrational – A Discussion with CJAL Special Issue Authors and Editors (CJAL). May 25, 2021. Online.
+
+`2017` Mirza, R., & Ossom-Williamson, P. & Currier, B.D., (2017). The MOU — Your Blueprint for Managing Collaborative Projects. [Webinar]. The Library Leadership & Management Association (LLAMA). Oct 18, 2017. Online.
+
+`2017` Mirza, R. & Currier, B.D. (2017). Memorandum of Understanding: Process for Successful Digital Collaboration. [Lightning Talk]. Annual Meeting, WiLS. February 16, 2017. Online.
+
+`2016` Mirza, R., & Ossom-Williamson, P. & Currier, B.D., (2016). Memorandum of Understanding Workshop: Process for Successful Digital Collaboration. [Webinar]. The Digital Curation Interest Group of the Association of College and Research Libraries. May 23, 2016. Online.
+
 ### Regional presentations & workshops
 
 `2019` Collaborative Digital Project Management in Libraries
@@ -190,10 +282,92 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Presenters: Bailey, J. & Mirza, R.
 - [Click here for Abstract.](https://rafiamirzasite.wordpress.com/2016/03/13/social-networking-at-uta-library/)
 
-### National presentations & workshops
-
-### Virtual presentations & workshops
-
+<!---
+### Local presentations & workshops
+HIST 4388: Guest speaker on Digital Humanities in the Library
+Additional Speaker: Herzog, A.
+Click here for slides  
+Digital Humanities and Digital Scholarship in Undergraduate Education
+Primary Speakers: Eshleman, K.  & Churchill, S.
+Additional Speakers:  Dellinger , J. T. & Mirza, R.
+Click here for Abstract
+Click here for Student newspaper coverage 
+Introduction to databases and metadata 
+English Department. University of Texas at Arlington, Arlington, TX.(2016, February)
+link to libguide
+Create a Basic Website in WordPress
+EDGE workshop, Office of Graduate Studies at UT Arlington
+Repeat once per long semester.  (2016, Spring. 2015, Fall)
+Introduction To Searching The Web
+English Department. University of Texas at Arlington, Arlington, TX.(2016, Spring)
+link to libguide
+Scholarly Communications Fall 2015 Affinity Group Meeting  
+ Created the  Storify of the tweet stream
+Planning committee : Currier, B., Holmes, R.,  & Mirza, R. (2015, December).
+My Digital Identity.
+College of Liberal Arts Graduate School Orientation.  University of Texas at Arlington.
+Presenters: Currier, B.D. & Mirza, R. (2015, August 21).
+Digital Humanities  
+LINK LAB
+Digital Humanities for Historians: An introduction
+Presented at History Department brown bag series (2015, Fall)
+Digital Humanities & UTA libraries
+Presentation for the Dean of the College of Liberal Arts (2015, Fall)
+Introduction to Omeka
+Architecture Department. University of Texas at Arlington. (2015, September)
+Introduction to American Superheroines
+English Department Eng 3370 
+The Golden Age
+The Silver Age
+The Bronze Age
+The Modern Age, Part 1
+The Modern Age Part 2
+Presenters:  Mirza, R., Noell, S. (2014, April 9 -2014, April 30)
+Open Access: Open Access Looking for ways to increase the reach and impact of your research?
+Nursing Department (2014, November)
+Presenters: Mirza,R., Wills. F.
+Social Media & Online Presence
+College of Liberal Arts Graduate School Orientation. University of Texas at Arlington.
+Presenter: Mirza, R. (2014, August ).
+Copyright and Online Learning Environments
+Nursing Department (2014, November)
+Presenters: Mirza, R., Pyburn, L., Williamson, P. O. (2014, April)
+Introduction to Open Access
+English Graduate Student Associations
+Presenters: Iakovakis,C., Mirza, R. Witkowski , K.
+ Copyright and Online Learning Environments
+Nursing Department (2014, February)
+Presenters: Mirza, R., Murdock. J., Pyburn, L.
+Word for Thesis and Dissertation
+EDGE workshop, Office of Graduate Studies at UT Arlington Frequency: twice per long semester. (2010, Fall -2012, Fall) 
+Instructors: Bailey, J., Mirza, R.
+Click here for description 
+Promoting Critical Thinking in Students
+Facilitated four meetings of this 2010-2011 Teaching Circle with Bailey, J.
+Click here for Description
+LibrarySTEW (Summer Technology Exploration Workshops)
+Internal Library workshops at UT Arlington (2009-2011)
+Coordinators and facilitators: Bailey, J., Frierson, E., Mirza, R.
+Sample Workshops:
+You, Online.
+Online Social Personas
+TED Talk Tuesdays 
+Internal Library workshops at UT Arlington (2009-2010)
+Coordinators and facilitators: Frierson, E., Mirza, R.
+Click here for Description
+ Techno Scholar Workshops
+Fall 2008- Fall 2012
+Frequency: varied each  semester
+Description: Participate in emerging technologies instruction and have taught the following workshops based upon demand:
+Word for Thesis and Dissertation
+Tech Tools
+Twitter 101/Beyond Banality: Academic Uses for Twitte
+Researching on the Web
+Fair use and Copyright
+Advanced Google Search
+Video editing
+Social Media
+Not a Fear Factor: Demystifying the Search for Scholarly Impact ---> 
 
 ### Footer
 
