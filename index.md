@@ -393,143 +393,108 @@ Not a Fear Factor: Demystifying the Search for Scholarly Impact --->
 
 ## SMU
 
-`2019-Current` Librarian III (July 2019- Current)
-`2017-2019` Librarian II (August 2017- July 2019)
+**`2019-Current` Librarian III (July 2019- Current)
+`2017-2019` Librarian II (August 2017- July 2019)**
 
 - Title: Humanities Research Librarian
-`2017-2021` Liaison, Instruction and Collection responsibilities
+`2017-2021` Liaison, Instruction and Collection responsibilities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Current)
 `2022-Current` Digital Scholarship responsibilities 
 
-History (August 2017-Dec. 2021)
-Classical Studies (August 2017-Dec. 2021)
-Philosophy (August 2017-Dec. 2021)
-Religious Studies (August 2017-April 2020)
-World Languages and Literatures (August 2017-Dec. 2021)
-International Film Minor (January 2018-Dec. 2021)
-Honors Program (August 2017-January 2018)
-Digital Humanities (Jan. 2020-Current)
-
-`2018` Participant in initial cohort (2018) of NEH grant funded Digital Humanities Research Institute (DHRI)at CUNY to train in becoming local Community Leader
-- Led committee to put on DHRI@SMU (2018-current)
+`2018` Participant in initial cohort (2018) of NEH grant funded [Digital Humanities Research Institute (DHRI)at CUNY](https://www.dhinstitutes.org/) to train in becoming local Community Leader
+- Led committee to put on [DHRI@SMU (2018-current)](http://www.smu.edu/dhri)
 
 ## University of Texas at Arlington
 
-- Associate Librarian (October 2012- July 2017)
+- **Associate Librarian (October 2012- July 2017)**
 - Title: Digital Humanities Librarian
 - Assistant Librarian (August 2008- September 2012)
 - Title:Reference/Instruction Librarian
 - Reference & Instruction
 
-Women’s and Gender Studies Liaison (October 2012- September 2012)
-Worked with Department to create exhibits commemorating Women’s History Month in March of 2014, 2015. 
-Subject Specialist to Departments in College of Liberal Arts as needed History, Communication, Disability Studies, Communication.
-October 2013- August 2014
-Instrumental in the formation of the newly created Scholarly Communication Department.
-Conceived of and co-led Scholarly Communication summer Workshops series, I was heavily involved with the planning and execution of the following workshops:
-Framing Scholarly Communication
-Open Access
- ResearchCommons(Institutional Repository)
-Copyright
-Digital Humanities
-In August 2014, the Scholarly Communications Department was dissolved, and I was placed in the Outreach & Scholarship department.
-Functioned as the interim resource on Scholarly Communication until the Director of Scholarly Communications was hired in May 2015 and the Scholarly Communication Division was reformed.
-Initiated UT Arlington joining COAPI as affiliate member in 2014
-Offered  workshops on Scholarly Communication topics on request for faculty and students
-Scholarly Communication 
-Copyright
-Digital Humanities 
-For internal training , conceived of and co-led Scholarly Communication summer Workshops series for library staff on the following topics.
-Framing Scholarly Communication
- Open Access
-ResearchCommons
-Copyright
-Digital Humanities
-Emerging Technologies/ Digital Pedagogy
+- Women’s and Gender Studies Liaison (October 2012- September 2012)
+- Worked with Department to create exhibits commemorating Women’s History Month in March of 2014, 2015. 
+- Subject Specialist to Departments in College of Liberal Arts as needed History, Communication, Disability Studies, Communication.
 
-Collaborated with Office of Graduate Studies at UT Arlington to offer series of workshop for graduate students 
-Creating an Online Academic Presence 
-Creating an Online Exhibit (using Omeka.net)
-Creating an website using WordPress
-Service
+`October 2013- August 2014`
+- Instrumental in the formation of the newly created Scholarly Communication Department.
+- Conceived of and co-led Scholarly Communication summer Workshops series, I was heavily involved with the planning and execution of the following workshops: Framing Scholarly Communication, Open Access, ResearchCommons(Institutional Repository), Copyright, Digital Humanities
 
-Served on search committee for Director of Scholarly Communication
-Fall 2014 (unsuccessful)
-Fall 2014 (successful)
-On Committee for creating the MavVets project
-Worked on white paper for original internal grant
-Member, Entertainment Committee (2012–2013)
-On the following internal library committees:
+-  August 2014, the Scholarly Communications Department was dissolved, and I was placed in the Outreach & Scholarship department.
+- nctioned as the interim resource on Scholarly Communication until the Director of Scholarly Communications was hired in May 2015 and the Scholarly Communication Division was reformed.
+
+- Initiated UT Arlington joining COAPI as affiliate member in 2014
+- Offered  workshops on Scholarly Communication topics on request for faculty and students: Scholarly Communication, Copyright, Digital Humanities 
+- For internal training , conceived of and co-led Scholarly Communication summer Workshops series for library staff on the following topics: Framing Scholarly Communication, Open Access, ResearchCommons, Copyright, Digital Humanities, Emerging Technologies/ Digital Pedagogy
+
+-Collaborated with Office of Graduate Studies at UT Arlington to offer series of workshop for graduate students: Creating an Online Academic Presence, Creating an Online Exhibit (using Omeka.net), Creating an website using WordPress
+
+<!--- Service
+- Served on search committee for Director of Scholarly Communication: Fall 2014 (unsuccessful), Fall 2014 (successful)
+- On Committee for creating the MavVets project
+- Member, Entertainment Committee (2012–2013)
+- On the following internal library committees:
 A8: (Lead)Develop an education program for faculty and students on new scholarly communication climate.
 S2: (Lead) Educate on and advocate for intellectual property practices that encourage creation, creativity and remix
 S6:  (Member) Implement Green Open Access model
 S26: (Member) Digital Humanities Projects
-S29 : (Member) Publishing Open Access Journals
-Click here for more information 
-Assistant Librarian, University of Texas at Arlington
+S29 : (Member) Publishing Open Access Journals ---> 
 
-Reference and Instruction Liaison (August 2008 -September 2012)
-Reference & Instruction
+- **Assistant Librarian, University of Texas at Arlington**
+-Reference and Instruction Liaison (August 2008 -September 2012)
+- Reference & Instruction
 
-Served as Librarian for English, History and Communication; responsible for liaising with faculty, departmental outreach and student instruction
-Compose and keep current all subject, course, and topic guides in my disciplines; collaborate with other librarians on cross-disciplinary guides.
-Develop teaching materials such as handouts, course outlines, instructional videos, and other instructional aids in both print and digital formats.
-Collaborate with faculty to develop new instruction tailored to specific needs (e.g., “Acknowledging Sources and Avoiding Plagiarism”).
- Created teaching materials such as: curricula, course outlines, handouts, instructional videos, and other instructional aids in both print and digital formats
-Created Chicago citations style handout for History Students 
-Taught workshops on library resources (catalogues and databases) and bibliographic management tools.
-Provide information literacy instruction (in classes or one-on-one) to upper-division undergraduate and graduate students in assigned departments, collaborating with faculty to enhance the learning experience of students.
-Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
-Taught workshops on library resources (catalogues and databases) and bibliographic management tools
-Emerging Technologies/ Digital Pedagogy
+- Served as Librarian for English, History and Communication; responsible for liaising with faculty, departmental outreach and student instruction
+- Compose and keep current all subject, course, and topic guides in my disciplines; collaborate with other librarians on cross-disciplinary guides.
+- Develop teaching materials such as handouts, course outlines, instructional videos, and other instructional aids in both print and digital formats.
+- Collaborate with faculty to develop new instruction tailored to specific needs (e.g., “Acknowledging Sources and Avoiding Plagiarism”).
+- Created teaching materials such as: curricula, course outlines, handouts, instructional videos, and other instructional aids in both print and digital formats
+- Created Chicago citations style handout for History Students 
+- Taught workshops on library resources (catalogues and databases) and bibliographic management tools.
+- Provide information literacy instruction (in classes or one-on-one) to upper-division undergraduate and graduate students in assigned departments, collaborating with faculty to enhance the learning experience of students.
+- Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
+- Taught workshops on library resources (catalogues and databases) and bibliographic management tools
+- Emerging Technologies/ Digital Pedagogy
 
-Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
-Taught workshops on emerging technologies internally (Library STEW) and externally (TechnoScholar). Created guide for Techno Scholar workshops
-Continuing Education
+- Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
+- Taught workshops on emerging technologies internally (Library STEW) and externally (TechnoScholar). Created guide for Techno Scholar workshops
+- Created Copyright guide for in class instruction
 
-Completed the Center for Intellectual Property Copyright Leadership and Management Certificate (University of Maryland University College).
-Created Copyright guide for in class instruction
-Outreach
+<!--- 
+- **Outreach**
+- Market library resources and facilities to UT Arlington faculty, staff, and students through presentations and print and digital resources.
+- Volunteered for special events such as Welcome Week to promote library resources and services.
+- Implemented and helped maintain library Facebook page , Twitter account ) and Pinterest  until turned over to newly created Library Marketing department in Fall 2012.
+- Helped conceive and plan Librarian vs. Stereotype outreach video series 
+- Bibliographic Management ---> 
 
-Market library resources and facilities to UT Arlington faculty, staff, and students through presentations and print and digital resources.
-Volunteered for special events such as Welcome Week to promote library resources and services.
-Implemented and helped maintain library Facebook page , Twitter account ) and Pinterest  until turned over to newly created Library Marketing department in Fall 2012.
-Helped conceive and plan Librarian vs. Stereotype outreach video series 
-Bibliographic Management
+- Worked closely with Information Resources librarians to develop and assess the collection. Worked closely with Ava Nell Harris (IR counterpart) to add video games (which we did not previously collect) and expand the library’s collection of Graphic Novels to the library collection in order to support research being done by students in the English Department.
+- Created guides to support this research: Graphic Novels Subject Guide & Video Games Subject Guide 
 
-Worked closely with Information Resources librarians to develop and assess the collection. Worked closely with Ava Nell Harris (IR counterpart) to add video games (which we did not previously collect) and expand the library’s collection of Graphic Novels to the library collection in order to support research being done by students in the English Department.
-Created guides to support this research: Graphic Novels Subject Guide   & Video Games Subject Guide 
-Service
+### Public Services University Library Associate, University of Michigan, Ann Arbor
 
-Serves on library, university, and professional committees
-Click here for full list 
-Public Services University Library Associate, University of Michigan, Ann Arbor
+- **University Library Associate, Harlan Hatcher Graduate Library Public Services Associate**
+- Two year fellowship in Reference and Instruction (2006, September – 2008, June)
+- Helped coordinate Library Reception at the School of Information to introduce new students to current library employees
+- Helped launch the SEGSI program (Skills Enrichment at the Grad. for School of Information)
+- Launched SEGSI blog and SEGSI wiki to support workshops
+- Aided subject selector in evaluating current status of Screen Arts and Culture collection. Created spreadsheet showing current holdings and gaps in periodical collection
+- Conducted and assisted with library orientation sessions for incoming School of Information graduate students
+- Provided technology reference help at the Knowledge Navigation Center, and updated the library’s online FAQ for EndNote
+- Provided reference help through Ask Us and Ask Us Now, the Library’s email and chat reference services.
+- Taught workshops on bibliographic management software (Refworks and EndNote), searching the library catalogue, databases and Dreamweaver
 
-University Library Associate, Harlan Hatcher Graduate Library Public Services Associate
-Two year fellowship in Reference and Instruction (2006, September – 2008, June)
-Helped coordinate Library Reception at the School of Information to introduce new students to current library employees
-Helped launch the SEGSI program (Skills Enrichment at the Grad. for School of Information)
-Launched SEGSI blog and SEGSI wiki to support workshops
-Aided subject selector in evaluating current status of Screen Arts and Culture collection. Created spreadsheet showing current holdings and gaps in periodical collection
-Conducted and assisted with library orientation sessions for incoming School of Information graduate students
-Provided technology reference help at the Knowledge Navigation Center, and updated the library’s online FAQ for EndNote
-Provided reference help through Ask Us and Ask Us Now, the Library’s email and chat reference services.
-Taught workshops on bibliographic management software (Refworks and EndNote), searching the library catalogue, databases and Dreamweaver
-University of Michigan, Donald Hall Collection Summer 2007 Internship
-Worked with media librarian on seeing how documentaries/films are evaluated and purchased.
-Analyzed ephemera and supporting materials donated to the Donald Hall Collection, helped create a finding aid.
-Created MARC records for collection (copy cataloguing)
-The University Of Minnesota, Minneapolis 
+- **University of Michigan, Donald Hall Collection Summer 2007 Internship**
+- Worked with media librarian on seeing how documentaries/films are evaluated and purchased.
+- Analyzed ephemera and supporting materials donated to the Donald Hall Collection, helped create a finding aid.
+- Created MARC records for collection (copy cataloguing)
 
-Graduate mentor
-Graduate mentor for the University Of Minnesota – Morehouse College/Atlanta System Undergraduate Honors Program in Global Issues summer seminar (Summer 2005).
-Helped students from historically unrepresented groups undergo an intensive academic experience attending a seminar class, and researching and writing an academic paper
-Graduate Teaching Assistant, American Studies Department
-University of Minnesota (2002-2006)
-Teaching Assistant for four semesters. Responsible for two sections per class, led class discussion, graded papers and tests, met individually with students
-AMST 3252: American Popular Culture and Politics: 1900 to 1940 (Fall 2003)
-AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2004)
-AMST 1001: American Popular Arts and Public Life, 1900-1940 (Fall 2004)
-AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2005)
+### The University Of Minnesota, Minneapolis 
+- **Graduate mentor**
+- Graduate mentor for the University Of Minnesota – Morehouse College/Atlanta System Undergraduate Honors Program in Global Issues summer seminar (Summer 2005).
+- Helped students from historically unrepresented groups undergo an intensive academic experience attending a seminar class, and researching and writing an academic paper
+- Graduate Teaching Assistant, American Studies Department
+- University of Minnesota (2002-2006)
+- Teaching Assistant for four semesters. Responsible for two sections per class, led class discussion, graded papers and tests, met individually with students: AMST 3252: American Popular Culture and Politics: 1900 to 1940 (Fall 2003), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2004), AMST 1001: American Popular Arts and Public Life, 1900-1940 (Fall 2004), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2005)
 
 ### Footer
 
