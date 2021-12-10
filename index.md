@@ -272,9 +272,9 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Presenter: Mirza, R.
 
 ### Virtual presentations & workshops
-`2021` Mirza, R., & Seale, M., et al. (2021). Academic Libraries and the Irrational – A Discussion with CJAL Special Issue Authors and Editors (CJAL). May 25, 2021. Online.
+`2021` Mirza, R., & Seale, M., et al. (2021). [Academic Libraries and the Irrational – A Discussion with CJAL Special Issue Authors and Editors (CJAL).](https://cjal.ca/index.php/capal/issue/view/2290) May 25, 2021. [Online.](https://docs.google.com/document/d/1Ix2jKo7nPkn4iuuB7Llm6AUgJhqlHXIbA34JZuiEPmw/edit?usp=sharing)
 
-`2017` Mirza, R., & Ossom-Williamson, P. & Currier, B.D., (2017). The MOU — Your Blueprint for Managing Collaborative Projects. [Webinar]. The Library Leadership & Management Association (LLAMA). Oct 18, 2017. Online.
+`2017` Mirza, R., & Ossom-Williamson, P. & Currier, B.D., (2017). The MOU — Your Blueprint for Managing Collaborative Projects. [Webinar]. The Library Leadership & Management Association (LLAMA). Oct 18, 2017. [Online.](https://www.ala.org/llama/llama-webinar-mou-your-blueprint-managing-collaborative-projects)
 
 `2017` Mirza, R. & Currier, B.D. (2017). Memorandum of Understanding: Process for Successful Digital Collaboration. [Lightning Talk]. Annual Meeting, WiLS. February 16, 2017. Online.
 
