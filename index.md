@@ -118,8 +118,8 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `2013` Co-applicant with Reece, D. the  UT Arlington Libraries application for the Muslim Journeys grant. 
 
-  - We were <a href="http://www.neh.gov/files/press-release/mj-bookshelf-winners.pdf">one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH.</a>
-  - Supported the grant by helping with displays, creating a web page to highlight the materials.
+- We were <a href="http://www.neh.gov/files/press-release/mj-bookshelf-winners.pdf">one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH.</a>
+- Supported the grant by helping with displays, creating a web page to highlight the materials.
 
 - On Committee for creating the <a href="http://library.uta.edu/mavvets/">MavVets project</a>
     - Worked on white paper for original internal grant.
