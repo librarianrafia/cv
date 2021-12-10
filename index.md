@@ -420,9 +420,8 @@ Not a Fear Factor: Demystifying the Search for Scholarly Impact --->
 
 - Initiated UT Arlington joining COAPI as affiliate member in 2014
 - Offered  workshops on Scholarly Communication topics on request for faculty and students: Scholarly Communication, Copyright, Digital Humanities 
-- For internal training , conceived of and co-led Scholarly Communication summer Workshops series for library staff on the following topics: Framing Scholarly Communication, Open Access, ResearchCommons, Copyright, Digital Humanities, Emerging Technologies/ Digital Pedagogy
-
--Collaborated with Office of Graduate Studies at UT Arlington to offer series of workshop for graduate students: 
+- For internal training , conceived of and co-led Scholarly Communication summer Workshops series for library staff on the following topics: Framing Scholarly Communication, Open Access, ResearchCommons, Copyright, Digital Humanities, Emerging Technologies/ Digital Pedagogy.
+- Collaborated with Office of Graduate Studies at UT Arlington to offer series of workshop for graduate students: 
   - Creating an Online Academic Presence, Creating an Online Exhibit (using Omeka.net), Creating an website using WordPress.
 
 <!--- Service
@@ -448,7 +447,7 @@ S29 : (Member) Publishing Open Access Journals --->
 - Develop teaching materials such as handouts, course outlines, instructional videos, and other instructional aids in both print and digital formats.
 - Collaborate with faculty to develop new instruction tailored to specific needs (e.g., “Acknowledging Sources and Avoiding Plagiarism”).
 - Created teaching materials such as: curricula, course outlines, handouts, instructional videos, and other instructional aids in both print and digital formats
-- Created Chicago citations style handout for History Students 
+- Created Chicago citations style handout for History Students.
 - Taught workshops on library resources (catalogues and databases) and bibliographic management tools.
 - Provide information literacy instruction (in classes or one-on-one) to upper-division undergraduate and graduate students in assigned departments, collaborating with faculty to enhance the learning experience of students.
 - Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
