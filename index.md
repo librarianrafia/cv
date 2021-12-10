@@ -373,7 +373,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
     - Functioned as the interim resource on Scholarly Communication until the Director of Scholarly Communications was hired in May 2015 and the Scholarly Communication Division was reformed.
 
 - Initiated UT Arlington joining COAPI as affiliate member in 2014
-- Offered  workshops on Scholarly Communication topics on request for faculty and students: Scholarly Communication, Copyright, Digital Humanities 
+- Offered workshops on Scholarly Communication topics on request for faculty and students: Scholarly Communication, Copyright, Digital Humanities 
 - For internal training , conceived of and co-led Scholarly Communication summer Workshops series for library staff on the following topics: Framing Scholarly Communication, Open Access, ResearchCommons, Copyright, Digital Humanities, Emerging Technologies/ Digital Pedagogy.
 - Collaborated with Office of Graduate Studies at UT Arlington to offer series of workshop for graduate students: 
   - Creating an Online Academic Presence, Creating an Online Exhibit (using Omeka.net), Creating an website using WordPress.
@@ -420,7 +420,6 @@ Internal Recognition  at University of Texas at Arlington
 - For providing excellent customer service to UT Arlington graduate students with Jody Bailey (EDGE Workshop on Word for Dissertation) (2012, October)
 
 Internal Service
- 
 Committees at University of Texas at Arlington (2008-2017)
 Chair of Scholarly Communications website committee (2014-2015)
 Member of reformed SC website committee (2015 September -2017 July)
@@ -439,7 +438,8 @@ English Professor
 Spring 2016 (successful)
 Projects
 
-Worked with Scholarly Communication  Director to create a visualization of signatories to the Cost of Knowledge ( 2015, July)
+Worked with Scholarly Communication  Director to create a visualization of signatories to the Cost of Knowledge ( 2015, July) http://digitalhumanitiesmiscellania.blogspot.com/2015/07/note-on-data-in-visualization.html  https://twitter.com/costofknowledge/status/618190320681906176
+
 Exhibit Curation
 
 Worked with Women and Gender Studies department to create exhibits commemorating Women’s History Month in March of 2014, 2015.
@@ -447,6 +447,7 @@ TEXAS “IDENTITY” POLITICS: 1900 – PRESENT
 Exhibit ran in UT Arlington Library Special Collection from June 2012-September 2012.
 Curator: Rafia Mirza
 Design, Preparation, Installation: Erin O’Malley
+https://www.flickr.com/photos/erin_exhibitdesigner/albums/72157632011299944
 
 ### Local presentations & workshops
 
