@@ -29,9 +29,9 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `2006` __University of Minnesota (Minneapolis, MN.)__
 - PhD coursework ABD (All But Dissertation) status in the American Studies Department.
-     - passed: written prelims 9/8/05, orals 10/6/05.
+     - Passed: written prelims 9/8/2005, orals 10/6/2005.
   - Field of Concentration: Representations of Orientalism in American Mass Media, 1970s-Present.
-  - Studied Hindi at Landour Language School in Mussoorie, India (2/06-4/06).
+  - Studied Hindi at Landour Language School in Mussoorie, India (2/2006-4/2006).
   - MacArthur Scholar (2002-2005).
 
 `1999` __State University of New York at Buffalo, NY.__
@@ -51,10 +51,10 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 ### Affiliations & Service
 `Spring 2021` Reviewer, NEH’s Office of Digital Humanities, Digital Humanities Advancement Grants.
 
-`2018` DLF
+`2018` Digital Library Federation (DLF)
 - Member of Forum Program Committee & Inclusivity Subcommittee 
 
-`2016-2017` Digital Frontiers
+`2016-2017` Digital Frontiers (DF)
 - Member of program committee for Digital Frontiers
 
 `2016-2018` Cross Timbers Library Collaborative (CTLC)
@@ -68,16 +68,16 @@ Her research focuses on digital humanities, library pedagogy, project planning a
   - Texas Digital Humanities Conference, April 9–11, 2015
     - Member, Program and Planning Committee, July 2014–April 2015
 
-`2007-2014` American Library Association member
+`2007-2014` American Library Association (ALA) member
 - ALA Emerging Leader, 2010
 
-`2007-2012` Association of College and Research Libraries Division member
+`2007-2012` Association of College and Research Libraries (ACRL) Division member
 - ACRL University Libraries Section member (2009 -2012)
 - ACRL Instruction Section member (2009 -2012)
 - ACRL/ULS Committee on the Future of University Libraries member (2011-2012)
-- <a href="http://www.acrl.ala.org/acrlinsider/archives/4101">ACRL member of the week October 24th, 2011.</a>
+- ACRL member of the week October 24th, 2011.
 
-`2011` LOEX
+`2011` Library Orientation Exchange (LOEX)
 - Volunteer service for LOEX conference.
 
 `2007-2008` Michigan Library Association
@@ -85,8 +85,8 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - Events Coordinator (2007-2008)
 
 `2000-2002` Smithsonian Museum of American History, Washington, D.C.
-- Docent (volunteer)
-- Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions
+- Volunteer Docent
+- Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions.
 
 ## Continuing Education
 
@@ -104,10 +104,9 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 `2001`  Cutting the Red Tape: Finding and Using E-Government Tools and Resources 
 - <a href="https://www.alastore.ala.org/detail.aspx?ID=3297"> Completed ALA e course</a>
 
-`2009` __University of Maryland University College__
+`2009` University of Maryland University College
 - <a href="http://liblicense.crl.edu/ListArchives/0808/msg00129.html">Center for Intellectual Property Copyright Leadership and Management Certificate</a>
 <!---Certificate required completion of following Online modules, IPNA 801: Copright Law and Integrated Access, IPNA 802: Copyright Law and Integrated Access, IPNA 803: Orphan Works Workshop, IPNA 804: Licensing Issues, IPNA 805: Copyright Policy Development, IPNA 806: College Cheating Trends, IPNA 807: Fair Use and Balance in Copyright---> 
-
 
 ## Publications
 
@@ -260,7 +259,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 `2017` Mirza, R., & Ossom-Williamson, P. & Currier, B.D., (2017). The MOU — Your Blueprint for Managing Collaborative Projects. [Webinar]. The Library Leadership & Management Association (LLAMA). Oct 18, 2017. [Online.](https://www.ala.org/llama/llama-webinar-mou-your-blueprint-managing-collaborative-projects)
 
-`2017` Mirza, R. & Currier, B.D. (2017). Memorandum of Understanding: Process for Successful Digital Collaboration. [Lightning Talk]. Annual Meeting, WiLS. February 16, 2017. Online.
+`2017` Mirza, R. & Currier, B.D. (2017). Memorandum of Understanding: Process for Successful Digital Collaboration. [Lightning Talk]. Annual Meeting, WiLs'.  February 16, 2017. Online.
 
 `2016` Mirza, R., & Ossom-Williamson, P. & Currier, B.D., (2016). Memorandum of Understanding Workshop: Process for Successful Digital Collaboration. [Webinar]. The Digital Curation Interest Group of the Association of College and Research Libraries. May 23, 2016. Online.
 
