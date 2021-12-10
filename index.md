@@ -320,16 +320,19 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Presenters: Bailey, J. & Mirza, R.
 - [Click here for Abstract.](https://rafiamirzasite.wordpress.com/2016/03/13/social-networking-at-uta-library/)
 
-# Professional Experience
+## Professional Experience
 
-## SMU
+### SMU
 
-- **`2019-Current` Librarian III (July 2019- Current)**
-- **`2017-2019` Librarian II (August 2017- July 2019)**
+**`2019-Current` Librarian III (July 2019- Current)**
+
+**`2017-2019` Librarian II (August 2017- July 2019)**
 
 - Title: Humanities Research Librarian
-- `2017-2021` Liaison, Instruction and Collection responsibilities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Dec. 2021),
-- `2022-Current` Digital Scholarship responsibilities 
+
+`2017-2021` Liaison, Instruction and Collection responsibilities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Dec. 2021)
+
+`2022-Current` Digital Scholarship responsibilities 
 
 `2018` Participant in initial cohort (2018) of NEH grant funded [Digital Humanities Research Institute (DHRI)at CUNY](https://www.dhinstitutes.org/) to train in becoming local Community Leader
 - Led committee to put on [DHRI@SMU (2018-current)](http://www.smu.edu/dhri)
@@ -341,7 +344,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Served on Search Committees (2019, 2021)
 
 
-## University of Texas at Arlington
+### University of Texas at Arlington
 
  `2008-2017` Librarian 
  - **Associate Librarian (October 2012- July 2017)**
