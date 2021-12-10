@@ -336,12 +336,12 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 `2018` Participant in initial cohort (2018) of NEH grant funded [Digital Humanities Research Institute (DHRI)at CUNY](https://www.dhinstitutes.org/) to train in becoming local Community Leader
 - Led committee to put on [DHRI@SMU (2018-current)](http://www.smu.edu/dhri)
 
-- Committees at SMU (2017-Present)
+*Committees at SMU (2017-Present)*
+- Serves on Online Learning Committee (Jan. 2022- Present)
 - Led committee on Workshops (Spring 2021-Fall 2021)
 - Leads committee on the Digital Humanities Research Institute (2018-Present)
 - Served on library committee on Research and Scholarly Communication (2017-2020)
 - Served on Search Committees (2019, 2021)
-
 
 ### University of Texas at Arlington
 
@@ -366,9 +366,8 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 **Assistant Librarian, University of Texas at Arlington**
 
-`2008-2012` **Reference and Instruction Liaison** 
+`August 2008- September 2012` **Reference and Instruction Liaison** 
 
-- Reference & Instruction (August 2008 -September 2012)
 - Served as Librarian for English, History and Communication; responsible for liaising with faculty, departmental outreach and student instruction
   - Subject Specialist to Departments in College of Liberal Arts as needed for Disability Studies and Women’s and Gender Studies Liaison (October 2012- September 2012)
   - Worked with Women's Studies Department to create exhibits commemorating Women’s History Month in March of 2014, 2015. 
@@ -379,21 +378,22 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Created Chicago citations style handout for History Students.
 - Taught workshops on library resources (catalogues and databases) and bibliographic management tools.
 - Provide information literacy instruction (in classes or one-on-one) to upper-division undergraduate and graduate students in assigned departments, collaborating with faculty to enhance the learning experience of students.
-- Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
-- Taught workshops on library resources (catalogues and databases) and bibliographic management tools
+- Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction.
+- Taught workshops on library resources (catalogues and databases) and bibliographic management tools.
 - Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction: 
-- Taught workshops on emerging technologies internally (Library STEW) and externally (TechnoScholar). Created guide for Techno Scholar workshops
-- Created Copyright guide for in class instruction
+  - Taught workshops on emerging technologies internally (Library STEW) and externally (TechnoScholar). Created guide for Techno Scholar workshops.
+  - Created Copyright guide for in class instruction.
 - Worked closely with Information Resources librarians to develop and assess the collection. Worked closely with IR counterpart to add video games (which we did not previously collect) and expand the library’s collection of Graphic Novels to the library collection in order to support research being done by students in the English Department.
-- Created guides to support this research: Graphic Novels Subject Guide & Video Games Subject Guide 
+- Created guides to support this research: Graphic Novels Subject Guide & Video Games Subject Guide. 
 
 **Grant support**
 
-`2013` Co-applicant with Reece, D. the  UT Arlington Libraries application for the Muslim Journeys grant. 
-- We were <a href="http://www.neh.gov/files/press-release/mj-bookshelf-winners.pdf">one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH.</a>
-- Supported the grant by helping with displays, creating a web page to highlight the materials.
+`2013` Muslim Journeys grant.
+- Co-applicant with Reece, D. the  UT Arlington Libraries application for the Muslim Journeys grant. 
+  - We were <a href="http://www.neh.gov/files/press-release/mj-bookshelf-winners.pdf">one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH.</a>
+  - Supported the grant by helping with displays, creating a web page to highlight the materials.
 
-- On Committee for creating the <a href="http://library.uta.edu/mavvets/">MavVets project</a>
+- On Committee for creating the <a href="http://library.uta.edu/mavvets/">MavVets project.</a>
     - Worked on white paper for original internal grant.
 
 <!--- 
@@ -600,31 +600,30 @@ Inducted 1999, January
 
 ### Public Services University Library Associate, University of Michigan, Ann Arbor
 
-`2006-2008` **University Library Associate, Harlan Hatcher Graduate Library Public Services Associate**
-- Two year fellowship in Reference and Instruction (2006, September – 2008, June)
+`September 2006- June 2008` **University Library Associate, Harlan Hatcher Graduate Library Public Services Associate**
+- Two year fellowship in Reference and Instruction.
 - Helped coordinate Library Reception at the School of Information to introduce new students to current library employees
 - Helped launch the SEGSI program (Skills Enrichment at the Grad. for School of Information)
-- Launched SEGSI blog and SEGSI wiki to support workshops
-- Aided subject selector in evaluating current status of Screen Arts and Culture collection. Created spreadsheet showing current holdings and gaps in periodical collection
-- Conducted and assisted with library orientation sessions for incoming School of Information graduate students
+  - Launched blog and wiki to support workshops.
+- Aided subject selector in evaluating current status of Screen Arts and Culture collection. Created spreadsheet showing current holdings and gaps in periodical collection.
+- Conducted and assisted with library orientation sessions for incoming School of Information graduate students.
 - Provided technology reference help at the Knowledge Navigation Center, and updated the library’s online FAQ for EndNote
 - Provided reference help through Ask Us and Ask Us Now, the Library’s email and chat reference services.
-- Taught workshops on bibliographic management software (Refworks and EndNote), searching the library catalogue, databases and Dreamweaver
+- Taught workshops on bibliographic management software (Refworks and EndNote), searching the library catalogue, databases and Dreamweaver.
 
 `2007`**University of Michigan, Donald Hall Collection Summer 2007 Internship**
 - Worked with media librarian on seeing how documentaries/films are evaluated and purchased.
 - Analyzed ephemera and supporting materials donated to the Donald Hall Collection, helped create a finding aid.
-- Created MARC records for collection (copy cataloguing)
+- Created MARC records for collection (copy cataloguing).
 
 ### The University Of Minnesota, Minneapolis 
-`2005` **Graduate mentor**
-- Graduate mentor for the University Of Minnesota – Morehouse College/Atlanta System Undergraduate Honors Program in Global Issues summer seminar (Summer 2005).
+`Summer 2005` **Graduate mentor**
+- Graduate mentor for the University Of Minnesota – Morehouse College/Atlanta System Undergraduate Honors Program in Global Issues summer seminar.
 - Helped students from historically unrepresented groups undergo an intensive academic experience attending a seminar class, and researching and writing an academic paper
-- Graduate Teaching Assistant, American Studies Department
  
-`2002-2005` **Teaching Assistant** 
-- Responsible for two sections per class, led class discussion, graded papers and tests, met individually with students for four semester, University of Minnesota: 
-  - AMST 3252: American Popular Culture and Politics: 1900 to 1940 (Fall 2003), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2004), AMST 1001: American Popular Arts and Public Life, 1900-1940 (Fall 2004), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2005)
+`2002-2005` **Graduate Teaching Assistant, American Studies Department** 
+- Responsible for two sections per class, led class discussion, graded papers and tests, met individually with students for four semesters, University of Minnesota: 
+  - AMST 3252: American Popular Culture and Politics: 1900 to 1940 (Fall 2003), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2004), AMST 1001: American Popular Arts and Public Life, 1900-1940 (Fall 2004), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2005).
 
 ### Footer
 
