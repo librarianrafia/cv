@@ -405,29 +405,25 @@ Not a Fear Factor: Demystifying the Search for Scholarly Impact --->
 
 ## University of Texas at Arlington
 
-- **Associate Librarian (October 2012- July 2017)**
-- Title: Digital Humanities Librarian
-- Assistant Librarian (August 2008- September 2012)
-- Title:Reference/Instruction Librarian
-
-- Reference & Instruction
-- Women’s and Gender Studies Liaison (October 2012- September 2012)
-- Worked with Department to create exhibits commemorating Women’s History Month in March of 2014, 2015. 
-- Subject Specialist to Departments in College of Liberal Arts as needed History, Communication, Disability Studies, Communication.
+ `2008-2017` Librarian 
+ - **Associate Librarian (October 2012- July 2017)**
+  - Title: Digital Humanities Librarian
+- **Assistant Librarian (August 2008- September 2012)**
+  - Title: Reference/Instruction Librarian
 
 `October 2013- August 2014`
 - Instrumental in the formation of the newly created Scholarly Communication Department.
 - Conceived of and co-led Scholarly Communication summer Workshops series
   - I was heavily involved with the planning and execution of the following workshops: Framing Scholarly Communication, Open Access, ResearchCommons(Institutional Repository), Copyright, Digital Humanities.
-
--  August 2014, the Scholarly Communications Department was dissolved, and I was placed in the Outreach & Scholarship department.
-  -  Functioned as the interim resource on Scholarly Communication until the Director of Scholarly Communications was hired in May 2015 and the Scholarly Communication Division was reformed.
+  - August 2014, the Scholarly Communications Department was dissolved, and I was placed in the Outreach & Scholarship department.
+    - Functioned as the interim resource on Scholarly Communication until the Director of Scholarly Communications was hired in May 2015 and the Scholarly Communication Division was reformed.
 
 - Initiated UT Arlington joining COAPI as affiliate member in 2014
 - Offered  workshops on Scholarly Communication topics on request for faculty and students: Scholarly Communication, Copyright, Digital Humanities 
 - For internal training , conceived of and co-led Scholarly Communication summer Workshops series for library staff on the following topics: Framing Scholarly Communication, Open Access, ResearchCommons, Copyright, Digital Humanities, Emerging Technologies/ Digital Pedagogy
 
--Collaborated with Office of Graduate Studies at UT Arlington to offer series of workshop for graduate students: Creating an Online Academic Presence, Creating an Online Exhibit (using Omeka.net), Creating an website using WordPress
+-Collaborated with Office of Graduate Studies at UT Arlington to offer series of workshop for graduate students: 
+  - Creating an Online Academic Presence, Creating an Online Exhibit (using Omeka.net), Creating an website using WordPress.
 
 <!--- Service
 - Served on search committee for Director of Scholarly Communication: Fall 2014 (unsuccessful), Fall 2014 (successful)
@@ -440,13 +436,14 @@ S6:  (Member) Implement Green Open Access model
 S26: (Member) Digital Humanities Projects
 S29 : (Member) Publishing Open Access Journals ---> 
 
-
-- **Assistant Librarian, University of Texas at Arlington**
+**Assistant Librarian, University of Texas at Arlington**
 
 `2008-2012` **Reference and Instruction Liaison** 
 
 - Reference & Instruction (August 2008 -September 2012)
 - Served as Librarian for English, History and Communication; responsible for liaising with faculty, departmental outreach and student instruction
+  - Subject Specialist to Departments in College of Liberal Arts as needed for Disability Studies and Women’s and Gender Studies Liaison (October 2012- September 2012)
+  - Worked with Women's Studies Department to create exhibits commemorating Women’s History Month in March of 2014, 2015. 
 - Compose and keep current all subject, course, and topic guides in my disciplines; collaborate with other librarians on cross-disciplinary guides.
 - Develop teaching materials such as handouts, course outlines, instructional videos, and other instructional aids in both print and digital formats.
 - Collaborate with faculty to develop new instruction tailored to specific needs (e.g., “Acknowledging Sources and Avoiding Plagiarism”).
@@ -470,7 +467,7 @@ S29 : (Member) Publishing Open Access Journals --->
 - Helped conceive and plan Librarian vs. Stereotype outreach video series 
 - Bibliographic Management ---> 
 
-- Worked closely with Information Resources librarians to develop and assess the collection. Worked closely with Ava Nell Harris (IR counterpart) to add video games (which we did not previously collect) and expand the library’s collection of Graphic Novels to the library collection in order to support research being done by students in the English Department.
+- Worked closely with Information Resources librarians to develop and assess the collection. Worked closely with IR counterpart to add video games (which we did not previously collect) and expand the library’s collection of Graphic Novels to the library collection in order to support research being done by students in the English Department.
 - Created guides to support this research: Graphic Novels Subject Guide & Video Games Subject Guide 
 
 ### Public Services University Library Associate, University of Michigan, Ann Arbor
