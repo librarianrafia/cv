@@ -75,6 +75,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - ACRL University Libraries Section member (2009 -2012)
 - ACRL Instruction Section member (2009 -2012)
 - ACRL/ULS Committee on the Future of University Libraries member (2011-2012)
+- <a href="http://www.acrl.ala.org/acrlinsider/archives/4101">ACRL member of the week October 24th, 2011.</a>
 
 `2011` LOEX
 - Volunteer service for LOEX conference.
@@ -86,7 +87,6 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 `2000-2002` Smithsonian Museum of American History, Washington, D.C.
 - Docent (volunteer)
 - Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions
-
 
 ## Continuing Education
 
@@ -108,21 +108,6 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - <a href="http://liblicense.crl.edu/ListArchives/0808/msg00129.html">Center for Intellectual Property Copyright Leadership and Management Certificate</a>
 <!---Certificate required completion of following Online modules, IPNA 801: Copright Law and Integrated Access, IPNA 802: Copyright Law and Integrated Access, IPNA 803: Orphan Works Workshop, IPNA 804: Licensing Issues, IPNA 805: Copyright Policy Development, IPNA 806: College Cheating Trends, IPNA 807: Fair Use and Balance in Copyright---> 
 
-## Awards
-
-`2011`<a href="http://www.acrl.ala.org/acrlinsider/archives/4101">ACRL member of the week October 24th.</a>
-
-`2010` <a href="http://emergingleaders.ala.org/news/category/2010-class/">ALA Emerging Leader.</a>
-
-### Grant support
-
-`2013` Co-applicant with Reece, D. the  UT Arlington Libraries application for the Muslim Journeys grant. 
-
-- We were <a href="http://www.neh.gov/files/press-release/mj-bookshelf-winners.pdf">one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH.</a>
-- Supported the grant by helping with displays, creating a web page to highlight the materials.
-
-- On Committee for creating the <a href="http://library.uta.edu/mavvets/">MavVets project</a>
-    - Worked on white paper for original internal grant.
 
 ## Publications
 
@@ -144,7 +129,6 @@ Note: <a href="https://litwinbooks.com/karen-nicholson-wins-seventh-annual-libra
 
 *Note:* Referenced in Project management approaches in libraries section of the C&RLN 2018 trends overview:
 `2018` Research Planning and Review Committee, A. (2018). 2018 top trends in academic libraries: A review of the trends and issues affecting academic libraries in higher education. College & Research Libraries News, 79(6), 286. <a href="https://crln.acrl.org/index.php/crlnews/article/view/17001">doi:https://doi.org/10.5860/crln.79.6.286</a>
-
 
 ### Published Panels 
 `2019` Walker, S, Beilin, I. & Mirza, R. (2019). <a href="https://acrl.ala.org/IS/instruction-tools-resources-2/professional-development/research-agenda-for-library-instruction-and-information-literacy/2019-research-agenda-conversations/2019"> Research Agenda Conversations, ACRL Instruction Section Research & Scholarship website.</a>
@@ -400,6 +384,15 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Created Copyright guide for in class instruction
 - Worked closely with Information Resources librarians to develop and assess the collection. Worked closely with IR counterpart to add video games (which we did not previously collect) and expand the library’s collection of Graphic Novels to the library collection in order to support research being done by students in the English Department.
 - Created guides to support this research: Graphic Novels Subject Guide & Video Games Subject Guide 
+
+**Grant support**
+
+`2013` Co-applicant with Reece, D. the  UT Arlington Libraries application for the Muslim Journeys grant. 
+- We were <a href="http://www.neh.gov/files/press-release/mj-bookshelf-winners.pdf">one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH.</a>
+- Supported the grant by helping with displays, creating a web page to highlight the materials.
+
+- On Committee for creating the <a href="http://library.uta.edu/mavvets/">MavVets project</a>
+    - Worked on white paper for original internal grant.
 
 <!--- 
 EXTRA UT ARLINGTON
