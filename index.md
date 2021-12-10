@@ -203,7 +203,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/supercharged-integrated-and-on-demand/)
 
 `2010` Rising (and Raising) Expectations: Expanding the Academic Cyberinfrastructure at Academic Libraries
-- [EDUCAUSE Southwest Regional Conference, Austin, TX. (2010,February).]1(https://events.educause.edu/archives/2010/educause-southwest-regional-conference-2010)
+- [EDUCAUSE Southwest Regional Conference, Austin, TX. (2010,February).](https://events.educause.edu/archives/2010/educause-southwest-regional-conference-2010)
 - Presenters: Bailey, J., Frierson,F., &  Mirza, R.
 - [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/rising-and-raising-expectations/)
 
@@ -393,12 +393,12 @@ Not a Fear Factor: Demystifying the Search for Scholarly Impact --->
 
 ## SMU
 
-**`2019-Current` Librarian III (July 2019- Current)
-`2017-2019` Librarian II (August 2017- July 2019)**
+- **`2019-Current` Librarian III (July 2019- Current)**
+- **`2017-2019` Librarian II (August 2017- July 2019)**
 
 - Title: Humanities Research Librarian
-`2017-2021` Liaison, Instruction and Collection responsibilities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Current)
-`2022-Current` Digital Scholarship responsibilities 
+- `2017-2021` Liaison, Instruction and Collection responsibilities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Dec. 2021),
+- `2022-Current` Digital Scholarship responsibilities 
 
 `2018` Participant in initial cohort (2018) of NEH grant funded [Digital Humanities Research Institute (DHRI)at CUNY](https://www.dhinstitutes.org/) to train in becoming local Community Leader
 - Led committee to put on [DHRI@SMU (2018-current)](http://www.smu.edu/dhri)
@@ -409,18 +409,19 @@ Not a Fear Factor: Demystifying the Search for Scholarly Impact --->
 - Title: Digital Humanities Librarian
 - Assistant Librarian (August 2008- September 2012)
 - Title:Reference/Instruction Librarian
-- Reference & Instruction
 
+- Reference & Instruction
 - Women’s and Gender Studies Liaison (October 2012- September 2012)
 - Worked with Department to create exhibits commemorating Women’s History Month in March of 2014, 2015. 
 - Subject Specialist to Departments in College of Liberal Arts as needed History, Communication, Disability Studies, Communication.
 
 `October 2013- August 2014`
 - Instrumental in the formation of the newly created Scholarly Communication Department.
-- Conceived of and co-led Scholarly Communication summer Workshops series, I was heavily involved with the planning and execution of the following workshops: Framing Scholarly Communication, Open Access, ResearchCommons(Institutional Repository), Copyright, Digital Humanities
+- Conceived of and co-led Scholarly Communication summer Workshops series
+  - I was heavily involved with the planning and execution of the following workshops: Framing Scholarly Communication, Open Access, ResearchCommons(Institutional Repository), Copyright, Digital Humanities.
 
 -  August 2014, the Scholarly Communications Department was dissolved, and I was placed in the Outreach & Scholarship department.
-- nctioned as the interim resource on Scholarly Communication until the Director of Scholarly Communications was hired in May 2015 and the Scholarly Communication Division was reformed.
+  -  Functioned as the interim resource on Scholarly Communication until the Director of Scholarly Communications was hired in May 2015 and the Scholarly Communication Division was reformed.
 
 - Initiated UT Arlington joining COAPI as affiliate member in 2014
 - Offered  workshops on Scholarly Communication topics on request for faculty and students: Scholarly Communication, Copyright, Digital Humanities 
@@ -439,10 +440,12 @@ S6:  (Member) Implement Green Open Access model
 S26: (Member) Digital Humanities Projects
 S29 : (Member) Publishing Open Access Journals ---> 
 
-- **Assistant Librarian, University of Texas at Arlington**
--Reference and Instruction Liaison (August 2008 -September 2012)
-- Reference & Instruction
 
+- **Assistant Librarian, University of Texas at Arlington**
+
+-Reference and Instruction Liaison (August 2008 -September 2012)
+
+- Reference & Instruction
 - Served as Librarian for English, History and Communication; responsible for liaising with faculty, departmental outreach and student instruction
 - Compose and keep current all subject, course, and topic guides in my disciplines; collaborate with other librarians on cross-disciplinary guides.
 - Develop teaching materials such as handouts, course outlines, instructional videos, and other instructional aids in both print and digital formats.
@@ -453,8 +456,8 @@ S29 : (Member) Publishing Open Access Journals --->
 - Provide information literacy instruction (in classes or one-on-one) to upper-division undergraduate and graduate students in assigned departments, collaborating with faculty to enhance the learning experience of students.
 - Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
 - Taught workshops on library resources (catalogues and databases) and bibliographic management tools
-- Emerging Technologies/ Digital Pedagogy
 
+- Emerging Technologies/ Digital Pedagogy
 - Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
 - Taught workshops on emerging technologies internally (Library STEW) and externally (TechnoScholar). Created guide for Techno Scholar workshops
 - Created Copyright guide for in class instruction
