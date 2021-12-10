@@ -51,7 +51,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 ## Continuing Education
 
  `June 11-20, 2018`  <a href="http://dhinstitutes.org/">DHRI (Digital Humanities Research Institute) </a>
-- Participant in 2018 cohort of DHRI a ten-day residential workshop at held at The Graduate Center, CUNY.
+- Participant in 2018 cohort of DHRI a ten-day residential workshop at held at The Graduate Center, CUNY to become become local [Community Leader.](http://archive.dhinstitutes.org/participants.html)
 
 `October 2015` Library Juice Academy workshop 
 - <a href="http://libraryjuiceacademy.com/027-project-management.php">Introduction to Project Management</a>
@@ -428,85 +428,90 @@ Design, Preparation, Installation: Erin O’Malley
 
 ### Local presentations & workshops
 
+https://rafiamirzasite.wordpress.com/2016/04/17/creating-an-online-academic-presence/
+https://rafiamirzasite.wordpress.com/2016/04/17/creating-an-online-exhibit/
+https://rafiamirzasite.wordpress.com/2016/04/17/creating-a-website-using-wordpress/
+https://rafiamirzasite.wordpress.com/2016/03/13/uta-libraries-strategic-planning-2014/
+https://library.uta.edu/sites/default/files/Chicago16thEd_0.pdf
+
 HIST 4388: Guest speaker on Digital Humanities in the Library
 Additional Speaker: Herzog, A.
-Click here for slides  
+Click here for slides  https://www.slideshare.net/librarianrafia/digital-humanities-and-libraries-60095685
 
 Digital Humanities and Digital Scholarship in Undergraduate Education
 Primary Speakers: Eshleman, K.  & Churchill, S.
 Additional Speakers:  Dellinger , J. T. & Mirza, R.
-Click here for Abstract
-Click here for Student newspaper coverage 
+Click here for Student newspaper coverage https://www.theshorthorn.com/news/lecture-spotlights-how-to-use-digital-tools-in-education/article_b2810b06-c928-11e5-8027-e3c2dfe69069.html
 
 Introduction to databases and metadata 
 English Department. University of Texas at Arlington, Arlington, TX.(2016, February)
-link to libguide
+ https://www.slideshare.net/librarianrafia/introduction-to-databases-and-metadata
 
 Create a Basic Website in WordPress
 EDGE workshop, Office of Graduate Studies at UT Arlington
-Repeat once per long semester.  (2016, Spring. 2015, Fall)
+Repeat once per long semester.  (2016, Spring. 2015, Fall) https://www.slideshare.net/librarianrafia/create-a-basic-website-in-wordpress
 
 Introduction To Searching The Web
 English Department. University of Texas at Arlington, Arlington, TX.(2016, Spring)
-link to libguide
+ https://www.slideshare.net/librarianrafia/introduction-to-searching-the-web
 
 Scholarly Communications Fall 2015 Affinity Group Meeting  
-Created the  Storify of the tweet stream
+Created the Storify of the tweet stream
 Planning committee : Currier, B., Holmes, R.,  & Mirza, R. (2015, December).
 
 My Digital Identity.
 College of Liberal Arts Graduate School Orientation.  University of Texas at Arlington.
-Presenters: Currier, B.D. & Mirza, R. (2015, August 21).
+Presenters: Currier, B.D. & Mirza, R. (2015, August 21) https://www.slideshare.net/librarianrafia/social-media-51562663
 
 Digital Humanities  
-LINK LAB
+LINK LAB https://www.theshorthorn.com/news/lecture-spotlights-how-to-use-digital-tools-in-education/article_b2810b06-c928-11e5-8027-e3c2dfe69069.html
 
 Digital Humanities for Historians: An introduction
-Presented at History Department brown bag series (2015, Fall)
+Presented at History Department brown bag series (2015, Fall) https://www.slideshare.net/librarianrafia/digital-humanities-for-historians-an-introduction
 
 Digital Humanities & UTA libraries
-Presentation for the Dean of the College of Liberal Arts (2015, Fall)
+Presentation for the Dean of the College of Liberal Arts (2015, Fall) https://www.slideshare.net/librarianrafia/digital-humanities-uta-libraries
 
 Introduction to Omeka
-Architecture Department. University of Texas at Arlington. (2015, September)
+Architecture Department. University of Texas at Arlington. (2015, September) https://www.slideshare.net/librarianrafia/introduction-to-omeka-52681382
 
 Introduction to American Superheroines
 English Department Eng 3370 
-The Golden Age
-The Silver Age
-The Bronze Age
-The Modern Age, Part 1
-The Modern Age Part 2
+The Golden Age https://www.slideshare.net/librarianrafia/the-golden-age-of-comics-c1938c1950-46895026
+The Silver Age http://www.slideshare.net/librarianrafia/the-silver-age-of-comics-1956c1970
+The Bronze Age http://www.slideshare.net/librarianrafia/the-bronze-age-of-comicsc1970c1985
+The Modern Age, Part 1 http://www.slideshare.net/librarianrafia/the-modern-age-of-comics-c1985present
+The Modern Age Part 2 http://www.slideshare.net/librarianrafia/4-30-modernagepart2
 Presenters:  Mirza, R., Noell, S. (2014, April 9 -2014, April 30)
 
 Open Access: Open Access Looking for ways to increase the reach and impact of your research?
 Nursing Department (2014, November)
-Presenters: Mirza,R., Wills. F.
+Presenters: Mirza,R., Wills. F. https://www.slideshare.net/librarianrafia/sw-oa-workshop
 
 Social Media & Online Presence
 College of Liberal Arts Graduate School Orientation. University of Texas at Arlington.
-Presenter: Mirza, R. (2014, August ).
+Presenter: Mirza, R. (2014, August ). http://www.slideshare.net/librarianrafia/introduction-to-social-media-for-academics-38189552
 
 Copyright and Online Learning Environments
 Nursing Department (2014, November)
-Presenters: Mirza, R., Pyburn, L., Williamson, P. O. (2014, April)
+Presenters: Mirza, R., Pyburn, L., Williamson, P. O. (2014, April) http://www.slideshare.net/librarianrafia/copyright-and-online-learning-environments-nursing
 
 Introduction to Open Access
 English Graduate Student Associations
-Presenters: Iakovakis,C., Mirza, R. Witkowski , K.
+Presenters: Iakovakis,C., Mirza, R. Witkowski , K. https://www.slideshare.net/librarianrafia/finaloa-eng3514
 
 Copyright and Online Learning Environments
 Nursing Department (2014, February)
-Presenters: Mirza, R., Murdock. J., Pyburn, L.
+Presenters: Mirza, R., Murdock. J., Pyburn, L. http://www.slideshare.net/librarianrafia/copyright-de
 
 Word for Thesis and Dissertation
 EDGE workshop, Office of Graduate Studies at UT Arlington Frequency: twice per long semester. (2010, Fall -2012, Fall) 
 Instructors: Bailey, J., Mirza, R.
-Click here for description 
+Click here for description https://rafiamirzasite.wordpress.com/2016/03/13/word-for-thesis-and-dissertation/
 
 Promoting Critical Thinking in Students
 Facilitated four meetings of this 2010-2011 Teaching Circle with Bailey, J.
-Click here for Description
+Click here for Description https://rafiamirzasite.wordpress.com/2016/03/13/promoting-critical-thinking-in-students/
 
 LibrarySTEW (Summer Technology Exploration Workshops)
 Internal Library workshops at UT Arlington (2009-2011)
@@ -515,7 +520,7 @@ Coordinators and facilitators: Bailey, J., Frierson, E., Mirza, R.
 Sample Workshops:
 You, Online.
 Online Social Personas
-TED Talk Tuesdays 
+TED Talk Tuesdays  https://rafiamirzasite.wordpress.com/2016/03/13/ted-talk-tuesdays/
 
 Internal Library workshops at UT Arlington (2009-2010)
 Coordinators and facilitators: Frierson, E., Mirza, R.
@@ -528,7 +533,7 @@ Description: Participate in emerging technologies instruction and have taught th
 
 Word for Thesis and Dissertation
 Tech Tools
-Twitter 101/Beyond Banality: Academic Uses for Twitte
+Twitter 101/Beyond Banality: Academic Uses for Twitter https://rafiamirzasite.wordpress.com/2016/03/13/twitter-for-academic-purposes/
 Researching on the Web
 Fair use and Copyright
 Advanced Google Search
