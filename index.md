@@ -491,9 +491,8 @@ S29 : (Member) Publishing Open Access Journals --->
 - Helped students from historically unrepresented groups undergo an intensive academic experience attending a seminar class, and researching and writing an academic paper
 - Graduate Teaching Assistant, American Studies Department
  
-`2002-2005` University of Minnesota
-- **Teaching Assistant** for four semesters. 
-- Responsible for two sections per class, led class discussion, graded papers and tests, met individually with students for: 
+`2002-2005` **Teaching Assistant** 
+- Responsible for two sections per class, led class discussion, graded papers and tests, met individually with students for four semester, University of Minnesota: 
   - AMST 3252: American Popular Culture and Politics: 1900 to 1940 (Fall 2003), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2004), AMST 1001: American Popular Arts and Public Life, 1900-1940 (Fall 2004), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2005)
 
 ### Footer
