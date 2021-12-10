@@ -490,6 +490,7 @@ S29 : (Member) Publishing Open Access Journals --->
 - Graduate mentor for the University Of Minnesota – Morehouse College/Atlanta System Undergraduate Honors Program in Global Issues summer seminar (Summer 2005).
 - Helped students from historically unrepresented groups undergo an intensive academic experience attending a seminar class, and researching and writing an academic paper
 - Graduate Teaching Assistant, American Studies Department
+ 
 `2002-2005` University of Minnesota
 - **Teaching Assistant** for four semesters. 
 - Responsible for two sections per class, led class discussion, graded papers and tests, met individually with students for: 
