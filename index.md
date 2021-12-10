@@ -452,9 +452,7 @@ S29 : (Member) Publishing Open Access Journals --->
 - Provide information literacy instruction (in classes or one-on-one) to upper-division undergraduate and graduate students in assigned departments, collaborating with faculty to enhance the learning experience of students.
 - Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
 - Taught workshops on library resources (catalogues and databases) and bibliographic management tools
-
-- Emerging Technologies/ Digital Pedagogy
-- Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction
+- Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction: 
 - Taught workshops on emerging technologies internally (Library STEW) and externally (TechnoScholar). Created guide for Techno Scholar workshops
 - Created Copyright guide for in class instruction
 
