@@ -10,7 +10,6 @@ Humanities Librarian.
 | <a href="https://twitter.com/LibrarianRafia">My Twitter</a>
 </div>
 
-
 ## Currently
 
 Rafia Mirza is currently a Humanities Research Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and leads the [Digital Humanities Research Institute at SMU.](http://www.smu.edu/dhri) She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
@@ -69,16 +68,29 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - <a href="http://liblicense.crl.edu/ListArchives/0808/msg00129.html">Center for Intellectual Property Copyright Leadership and Management Certificate</a>
 <!---Certificate required completion of following Online modules, IPNA 801: Copright Law and Integrated Access, IPNA 802: Copyright Law and Integrated Access, IPNA 803: Orphan Works Workshop, IPNA 804: Licensing Issues, IPNA 805: Copyright Policy Development, IPNA 806: College Cheating Trends, IPNA 807: Fair Use and Balance in Copyright---> 
 
+### External Service
+
+- Reviewer, NEH’s Office of Digital Humanities, Digital Humanities Advancement Grants (Spring 2021)
+- Member of program committee for Digital Frontiers (2016,2017)
+- Member of the Steering committee for TXDHC (2014-2019)
+- Texas Digital Humanities Conference, April 9–11, 2015
+- Member, Program and Planning Committee, July 2014–April 2015
+- Volunteer service for LOEX conference (2011)
+- Member, American Library Association: ACRL/ULS Committee on the Future of University Libraries (2011-Present)
+- American Library Association and ACRL (2007-2014)
+- Student Chapter at University of Michigan, American Library Association.
+- Held position of Events Coordinator (2007-2008)
+- ALA Emerging Leader, 2010
+- Smithsonian Museum of American History
+- Washington, D.C. (2000–2002)
+- Docent (volunteer)
+- Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions
+
 ## Awards
 
 `2011`<a href="http://www.acrl.ala.org/acrlinsider/archives/4101">ACRL member of the week October 24th.</a>
 
 `2010` <a href="http://emergingleaders.ala.org/news/category/2010-class/">ALA Emerging Leader.</a>
-
-<!-- Internal Recognition  at University of Texas at Arlington
-- Applause Award  sponsored by University of Texas at Arlington Libraries
-- Customer Commitment Award sponsored by University of Texas at Arlington Libraries
-- For providing excellent customer service to UT Arlington graduate students with Jody Bailey (EDGE Workshop on Word for Dissertation) (2012, October)-->
 
 ### Grant support
 
@@ -302,93 +314,6 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Presenters: Bailey, J. & Mirza, R.
 - [Click here for Abstract.](https://rafiamirzasite.wordpress.com/2016/03/13/social-networking-at-uta-library/)
 
-<!---
-### Local presentations & workshops
-HIST 4388: Guest speaker on Digital Humanities in the Library
-Additional Speaker: Herzog, A.
-Click here for slides  
-Digital Humanities and Digital Scholarship in Undergraduate Education
-Primary Speakers: Eshleman, K.  & Churchill, S.
-Additional Speakers:  Dellinger , J. T. & Mirza, R.
-Click here for Abstract
-Click here for Student newspaper coverage 
-Introduction to databases and metadata 
-English Department. University of Texas at Arlington, Arlington, TX.(2016, February)
-link to libguide
-Create a Basic Website in WordPress
-EDGE workshop, Office of Graduate Studies at UT Arlington
-Repeat once per long semester.  (2016, Spring. 2015, Fall)
-Introduction To Searching The Web
-English Department. University of Texas at Arlington, Arlington, TX.(2016, Spring)
-link to libguide
-Scholarly Communications Fall 2015 Affinity Group Meeting  
- Created the  Storify of the tweet stream
-Planning committee : Currier, B., Holmes, R.,  & Mirza, R. (2015, December).
-My Digital Identity.
-College of Liberal Arts Graduate School Orientation.  University of Texas at Arlington.
-Presenters: Currier, B.D. & Mirza, R. (2015, August 21).
-Digital Humanities  
-LINK LAB
-Digital Humanities for Historians: An introduction
-Presented at History Department brown bag series (2015, Fall)
-Digital Humanities & UTA libraries
-Presentation for the Dean of the College of Liberal Arts (2015, Fall)
-Introduction to Omeka
-Architecture Department. University of Texas at Arlington. (2015, September)
-Introduction to American Superheroines
-English Department Eng 3370 
-The Golden Age
-The Silver Age
-The Bronze Age
-The Modern Age, Part 1
-The Modern Age Part 2
-Presenters:  Mirza, R., Noell, S. (2014, April 9 -2014, April 30)
-Open Access: Open Access Looking for ways to increase the reach and impact of your research?
-Nursing Department (2014, November)
-Presenters: Mirza,R., Wills. F.
-Social Media & Online Presence
-College of Liberal Arts Graduate School Orientation. University of Texas at Arlington.
-Presenter: Mirza, R. (2014, August ).
-Copyright and Online Learning Environments
-Nursing Department (2014, November)
-Presenters: Mirza, R., Pyburn, L., Williamson, P. O. (2014, April)
-Introduction to Open Access
-English Graduate Student Associations
-Presenters: Iakovakis,C., Mirza, R. Witkowski , K.
- Copyright and Online Learning Environments
-Nursing Department (2014, February)
-Presenters: Mirza, R., Murdock. J., Pyburn, L.
-Word for Thesis and Dissertation
-EDGE workshop, Office of Graduate Studies at UT Arlington Frequency: twice per long semester. (2010, Fall -2012, Fall) 
-Instructors: Bailey, J., Mirza, R.
-Click here for description 
-Promoting Critical Thinking in Students
-Facilitated four meetings of this 2010-2011 Teaching Circle with Bailey, J.
-Click here for Description
-LibrarySTEW (Summer Technology Exploration Workshops)
-Internal Library workshops at UT Arlington (2009-2011)
-Coordinators and facilitators: Bailey, J., Frierson, E., Mirza, R.
-Sample Workshops:
-You, Online.
-Online Social Personas
-TED Talk Tuesdays 
-Internal Library workshops at UT Arlington (2009-2010)
-Coordinators and facilitators: Frierson, E., Mirza, R.
-Click here for Description
- Techno Scholar Workshops
-Fall 2008- Fall 2012
-Frequency: varied each  semester
-Description: Participate in emerging technologies instruction and have taught the following workshops based upon demand:
-Word for Thesis and Dissertation
-Tech Tools
-Twitter 101/Beyond Banality: Academic Uses for Twitte
-Researching on the Web
-Fair use and Copyright
-Advanced Google Search
-Video editing
-Social Media
-Not a Fear Factor: Demystifying the Search for Scholarly Impact ---> 
-
 # Professional Experience
 
 ## SMU
@@ -402,6 +327,13 @@ Not a Fear Factor: Demystifying the Search for Scholarly Impact --->
 
 `2018` Participant in initial cohort (2018) of NEH grant funded [Digital Humanities Research Institute (DHRI)at CUNY](https://www.dhinstitutes.org/) to train in becoming local Community Leader
 - Led committee to put on [DHRI@SMU (2018-current)](http://www.smu.edu/dhri)
+
+- Committees at SMU (2017-Present)
+- Led committee on Workshops (Spring 2021-Fall 2021)
+- Leads committee on the Digital Humanities Research Institute (2018-Present)
+- Served on library committee on Research and Scholarly Communication (2017-2020)
+- Served on Search Committees (2019, 2021)
+
 
 ## University of Texas at Arlington
 
@@ -424,17 +356,6 @@ Not a Fear Factor: Demystifying the Search for Scholarly Impact --->
 - Collaborated with Office of Graduate Studies at UT Arlington to offer series of workshop for graduate students: 
   - Creating an Online Academic Presence, Creating an Online Exhibit (using Omeka.net), Creating an website using WordPress.
 
-<!--- Service
-- Served on search committee for Director of Scholarly Communication: Fall 2014 (unsuccessful), Fall 2014 (successful)
-- On Committee for creating the MavVets project
-- Member, Entertainment Committee (2012–2013)
-- On the following internal library committees:
-A8: (Lead)Develop an education program for faculty and students on new scholarly communication climate.
-S2: (Lead) Educate on and advocate for intellectual property practices that encourage creation, creativity and remix
-S6:  (Member) Implement Green Open Access model
-S26: (Member) Digital Humanities Projects
-S29 : (Member) Publishing Open Access Journals ---> 
-
 **Assistant Librarian, University of Texas at Arlington**
 
 `2008-2012` **Reference and Instruction Liaison** 
@@ -455,17 +376,172 @@ S29 : (Member) Publishing Open Access Journals --->
 - Instruct one-off information literacy workshops (not associated with a class) for both internal staff members and the greater campus. Participate in emerging technologies instruction: 
 - Taught workshops on emerging technologies internally (Library STEW) and externally (TechnoScholar). Created guide for Techno Scholar workshops
 - Created Copyright guide for in class instruction
+- Worked closely with Information Resources librarians to develop and assess the collection. Worked closely with IR counterpart to add video games (which we did not previously collect) and expand the library’s collection of Graphic Novels to the library collection in order to support research being done by students in the English Department.
+- Created guides to support this research: Graphic Novels Subject Guide & Video Games Subject Guide 
 
 <!--- 
+EXTRA UT ARLINGTON
+Service
+- Served on search committee for Director of Scholarly Communication: Fall 2014 (unsuccessful), Fall 2014 (successful)
+- On Committee for creating the MavVets project
+- Member, Entertainment Committee (2012–2013)
+- On the following internal library committees:
+A8: (Lead)Develop an education program for faculty and students on new scholarly communication climate.
+S2: (Lead) Educate on and advocate for intellectual property practices that encourage creation, creativity and remix
+S6:  (Member) Implement Green Open Access model
+S26: (Member) Digital Humanities Projects
+S29 : (Member) Publishing Open Access Journals 
+
+Internal Recognition  at University of Texas at Arlington
+- Applause Award  sponsored by University of Texas at Arlington Libraries
+- Customer Commitment Award sponsored by University of Texas at Arlington Libraries
+- For providing excellent customer service to UT Arlington graduate students with Jody Bailey (EDGE Workshop on Word for Dissertation) (2012, October)
+
+Internal Service
+ 
+Committees at University of Texas at Arlington (2008-2017)
+Chair of Scholarly Communications website committee (2014-2015)
+Member of reformed SC website committee (2015 September -2017 July)
+Member, Library Committee on Libguides and Usability. (2011-2013)
+In 2011, Participated in a group that conducted usability testing of current library guides in order to evaluate their effectiveness as a learning tool
+Volunteering for Welcome Week Murder Mystery (2010)
+Member, Library Strategic Plan committee on Scholarly Communication (2009-2010)
+Member, Library Strategic Plan committee next generation OPAC products (2009 -2010)
+Participated in professional Librarian and Faculty search committees
+Information Resource  Librarian (2008)
+Science & Engineering  Librarian (2009)
+Director of Scholarly Communication
+Fall 2014 (unsuccessful)
+Fall 2014 (successful)
+English Professor
+Spring 2016 (successful)
+Projects
+
+Worked with Scholarly Communication  Director to create a visualization of signatories to the Cost of Knowledge ( 2015, July)
+Exhibit Curation
+
+Worked with Women and Gender Studies department to create exhibits commemorating Women’s History Month in March of 2014, 2015.
+TEXAS “IDENTITY” POLITICS: 1900 – PRESENT
+Exhibit ran in UT Arlington Library Special Collection from June 2012-September 2012.
+Curator: Rafia Mirza
+Design, Preparation, Installation: Erin O’Malley
+
+### Local presentations & workshops
+
+HIST 4388: Guest speaker on Digital Humanities in the Library
+Additional Speaker: Herzog, A.
+Click here for slides  
+
+Digital Humanities and Digital Scholarship in Undergraduate Education
+Primary Speakers: Eshleman, K.  & Churchill, S.
+Additional Speakers:  Dellinger , J. T. & Mirza, R.
+Click here for Abstract
+Click here for Student newspaper coverage 
+
+Introduction to databases and metadata 
+English Department. University of Texas at Arlington, Arlington, TX.(2016, February)
+link to libguide
+
+Create a Basic Website in WordPress
+EDGE workshop, Office of Graduate Studies at UT Arlington
+Repeat once per long semester.  (2016, Spring. 2015, Fall)
+
+Introduction To Searching The Web
+English Department. University of Texas at Arlington, Arlington, TX.(2016, Spring)
+link to libguide
+
+Scholarly Communications Fall 2015 Affinity Group Meeting  
+Created the  Storify of the tweet stream
+Planning committee : Currier, B., Holmes, R.,  & Mirza, R. (2015, December).
+
+My Digital Identity.
+College of Liberal Arts Graduate School Orientation.  University of Texas at Arlington.
+Presenters: Currier, B.D. & Mirza, R. (2015, August 21).
+
+Digital Humanities  
+LINK LAB
+
+Digital Humanities for Historians: An introduction
+Presented at History Department brown bag series (2015, Fall)
+
+Digital Humanities & UTA libraries
+Presentation for the Dean of the College of Liberal Arts (2015, Fall)
+
+Introduction to Omeka
+Architecture Department. University of Texas at Arlington. (2015, September)
+
+Introduction to American Superheroines
+English Department Eng 3370 
+The Golden Age
+The Silver Age
+The Bronze Age
+The Modern Age, Part 1
+The Modern Age Part 2
+Presenters:  Mirza, R., Noell, S. (2014, April 9 -2014, April 30)
+
+Open Access: Open Access Looking for ways to increase the reach and impact of your research?
+Nursing Department (2014, November)
+Presenters: Mirza,R., Wills. F.
+
+Social Media & Online Presence
+College of Liberal Arts Graduate School Orientation. University of Texas at Arlington.
+Presenter: Mirza, R. (2014, August ).
+
+Copyright and Online Learning Environments
+Nursing Department (2014, November)
+Presenters: Mirza, R., Pyburn, L., Williamson, P. O. (2014, April)
+
+Introduction to Open Access
+English Graduate Student Associations
+Presenters: Iakovakis,C., Mirza, R. Witkowski , K.
+
+Copyright and Online Learning Environments
+Nursing Department (2014, February)
+Presenters: Mirza, R., Murdock. J., Pyburn, L.
+
+Word for Thesis and Dissertation
+EDGE workshop, Office of Graduate Studies at UT Arlington Frequency: twice per long semester. (2010, Fall -2012, Fall) 
+Instructors: Bailey, J., Mirza, R.
+Click here for description 
+
+Promoting Critical Thinking in Students
+Facilitated four meetings of this 2010-2011 Teaching Circle with Bailey, J.
+Click here for Description
+
+LibrarySTEW (Summer Technology Exploration Workshops)
+Internal Library workshops at UT Arlington (2009-2011)
+Coordinators and facilitators: Bailey, J., Frierson, E., Mirza, R.
+
+Sample Workshops:
+You, Online.
+Online Social Personas
+TED Talk Tuesdays 
+
+Internal Library workshops at UT Arlington (2009-2010)
+Coordinators and facilitators: Frierson, E., Mirza, R.
+Click here for Description
+
+Techno Scholar Workshops
+Fall 2008- Fall 2012
+Frequency: varied each  semester
+Description: Participate in emerging technologies instruction and have taught the following workshops based upon demand:
+
+Word for Thesis and Dissertation
+Tech Tools
+Twitter 101/Beyond Banality: Academic Uses for Twitte
+Researching on the Web
+Fair use and Copyright
+Advanced Google Search
+Video editing
+Social Media
+Not a Fear Factor: Demystifying the Search for Scholarly Impact
+
 - **Outreach**
 - Market library resources and facilities to UT Arlington faculty, staff, and students through presentations and print and digital resources.
 - Volunteered for special events such as Welcome Week to promote library resources and services.
 - Implemented and helped maintain library Facebook page , Twitter account ) and Pinterest  until turned over to newly created Library Marketing department in Fall 2012.
 - Helped conceive and plan Librarian vs. Stereotype outreach video series 
 - Bibliographic Management ---> 
-
-- Worked closely with Information Resources librarians to develop and assess the collection. Worked closely with IR counterpart to add video games (which we did not previously collect) and expand the library’s collection of Graphic Novels to the library collection in order to support research being done by students in the English Department.
-- Created guides to support this research: Graphic Novels Subject Guide & Video Games Subject Guide 
 
 ### Public Services University Library Associate, University of Michigan, Ann Arbor
 
