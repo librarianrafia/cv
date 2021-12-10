@@ -43,10 +43,50 @@ Her research focuses on digital humanities, library pedagogy, project planning a
   - Received a Dean’s medal, Chosen as the “Outstanding Graduate” in the American Studies Department, 1999.
   - Received ‘Disparate Major’ collegiate medal to recognize intellectual breadth in a course of study.
 
-### Honor Societies
-- Phi Beta Kappa
-- Phi Eta Sigma
-- Golden Key
+**Honor Societies**
+- Phi Beta Kappa (Inducted 2000, January)
+- Phi Eta Sigma (Inducted 1996, January)
+- Golden Key (Inducted 1999, January)
+
+### Affiliations & Service
+`Spring 2021` Reviewer, NEH’s Office of Digital Humanities, Digital Humanities Advancement Grants.
+
+`2018` DLF
+- Member of Forum Program Committee & Inclusivity Subcommittee 
+
+`2016-2017` Digital Frontiers
+- Member of program committee for Digital Frontiers
+
+`2016-2018` Cross Timbers Library Collaborative (CTLC)
+- Scholarly Communications and Digital Curation Affinity Group
+- Digital Humanities Affinity Group
+
+`2014-2018` Texas Digital Humanities Consortium (TXDHC)
+- Member of the Steering committee for TXDHC (2014-2018)
+- Co-Chair (Spring 2016-2017)
+- On Web Committee (2015-2017)
+  - Texas Digital Humanities Conference, April 9–11, 2015
+    - Member, Program and Planning Committee, July 2014–April 2015
+
+`2007-2014` American Library Association member
+- ALA Emerging Leader, 2010
+
+`2007-2012` Association of College and Research Libraries Division member
+- ACRL University Libraries Section member (2009 -2012)
+- ACRL Instruction Section member (2009 -2012)
+- ACRL/ULS Committee on the Future of University Libraries member (2011-2012)
+
+`2011` LOEX
+- Volunteer service for LOEX conference.
+
+`2007-2008` Michigan Library Association
+- Student Chapter at University of Michigan, American Library Association.
+- Events Coordinator (2007-2008)
+
+`2000-2002` Smithsonian Museum of American History, Washington, D.C.
+- Docent (volunteer)
+- Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions
+
 
 ## Continuing Education
 
@@ -67,24 +107,6 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 `2009` __University of Maryland University College__
 - <a href="http://liblicense.crl.edu/ListArchives/0808/msg00129.html">Center for Intellectual Property Copyright Leadership and Management Certificate</a>
 <!---Certificate required completion of following Online modules, IPNA 801: Copright Law and Integrated Access, IPNA 802: Copyright Law and Integrated Access, IPNA 803: Orphan Works Workshop, IPNA 804: Licensing Issues, IPNA 805: Copyright Policy Development, IPNA 806: College Cheating Trends, IPNA 807: Fair Use and Balance in Copyright---> 
-
-### External Service
-
-- Reviewer, NEH’s Office of Digital Humanities, Digital Humanities Advancement Grants (Spring 2021)
-- Member of program committee for Digital Frontiers (2016,2017)
-- Member of the Steering committee for TXDHC (2014-2019)
-- Texas Digital Humanities Conference, April 9–11, 2015
-- Member, Program and Planning Committee, July 2014–April 2015
-- Volunteer service for LOEX conference (2011)
-- Member, American Library Association: ACRL/ULS Committee on the Future of University Libraries (2011-Present)
-- American Library Association and ACRL (2007-2014)
-- Student Chapter at University of Michigan, American Library Association.
-- Held position of Events Coordinator (2007-2008)
-- ALA Emerging Leader, 2010
-- Smithsonian Museum of American History
-- Washington, D.C. (2000–2002)
-- Docent (volunteer)
-- Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions
 
 ## Awards
 
@@ -546,7 +568,39 @@ Not a Fear Factor: Demystifying the Search for Scholarly Impact
 - Volunteered for special events such as Welcome Week to promote library resources and services.
 - Implemented and helped maintain library Facebook page , Twitter account ) and Pinterest  until turned over to newly created Library Marketing department in Fall 2012.
 - Helped conceive and plan Librarian vs. Stereotype outreach video series 
-- Bibliographic Management ---> 
+- Bibliographic Management 
+Affiliations
+DLF
+Member of Forum Program Committee & Inclusivity Subcommittee (2018)
+Digital Frontiers
+Member of Program Committee (2016-Present)
+ Cross Timbers Library Collaborative (CTLC)
+Member of Scholarly Communications and Digital Curation Affinity Group
+Member of Digital Humanities Affinity Group
+Co-Chair (Spring 2016-2017)
+Texas Digital Humanities Consortium (TXDHC)
+On Steering Committee (2015-2018)
+On Web Committee (2015-2017)
+American Library Association member
+2007- 2012
+Association of College and Research Libraries Division member
+2007 -2012
+ACRL University Libraries Section member
+2009 -2012
+ACRL Instruction Section member
+2009 -2012
+ACRL/ULS Committee on the Future of University Libraries member
+2011 to 2012
+Michigan Library Association member
+2007  -2008
+Held position of Events Coordinator (2007-2008)
+ Phi Beta Kappa
+Inducted 2000, January
+ Phi Eta Sigma
+Inducted 1996, January
+Golden Key
+Inducted 1999, January
+---> 
 
 ### Public Services University Library Associate, University of Michigan, Ann Arbor
 
