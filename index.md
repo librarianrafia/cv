@@ -443,9 +443,9 @@ S29 : (Member) Publishing Open Access Journals --->
 
 - **Assistant Librarian, University of Texas at Arlington**
 
--Reference and Instruction Liaison (August 2008 -September 2012)
+`2008-2012` **Reference and Instruction Liaison** 
 
-- Reference & Instruction
+- Reference & Instruction (August 2008 -September 2012)
 - Served as Librarian for English, History and Communication; responsible for liaising with faculty, departmental outreach and student instruction
 - Compose and keep current all subject, course, and topic guides in my disciplines; collaborate with other librarians on cross-disciplinary guides.
 - Develop teaching materials such as handouts, course outlines, instructional videos, and other instructional aids in both print and digital formats.
@@ -475,7 +475,7 @@ S29 : (Member) Publishing Open Access Journals --->
 
 ### Public Services University Library Associate, University of Michigan, Ann Arbor
 
-- **University Library Associate, Harlan Hatcher Graduate Library Public Services Associate**
+`2006-2008` **University Library Associate, Harlan Hatcher Graduate Library Public Services Associate**
 - Two year fellowship in Reference and Instruction (2006, September – 2008, June)
 - Helped coordinate Library Reception at the School of Information to introduce new students to current library employees
 - Helped launch the SEGSI program (Skills Enrichment at the Grad. for School of Information)
@@ -486,18 +486,20 @@ S29 : (Member) Publishing Open Access Journals --->
 - Provided reference help through Ask Us and Ask Us Now, the Library’s email and chat reference services.
 - Taught workshops on bibliographic management software (Refworks and EndNote), searching the library catalogue, databases and Dreamweaver
 
-- **University of Michigan, Donald Hall Collection Summer 2007 Internship**
+`2007`**University of Michigan, Donald Hall Collection Summer 2007 Internship**
 - Worked with media librarian on seeing how documentaries/films are evaluated and purchased.
 - Analyzed ephemera and supporting materials donated to the Donald Hall Collection, helped create a finding aid.
 - Created MARC records for collection (copy cataloguing)
 
 ### The University Of Minnesota, Minneapolis 
-- **Graduate mentor**
+`2005` **Graduate mentor**
 - Graduate mentor for the University Of Minnesota – Morehouse College/Atlanta System Undergraduate Honors Program in Global Issues summer seminar (Summer 2005).
 - Helped students from historically unrepresented groups undergo an intensive academic experience attending a seminar class, and researching and writing an academic paper
 - Graduate Teaching Assistant, American Studies Department
-- University of Minnesota (2002-2006)
-- Teaching Assistant for four semesters. Responsible for two sections per class, led class discussion, graded papers and tests, met individually with students: AMST 3252: American Popular Culture and Politics: 1900 to 1940 (Fall 2003), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2004), AMST 1001: American Popular Arts and Public Life, 1900-1940 (Fall 2004), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2005)
+`2002-2005` University of Minnesota
+- **Teaching Assistant** for four semesters. 
+- Responsible for two sections per class, led class discussion, graded papers and tests, met individually with students for: 
+  - AMST 3252: American Popular Culture and Politics: 1900 to 1940 (Fall 2003), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2004), AMST 1001: American Popular Arts and Public Life, 1900-1940 (Fall 2004), AMST 3253: American Popular Culture and Politics: 1940 to the Present (Spring 2005)
 
 ### Footer
 
