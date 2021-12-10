@@ -135,8 +135,8 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 ### Book Chapters
 `2017` Mirza, R. & Seale, M. (2017). Who Killed the World? White Masculinity and the Technocratic Library of the Future. In Schlesselman-Tarango, G. (ed.), <a href="https://litwinbooks.com/books/topographies-of-whiteness/">Topographies of Whiteness: Mapping Whiteness in Library and Information Science</a> (pp. 175-201) (Series on Critical Race Studies and Multiculturalism in LIS). Sacramento: Library Juice Press.
 
-  -*Note:* <a href="https://litwinbooks.com/david-hudson-wins-fifth-annual-library-juice-paper-contest/">Honorable mention for Fifth (2017) Annual Library Juice Paper Contest.</a>
-  =*Note:* <a href="http://mauraseale.org/wp-content/uploads/2016/03/Mirza-Seale-Technocratic-Library.pdf">Text available here.</a>
+  *Note:* <a href="https://litwinbooks.com/david-hudson-wins-fifth-annual-library-juice-paper-contest/">Honorable mention for Fifth (2017) Annual Library Juice Paper Contest.</a>
+  *Note:* <a href="http://mauraseale.org/wp-content/uploads/2016/03/Mirza-Seale-Technocratic-Library.pdf">Text available here.</a>
 
 `2015` Ossom Williamson, P. & Mirza, R. (2015). <a href="https://books.google.com/books?hl=en&lr=&id=Pv3bBgAAQBAJ&oi=fnd&pg=PA211&dq=rafia+mirza+peace+williamson&ots=tgbSHn0sWd&sig=8141E4llWMu5WS6g-Zv2WYaI0tY#v=onepage&q=rafia%20mirza%20peace%20williamson&f=false"> Does Google Scholar help or hurt institutional repositories? </a>In C. Smallwood (Ed.), The complete guide to using Google in libraries: instruction, administration, and staff productivity (pp. 211-222). Lanham, MD: Rowman & Littlefiend.
 
