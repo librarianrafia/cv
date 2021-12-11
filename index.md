@@ -120,11 +120,14 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `2019` Mirza, R. & Seale, M. (2019). <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/34"> Speech and Silence: Race, Neoliberalism, and Intellectual Freedom.</a> Journal of Radical Librarianship. 5.
 
-- Note:<a href="https://litwinbooks.com/karen-nicholson-wins-seventh-annual-library-juice-paper-contest/">Honorable mention for Seventh (2019) Annual Library Juice Paper Contest.</a>
+
+- Note: <a href="https://litwinbooks.com/karen-nicholson-wins-seventh-annual-library-juice-paper-contest/">Honorable mention for Seventh (2019) Annual Library Juice Paper Contest.</a>
+
 
 `2017` Currier, B. D., Mirza, R., & Downing, J. (2017). They think all of this is new: Leveraging librarians’ project management skills for the digital humanities. College & Undergraduate Libraries, 1-20. <a href="http://dx.doi.org/10.1080/10691316.2017.1347541"> doi:10.1080/10691316.2017.1347541</a>
 
-- Note:<a href="https://rafiamirzasite.wordpress.com/2017/10/06/they-think-all-of-this-is-new/"> Preprint is available here. </a> Article referenced in *Project management approaches in libraries section of the C&RLN 2018 trends overview:*
+
+- Note:<a href="https://rafiamirzasite.wordpress.com/2017/10/06/they-think-all-of-this-is-new/"> Preprint is available here. </a> Article referenced in [*Project management approaches in libraries section of the C&RLN 2018 trends overview.*](https://crln.acrl.org/index.php/crlnews/article/view/17001/18750)
 
 `2018` Research Planning and Review Committee, A. (2018). 2018 top trends in academic libraries: A review of the trends and issues affecting academic libraries in higher education. College & Research Libraries News, 79(6), 286. <a href="https://crln.acrl.org/index.php/crlnews/article/view/17001">doi:https://doi.org/10.5860/crln.79.6.286</a>
 
