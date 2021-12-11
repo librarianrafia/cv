@@ -34,12 +34,12 @@ Her research focuses on digital humanities, library pedagogy, project planning a
   - Studied Hindi at Landour Language School in Mussoorie, India (2/2006-4/2006).
   - MacArthur Scholar (2002-2005).
 
-`1999` __State University of New York at Buffalo, NY.__
+`1999` __State University of New York (SUNY) at Buffalo, NY.__
 - Bachelor of Arts in English Literature and American Studies.
 - Bachelor of Arts in Psychology.
   - Graduated Magna Cum Laude and with Departmental Honors (in all three majors).
   - Dean's List.
-  - Chosen as the Outstanding Graduate in the American Studies Department, State University of New York at Buffalo, NY, 1999.
+  - Chosen as the Outstanding Graduate in the American Studies Department, SUNY at Buffalo, NY, 1999.
   - Received a Dean’s medal, Chosen as the “Outstanding Graduate” in the American Studies Department, 1999.
   - Received ‘Disparate Major’ collegiate medal to recognize intellectual breadth in a course of study.
 
@@ -52,24 +52,24 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 `Spring 2021` Reviewer, NEH’s Office of Digital Humanities, Digital Humanities Advancement Grants.
 
 `2018` Digital Library Federation (DLF)
-- Member of Forum Program Committee & Inclusivity Subcommittee 
+- Member of Forum Program Committee & Inclusivity Subcommittee. 
 
 `2016-2017` Digital Frontiers (DF)
-- Member of program committee for Digital Frontiers
+- Member of program committee for Digital Frontiers.
 
 `2016-2018` Cross Timbers Library Collaborative (CTLC)
-- Scholarly Communications and Digital Curation Affinity Group
-- Digital Humanities Affinity Group
+- Member of Scholarly Communications and Digital Curation Affinity Group.
+- Member of Digital Humanities Affinity Group
 
 `2014-2018` Texas Digital Humanities Consortium (TXDHC)
 - Member of the Steering committee for TXDHC (2014-2018)
 - Co-Chair (Spring 2016-2017)
 - On Web Committee (2015-2017)
-  - Texas Digital Humanities Conference, April 9–11, 2015
-    - Member, Program and Planning Committee, July 2014–April 2015
+  - Texas Digital Humanities Conference, April 9–11, 2015.
+    - Member, Program and Planning Committee, July 2014–April 2015.
 
 `2007-2014` American Library Association (ALA) member
-- ALA Emerging Leader, 2010
+- ALA Emerging Leader, 2010.
 
 `2007-2012` Association of College and Research Libraries (ACRL) Division member
 - ACRL University Libraries Section member (2009 -2012)
@@ -85,7 +85,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - Events Coordinator (2007-2008)
 
 `2000-2002` Smithsonian Museum of American History, Washington, D.C.
-- Volunteer Docent
+- Volunteer Docent,
 - Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions.
 
 ## Continuing Education
@@ -102,7 +102,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 <!--Team Building for Supervisors, Leadership Skills for Supervisors, Dealing with Difficult Employees and People, Welcoming Diversity, Conducting Effective Meetings---> 
 
 `2001`  Cutting the Red Tape: Finding and Using E-Government Tools and Resources 
-- <a href="https://www.alastore.ala.org/detail.aspx?ID=3297"> Completed ALA e course</a>
+- <a href="https://www.alastore.ala.org/detail.aspx?ID=3297"> Completed ALA e-course</a>
 
 `2009` University of Maryland University College
 - <a href="http://liblicense.crl.edu/ListArchives/0808/msg00129.html">Center for Intellectual Property Copyright Leadership and Management Certificate</a>
@@ -149,7 +149,7 @@ Currier, B. D., Mirza, R., & Ossom Williamson, P. (2016). Memorandum of Understa
 DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.32855/utalibraries.2016.01</a>
 
 ### Conference Proceedings
-`2013` Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), <a href="http://www.worldcat.org/oclc/868908524 Fiesta de Excelencia: Celebrating Excellence in Library Instruction : Thirty-ninth National LOEX Library Instruction Conference Proceedings"></a>, Fort Worth, Texas, May 5-7, 2011 (pp. 000-00). Ypsilanti, MI: LOEX Press.
+`2013` Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), <a href="http://www.worldcat.org/oclc/868908524 Fiesta de Excelencia: Celebrating Excellence in Library Instruction: Thirty-ninth National LOEX Library Instruction Conference Proceedings,"></a> Fort Worth, Texas, May 5-7, 2011 (pp. 000-00). Ypsilanti, MI: LOEX Press.
 
 ## Presentations & Workshops
 
