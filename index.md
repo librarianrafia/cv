@@ -126,7 +126,8 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
   - *Note:* <a href="https://rafiamirzasite.wordpress.com/2017/10/06/they-think-all-of-this-is-new/"> Preprint is available here. </a>
 
-  -*Note:* Referenced in Project management approaches in libraries section of the C&RLN 2018 trends overview:
+  - *Note:* Referenced in Project management approaches in libraries section of the C&RLN 2018 trends overview:
+
 `2018` Research Planning and Review Committee, A. (2018). 2018 top trends in academic libraries: A review of the trends and issues affecting academic libraries in higher education. College & Research Libraries News, 79(6), 286. <a href="https://crln.acrl.org/index.php/crlnews/article/view/17001">doi:https://doi.org/10.5860/crln.79.6.286</a>
 
 ### Published Panels 
