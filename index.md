@@ -90,6 +90,9 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 ## Continuing Education
 
+ `2022` <a href="https://idea.infosci.utk.edu/"> IDEA AI 2022 cohort</a>
+- Participant in 2022 cohort of IDEA (Innovation, Disruption, Enquiry, Access) Institute on Artificial Intelligence (AI). 
+
  `Feb 28th - April 15, 2022` <a href="https://prioritizingprivacy.org/"> Prioritizing Privacy Spring 2022 cohort</a>
 - Participant in Spring 2022 cohort of Prioritizing Privacy, a online professional development course focused on student privacy and academic library participation in learning analytics projects. 
 
