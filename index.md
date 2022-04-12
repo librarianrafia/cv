@@ -90,6 +90,9 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 ## Continuing Education
 
+ `Feb 28th - April 15, 2022` <a href="https://prioritizingprivacy.org/"> Prioritizing Privacy Spring 2022 cohort</a>
+- Participant in Spring 2022 cohort of Prioritizing Privacy, a online professional development course focused on student privacy and academic library participation in learning analytics projects. 
+
  `June 11-20, 2018`  <a href="http://dhinstitutes.org/">DHRI (Digital Humanities Research Institute) </a>
 - Participant in 2018 cohort of DHRI a ten-day residential workshop at held at The Graduate Center, CUNY to become become local [Community Leader.](http://archive.dhinstitutes.org/participants.html)
 
@@ -266,6 +269,10 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 ### Regional presentations & workshops
 
+`2021` [Storytelling with Data: A Hands-on Workshop for Beginners](https://twu-ir.tdl.org/handle/11274/13594)
+- Part of TWU Libraries Developing Digital Competencies Workshop Series funded by the Institute of Museum and Library Services and Texas State Libraries and Archives Commission.
+- Invited Speaker for second workshop in series: Mirza, R. (2021, April. 12)
+
 `2019` Collaborative Digital Project Management in Libraries
 - Texas Library Association 2019
 - Presenters: Holmes, R.,  Mirza, R., Williamson, P.O. (2019, April 16)
@@ -281,7 +288,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Presenters: Gonzales, M.,  Weimer, K.H., Rondelli,M., Mirza,R., Halbert, M. (2017, May 19)
 
 `2017` Introduction to MOU Workbook
-- [Wils'](http://www.wils.org/about-wils/)February Membership Meeting
+- [Wils'](http://www.wils.org/about-wils/) February Membership Meeting
 - Invited Speakers for lightening talk: Currier, B.,  Mirza, R. (2017, February 16)
 
 `2015` [Encouraging Digital Scholarship in Graduate Education](https://digital.library.unt.edu/ark:/67531/metadc701856/)
@@ -628,6 +635,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: Dec. 2021
+Last updated: Apr. 2022
 
 
