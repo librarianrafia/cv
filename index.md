@@ -272,13 +272,17 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 ### Regional presentations & workshops
 
-`2021` [Storytelling with Data: A Hands-on Workshop for Beginners](https://twu-ir.tdl.org/handle/11274/13594)
+`2022` [Develop Your Own Digital Humanities Research Institute](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/TLA2022.md)
+- Texas Library Assoication (TLA) 2022 Annual Conference.
+- Presenters: Bliss, J.R., Godat, E., McMichael, J.,  Mirza, R.  (2021, April 27)
+
+`2022` [Storytelling with Data: A Hands-on Workshop for Beginners](https://twu-ir.tdl.org/handle/11274/13594)
 - Part of TWU Libraries Developing Digital Competencies Workshop Series funded by the Institute of Museum and Library Services and Texas State Libraries and Archives Commission.
-- Invited Speaker for second workshop in series: Mirza, R. (2021, April. 12)
+- Invited Speaker for second workshop in series: Mirza, R. (2022, April 12)
 
 `2019` Collaborative Digital Project Management in Libraries
-- Texas Library Association 2019
-- Presenters: Holmes, R.,  Mirza, R., Williamson, P.O. (2019, April 16)
+- Texas Library Association (TLA) 2019 Annual Conference.
+- Presenters: Holmes, R., Mirza, R., Williamson, P.O. (2019, April 16)
 
 `2017` [How to Bring Digital Humanities in the Classroom](https://rafiamirzasite.wordpress.com/2017/11/03/thatcampdhinclassroom/)
 - [THATcamp Clear Lake](http://clearlake2017.thatcamp.org/)
