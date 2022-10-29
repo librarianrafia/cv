@@ -12,7 +12,7 @@ Humanities Librarian.
 
 ## Currently
 
-Rafia Mirza is currently a Humanities Research Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and leads the [Digital Humanities Research Institute at SMU.](http://www.smu.edu/dhri) She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
+Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and leads the [Digital Humanities Research Institute at SMU.](http://www.smu.edu/dhri) She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
 
 ### Research interests
 
@@ -31,7 +31,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - PhD coursework ABD (All But Dissertation) status in the American Studies Department.
      - Passed: written prelims 9/8/2005, orals 10/6/2005.
   - Field of Concentration: Representations of Orientalism in American Mass Media, 1970s-Present.
-  - Studied Hindi at Landour Language School in Mussoorie, India (2/2006-4/2006).
+  <!--- - Studied Hindi at Landour Language School in Mussoorie, India (2/2006-4/2006).--->
   - MacArthur Scholar (2002-2005).
 
 `1999` __State University of New York (SUNY) at Buffalo, NY.__
@@ -101,17 +101,17 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `October 2015` Library Juice Academy workshop 
 - <a href="http://libraryjuiceacademy.com/027-project-management.php">Introduction to Project Management</a>
-    - Instructor: <a href="http://libraryjuiceacademy.com/instructors.php#robinHastings">Robin Hastings</a>
+   <!-- - Instructor: <a href="http://libraryjuiceacademy.com/instructors.php#robinHastings">Robin Hastings</a>---> 
 
 `May 2014–May 2015` Trailblazers: Pathways to Successful Supervision Staff Development Supervisory Program
 - Attended series of workshops focused on supervisory skills offered by University of Texas at Arlington Human Resources.
 <!--Team Building for Supervisors, Leadership Skills for Supervisors, Dealing with Difficult Employees and People, Welcoming Diversity, Conducting Effective Meetings---> 
 
 `2001`  Cutting the Red Tape: Finding and Using E-Government Tools and Resources 
-- <a href="https://www.alastore.ala.org/detail.aspx?ID=3297"> Completed ALA e-course</a>
+- <Completed ALA e-course
 
 `2009` University of Maryland University College
-- <a href="http://liblicense.crl.edu/ListArchives/0808/msg00129.html">Center for Intellectual Property Copyright Leadership and Management Certificate</a>
+- Center for Intellectual Property Copyright Leadership and Management Certificate<
 <!---Certificate required completion of following Online modules, IPNA 801: Copright Law and Integrated Access, IPNA 802: Copyright Law and Integrated Access, IPNA 803: Orphan Works Workshop, IPNA 804: Licensing Issues, IPNA 805: Copyright Policy Development, IPNA 806: College Cheating Trends, IPNA 807: Fair Use and Balance in Copyright---> 
 
 ## Publications
@@ -405,7 +405,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 `2013` Muslim Journeys grant.
 - Co-applicant with Reece, D. the  UT Arlington Libraries application for the Muslim Journeys grant. 
-  - We were <a href="http://www.neh.gov/files/press-release/mj-bookshelf-winners.pdf">one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH.</a>
+  - We were one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH.
   - Supported the grant by helping with displays, creating a web page to highlight the materials.
 
 - On Committee for creating the <a href="http://library.uta.edu/mavvets/">MavVets project.</a>
@@ -642,6 +642,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: Apr. 2022
+Last updated: Oct. 2022
 
 
