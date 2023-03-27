@@ -12,7 +12,7 @@ Humanities Librarian.
 
 ## Currently
 
-Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and lead the [Digital Humanities Research Institute at SMU.](http://www.smu.edu/dhri) She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
+Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and led the [Digital Humanities Research Institute at SMU.](http://www.smu.edu/dhri) She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
 
 ### Research interests
 
