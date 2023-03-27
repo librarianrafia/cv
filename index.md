@@ -12,7 +12,7 @@ Humanities Librarian.
 
 ## Currently
 
-Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and leads the [Digital Humanities Research Institute at SMU.](http://www.smu.edu/dhri) She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
+Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and lead the [Digital Humanities Research Institute at SMU.](http://www.smu.edu/dhri) She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
 
 ### Research interests
 
@@ -89,6 +89,8 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions.
 
 ## Continuing Education
+ `2023` <a href="https://www.libraryjournal.com/event/equity-centered-instruction-feb-2023"> Equity-Centered Instruction, Library Journal</a>
+- Participant in Spring 2023 cohort of Equity-Centered Instruction: Strategies for the Library or Classroom Online Workshop and Guest Speaker Program. 
 
  `2022` <a href="https://idea.infosci.utk.edu/"> IDEA AI 2022 cohort</a>
 - Participant in 2022 cohort of IDEA (Innovation, Disruption, Enquiry, Access) Institute on Artificial Intelligence (AI). 
@@ -122,7 +124,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 `2020` Seale, M., & Mirza, R. (2020). The Coin of Love and Virtue: Academic Libraries and Value in a Global Pandemic. The Canadian Journal of Academic Librarianship 6, 6 (December), 1-30. <a href="https://cjal.ca/index.php/capal/article/view/34457">https://cjal.ca/index.php/capal/article/view/34457</a>
 
-`2019` Seale, M., & Mirza, R. (2019). <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/34"> Empty Presence: Library Labor, Prestige, and the MLS. </a>Library Trends 68(2), 252-268. <a href="https://www.muse.jhu.edu/article/746747">https://www.muse.jhu.edu/article/746747</a>
+`2019` Seale, M., & Mirza, R. (2019). <a href="https://www.ideals.illinois.edu/items/113623"> Empty Presence: Library Labor, Prestige, and the MLS. </a>Library Trends 68(2), 252-268. <a href="https://www.muse.jhu.edu/article/746747">https://www.muse.jhu.edu/article/746747</a>
 
 `2019` Mirza, R. & Seale, M. (2019). <a href="https://journal.radicallibrarianship.org/index.php/journal/article/view/34"> Speech and Silence: Race, Neoliberalism, and Intellectual Freedom.</a> Journal of Radical Librarianship. 5.
 
@@ -156,6 +158,10 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 ### Conference Proceedings
 `2013` Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), <a href="http://www.worldcat.org/oclc/868908524 Fiesta de Excelencia: Celebrating Excellence in Library Instruction: Thirty-ninth National LOEX Library Instruction Conference Proceedings,"></a> Fort Worth, Texas, May 5-7, 2011 (pp. 71-74). Ypsilanti, MI: LOEX Press.
 
+## Instruction
+`2023` [Resources and Information Services in Professions and Disciplines - Data Services in LibrariesINFO 220](https://sjsu.campusconcourse.com/view_syllabus?course_id=5388&public_mode=1)
+- San José State University School of Information (SJSU iSchool, Spring 2023)
+- Instructors: Mirza R., <a href="https://ischoolapps.sjsu.edu/facultypages/view.php?fac=ossom_williamsonp"> Ossom-Williamson, P.</a>
 ## Presentations & Workshops
 
 ### National presentations & workshops
@@ -338,25 +344,28 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 ### SMU
 
-**`2019-Current` Librarian III (July 2019- Current)**
+**`2023-Current` Librarian IV (June 2023- Current)**
+
+**`2019-2023` Librarian III (July 2019- May 2023)**
 
 **`2017-2019` Librarian II (August 2017- July 2019)**
 
-- Title: Humanities Research Librarian
+`2022-Current` Title: Digital Scholarship Librarian. 
+- Workshops on Digital Scholarship  topics: Introduction to Data , Text and Data mining, Project Planning. Collaborate on workshops with OIT.  
 
-`2017-2021` Liaison, Instruction and Collection responsibilities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Dec. 2021)
-
-`2022-Current` Digital Scholarship responsibilities 
+`2017-2021` Title: Humanities Research Librarian. 
+- Liaison, Instruction and Collection responsibilities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Dec. 2021)
 
 `2018` Participant in initial cohort (2018) of NEH grant funded [Digital Humanities Research Institute (DHRI)at CUNY](https://www.dhinstitutes.org/) to train in becoming local Community Leader
-- Led committee to put on [DHRI@SMU (2018-current)](http://www.smu.edu/dhri)
+- Led committee to put on [DHRI@SMU (2018-2021)](http://www.smu.edu/dhri)
 
 *Committees at SMU (2017-Present)*
+- Chaired Data Policy Working Group (Spring 2023)
 - Serves on Online Learning Committee (Jan. 2022- Present)
 - Led committee on Workshops (Spring 2021-Fall 2021)
-- Leads committee on the Digital Humanities Research Institute (2018-Present)
+- Leads committee on the Digital Humanities Research Institute (2018-2022)
 - Served on library committee on Research and Scholarly Communication (2017-2020)
-- Served on Search Committees (2019, 2021)
+- Served on Search Committees (2019, 2021, 2023)
 
 ### University of Texas at Arlington
 
@@ -642,6 +651,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: Oct. 2022
+Last updated: Mar. 2023
 
 
