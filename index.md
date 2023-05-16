@@ -110,11 +110,11 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 <!--Team Building for Supervisors, Leadership Skills for Supervisors, Dealing with Difficult Employees and People, Welcoming Diversity, Conducting Effective Meetings---> 
 
 `2001`  Cutting the Red Tape: Finding and Using E-Government Tools and Resources 
-- <Completed ALA e-course
+- Completed ALA e-course
 
 `2009` University of Maryland University College
 - Center for Intellectual Property Copyright Leadership and Management Certificate<
-<!---Certificate required completion of following Online modules, IPNA 801: Copright Law and Integrated Access, IPNA 802: Copyright Law and Integrated Access, IPNA 803: Orphan Works Workshop, IPNA 804: Licensing Issues, IPNA 805: Copyright Policy Development, IPNA 806: College Cheating Trends, IPNA 807: Fair Use and Balance in Copyright---> 
+<!---Certificate required completion of following Online modules, IPNA 801: Copyright Law and Integrated Access, IPNA 802: Copyright Law and Integrated Access, IPNA 803: Orphan Works Workshop, IPNA 804: Licensing Issues, IPNA 805: Copyright Policy Development, IPNA 806: College Cheating Trends, IPNA 807: Fair Use and Balance in Copyright---> 
 
 ## Publications
 
@@ -135,7 +135,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 `2017` Currier, B. D., Mirza, R., & Downing, J. (2017). They think all of this is new: Leveraging librarians’ project management skills for the digital humanities. College & Undergraduate Libraries, 1-20. <a href="http://dx.doi.org/10.1080/10691316.2017.1347541"> doi:10.1080/10691316.2017.1347541</a>
 
 
-- Note:<a href="https://rafiamirzasite.wordpress.com/2017/10/06/they-think-all-of-this-is-new/"> Preprint is available here. </a> Article referenced in [*Project management approaches in libraries section of the C&RLN 2018 trends overview.*](https://crln.acrl.org/index.php/crlnews/article/view/17001/18750)
+- Note:<a href="https://rafiamirzasite.wordpress.com/2017/10/06/they-think-all-of-this-is-new/"> Preprint is available here.</a> Article referenced in [*Project management approaches in libraries section of the C&RLN 2018 trends overview.*](https://crln.acrl.org/index.php/crlnews/article/view/17001/18750)
 
 `2018` Research Planning and Review Committee, A. (2018). 2018 top trends in academic libraries: A review of the trends and issues affecting academic libraries in higher education. College & Research Libraries News, 79(6), 286. <a href="https://crln.acrl.org/index.php/crlnews/article/view/17001">doi:https://doi.org/10.5860/crln.79.6.286</a>
 
@@ -143,13 +143,16 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 `2019` Walker, S, Beilin, I. & Mirza, R. (2019). <a href="https://acrl.ala.org/IS/instruction-tools-resources-2/professional-development/research-agenda-for-library-instruction-and-information-literacy/2019-research-agenda-conversations/2019"> Research Agenda Conversations, ACRL Instruction Section Research & Scholarship website.</a>
 
 ### Book Chapters
+
+`2023` Keralis, S., Mirza, R. & Seale, M. (2023).Librarians' Illegible Labor: Toward a Documentary Practice of Digital Humanities. In Klein, L.F., & Gold, M.K. (eds.), <a href="https://www.upress.umn.edu/book-division/books/debates-in-the-digital-humanities-2023"> Debates in the Digital Humanities 2023.</a> (pp. 305-323) Minneapolis: University of Minnesota Press.
+
 `2017` Mirza, R. & Seale, M. (2017). Who Killed the World? White Masculinity and the Technocratic Library of the Future. In Schlesselman-Tarango, G. (ed.), <a href="https://litwinbooks.com/books/topographies-of-whiteness/">Topographies of Whiteness: Mapping Whiteness in Library and Information Science</a> (pp. 175-201) (Series on Critical Race Studies and Multiculturalism in LIS). Sacramento: Library Juice Press.
 
 - Note:<a href="https://litwinbooks.com/david-hudson-wins-fifth-annual-library-juice-paper-contest/">Honorable mention for Fifth (2017) Annual Library Juice Paper Contest.</a><a href="http://mauraseale.org/wp-content/uploads/2016/03/Mirza-Seale-Technocratic-Library.pdf">Text available here.</a>
 
 `2015` Ossom Williamson, P. & Mirza, R. (2015). <a href="https://books.google.com/books?hl=en&lr=&id=Pv3bBgAAQBAJ&oi=fnd&pg=PA211&dq=rafia+mirza+peace+williamson&ots=tgbSHn0sWd&sig=8141E4llWMu5WS6g-Zv2WYaI0tY#v=onepage&q=rafia%20mirza%20peace%20williamson&f=false"> Does Google Scholar help or hurt institutional repositories? </a>In C. Smallwood (Ed.), The complete guide to using Google in libraries: instruction, administration, and staff productivity (pp. 211-222). Lanham, MD: Rowman & Littlefiend.
 
-`2011` Mirza, R.  & Seale M. (2011) Watchers, Punks and Dashing Heroes: Representations of Male Librarians in Generation X Mass Culture.In M. Wallace, R. Tolley-Stokes, and E. S. Estep (Eds.), <a href="https://dc.etsu.edu/etsu_books/195/"> The Generation X Librarian: Essays on Leadership, Technology, Pop Culture, Social Responsibility and Professional Identity</a> (pp.135-146). Jefferson, N.C: McFarland & Co.
+`2011` Mirza, R.  & Seale M. (2011) Watchers, Punks and Dashing Heroes: Representations of Male Librarians in Generation X Mass Culture.In M. Wallace, R. Tolley-Stokes, and E. S. Estep (eds.), <a href="https://dc.etsu.edu/etsu_books/195/"> The Generation X Librarian: Essays on Leadership, Technology, Pop Culture, Social Responsibility and Professional Identity</a> (pp.135-146). Jefferson, N.C: McFarland & Co.
 
 ### Workbooks
 Currier, B. D., Mirza, R., & Ossom Williamson, P. (2016). Memorandum of Understanding Workbook, Version 1.0, Memorandum of Understanding Collection. Arlington, TX: ResearchCommons. <a href="https://rc.library.uta.edu/uta-ir/handle/10106/25646"> https://rc.library.uta.edu/uta-ir/handle/10106/25646</a>
@@ -281,7 +284,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 ### Regional presentations & workshops
 
 `2022` [Develop Your Own Digital Humanities Research Institute](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/TLA2022.md)
-- Texas Library Assoication (TLA) 2022 Annual Conference.
+- Texas Library Association (TLA) 2022 Annual Conference.
 - Presenters: Bliss, J.R., Godat, E., McMichael, J.,  Mirza, R.  (2021, April 27)
 
 `2022` [Storytelling with Data: A Hands-on Workshop for Beginners](https://twu-ir.tdl.org/handle/11274/13594)
@@ -298,7 +301,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Invited Speaker for pre-conference: Mirza, R. (2017, Nov. 3)
 
 `2017` [After the Mandates & Manifestos, What Next? The Denton Declaration at 5](https://openaccess.unt.edu/symposium/2017/sessions)
-- [UNT’s Open Acccess Symposium 2017](https://openaccess.unt.edu/symposium/2017/)
+- [UNT’s Open Access Symposium 2017](https://openaccess.unt.edu/symposium/2017/)
 - Moderator/Organizer:: Keralis, S.
 - Presenters: Gonzales, M.,  Weimer, K.H., Rondelli,M., Mirza,R., Halbert, M. (2017, May 19)
 
@@ -653,6 +656,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: Mar. 2023
+Last updated: May 2023
 
 
