@@ -98,7 +98,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
  `Feb 28th - April 15, 2022` <a href="https://prioritizingprivacy.org/"> Prioritizing Privacy Spring 2022 cohort</a>
 - Participant in Spring 2022 cohort of Prioritizing Privacy, a online professional development course focused on student privacy and academic library participation in learning analytics projects. 
 
- `June 11-20, 2018`  <a href="http://dhinstitutes.org/">DHRI (Digital Humanities Research Institute) </a>
+ `June 11-20, 2018`  <a href="http://dhinstitutes.org/">DHRI (Digital Humanities Research Institute)</a>
 - Participant in 2018 cohort of DHRI a ten-day residential workshop at held at The Graduate Center, CUNY to become become local [Community Leader.](http://archive.dhinstitutes.org/participants.html)
 
 `October 2015` Library Juice Academy workshop 
@@ -113,7 +113,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - Completed ALA e-course
 
 `2009` University of Maryland University College
-- Center for Intellectual Property Copyright Leadership and Management Certificate<
+- Center for Intellectual Property Copyright Leadership and Management Certificate
 <!---Certificate required completion of following Online modules, IPNA 801: Copyright Law and Integrated Access, IPNA 802: Copyright Law and Integrated Access, IPNA 803: Orphan Works Workshop, IPNA 804: Licensing Issues, IPNA 805: Copyright Policy Development, IPNA 806: College Cheating Trends, IPNA 807: Fair Use and Balance in Copyright---> 
 
 ## Publications
@@ -162,9 +162,9 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 `2013` Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), <a href="http://www.worldcat.org/oclc/868908524 Fiesta de Excelencia: Celebrating Excellence in Library Instruction: Thirty-ninth National LOEX Library Instruction Conference Proceedings,"></a> Fort Worth, Texas, May 5-7, 2011 (pp. 71-74). Ypsilanti, MI: LOEX Press.
 
 ## Instruction
-`2023` [Resources and Information Services in Professions and Disciplines - Data Services in LibrariesINFO 220](https://sjsu.campusconcourse.com/view_syllabus?course_id=5388&public_mode=1)
+`2023` [Resources and Information Services in Professions and Disciplines - Data Services in Libraries INFO 220](https://sjsu.campusconcourse.com/view_syllabus?course_id=5388&public_mode=1)
 - San José State University School of Information (SJSU iSchool, Spring 2023)
-- Instructors: Mirza R., <a href="https://ischoolapps.sjsu.edu/facultypages/view.php?fac=ossom_williamsonp"> Ossom-Williamson, P.</a>
+- Instructors: Mirza R., Ossom-Williamson, P.
 
 
 ## Presentations & Workshops
@@ -228,8 +228,8 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/libguides-videos-and-screencasting/)
 
 `2011` If a Picture Paints a Thousand Words, Imagine What a Video Can Do: Making Promotional, Advocacy, and Instructional Videos on a Shoestring
-- [Association of College and Research Libraries Annual Conference, Philadelphia, PA,(2011, March).](https://www.ala.org/acrl/conferences/confsandpreconfs/national/acrl2011papers)
-- Presenters (Day long Pre Conference Workshop):  Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
+- Association of College and Research Libraries Annual Conference, Philadelphia, PA,(2011, March).
+- Presenters (Day long Pre-Conference Workshop): Abrahamson, M., Bailey, J., Frierson,F., &  Mirza, R.
 - [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/12/if-a-picture-paints-a-thousand-words/)
 
 `2010` Supercharged, Integrated, and On Demand
@@ -296,7 +296,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Presenters: Holmes, R., Mirza, R., Williamson, P.O. (2019, April 16)
 
 `2017` [How to Bring Digital Humanities in the Classroom](https://rafiamirzasite.wordpress.com/2017/11/03/thatcampdhinclassroom/)
-- [THATcamp Clear Lake](http://clearlake2017.thatcamp.org/)
+- [THATcamp Clear Lake](https://web.archive.org/web/20190905071859/http://clearlake2017.thatcamp.org/)
 - [Slides](https://osf.io/r8pxc/)
 - Invited Speaker for pre-conference: Mirza, R. (2017, Nov. 3)
 
@@ -330,13 +330,13 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - [Cross Timbers Library Collaborative Scholarly Communications & Digital Curation Affinity Group Meeting (2013, December 12)](https://www.ct-lc.org/node/48)
 - Presenters: Iakovakis, C., Mirza, R.
 
-`2012` [Re/searching on the Web](http://texas2012.thatcamp.org/tag/web/)
-- [THATCamp Texas (2012, March)](http://texas2012.thatcamp.org/)
+`2012` Re/searching on the Web
+- [THATCamp Texas (2012, March)](https://web.archive.org/web/20210414133125/http://texas2012.thatcamp.org/)
 - Presenter: Mirza, R
 - [Click here for Abstract ](https://rafiamirzasite.wordpress.com/2016/03/13/researching-on-the-web/)
 
-`2012` [Digital Age Copyright & Your Rights as an Author](http://texas2012.thatcamp.org/tag/copyright/)
-- [THATCamp Texas (2012, March)](http://texas2012.thatcamp.org/)
+`2012` Digital Age Copyright & Your Rights as an Author
+- [THATCamp Texas (2012, March)](https://web.archive.org/web/20210414133125/http://texas2012.thatcamp.org/)
 - Presenter: Mirza, R.
 - [Click here for Abstract](https://rafiamirzasite.wordpress.com/2016/03/13/digital-age-copyright/)
 
