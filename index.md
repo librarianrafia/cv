@@ -118,7 +118,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 ## Publications
 
-A list is also available <a href="(https://scholar.google.com/citations?user=ritomzMAAAAJ&hl=en)">[through Google Scholar]</a>
+A list is also available <a href="https://scholar.google.com/citations?user=ritomzMAAAAJ&hl=en">[through Google Scholar]</a>
 
 ### Articles
 
