@@ -118,7 +118,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=ritomzMAAAAJ&hl=en) -->
+A list is also available<a href="(https://scholar.google.com/citations?user=ritomzMAAAAJ&hl=en)">[through Google Scholar]</a>
 
 ### Articles
 
@@ -143,6 +143,10 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 `2019` Walker, S, Beilin, I. & Mirza, R. (2019). <a href="https://acrl.ala.org/IS/instruction-tools-resources-2/professional-development/research-agenda-for-library-instruction-and-information-literacy/2019-research-agenda-conversations/2019"> Research Agenda Conversations, ACRL Instruction Section Research & Scholarship website.</a>
 
 ### Book Chapters
+
+
+`2023` Mirza, R., Nicholson, K., & Seale, M. (2023). Acting “As If”: Critical Pedagogy, Empowerment, and Labor. In Y. Mery & A. Sanchez (Eds.), <a href="https://www.alastore.ala.org/content/critical-librarianship-and-pedagogy-symposium-reflections-revisions-and-new-work"> The Critical Librarianship and Pedagogy Symposium: Reflections, Revisions, and New Works.</a>(pp.111-126) ACRL.
+
 
 `2023` Keralis, S., Mirza, R. & Seale, M. (2023).Librarians' Illegible Labor: Toward a Documentary Practice of Digital Humanities. In Klein, L.F., & Gold, M.K. (eds.), <a href="https://www.upress.umn.edu/book-division/books/debates-in-the-digital-humanities-2023"> Debates in the Digital Humanities 2023.</a> (pp. 305-323) Minneapolis: University of Minnesota Press.
 
