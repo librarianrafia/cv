@@ -19,6 +19,9 @@ Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provi
 Her research focuses on digital humanities, library pedagogy, project planning and infrastructure in libraries as well as race, gender and labor in librarianship.
 
 ## Education
+`2023- Present` __Southern Methodist University (Dallas, TX)__
+- MS (Master of Science in Data Science). Online program.
+ - Expected completion in 2026.
 
 `2008` __University of Michigan, School of Information (Ann Arbor, MI)__
 - MSI (Master of Science in Information).
@@ -374,10 +377,11 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Led committee to put on [DHRI@SMU (2018-2021)](http://www.smu.edu/dhri)
 
 *Committees at SMU (2017-Present)*
+- Chaired Data Literacy Working Group (Summer 2023 - Present)
 - Chaired Data Policy Working Group (Spring 2023)
 - Serves on Online Learning Committee (Jan. 2022- Present)
 - Led committee on Workshops (Spring 2021-Fall 2021)
-- Leads committee on the Digital Humanities Research Institute (2018-2022)
+- Leads committee on the Digital Humanities Research Institute (2018-2022, 2024)
 - Served on library committee on Research and Scholarly Communication (2017-2020)
 - Served on Search Committees (2019, 2021, 2023)
 
@@ -665,6 +669,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: May 2023
+Last updated: Jan 2024
 
 
