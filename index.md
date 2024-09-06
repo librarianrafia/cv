@@ -52,9 +52,9 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - Golden Key (Inducted 1999, January)
 
 ### Affiliations & Service
-`Summer 2024` Reviewer, NEH’s Office of Digital Humanities, Digital Humanities Advancement Grants.
+`Summer 2024` Reviewer, NEH’s Office of Digital Humanities, Digital Humanities Advancement Grants (DHAG).
 
-`Spring 2021` Reviewer, NEH’s Office of Digital Humanities, Digital Humanities Advancement Grants.
+`Spring 2021` Reviewer, NEH’s Office of Digital Humanities, Digital Humanities Advancement Grants (DHAG).
 
 `2018` Digital Library Federation (DLF)
 - Member of Forum Program Committee & Inclusivity Subcommittee. 
