@@ -20,7 +20,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 
 ## Education
 `2023- Present` __Southern Methodist University (Dallas, TX)__
-- MS (Master of Science in Data Science). Online program.
+- MSDS (Master of Science in Data Science). 
  - Expected completion in Spring 2024.
 
 `2008` __University of Michigan, School of Information (Ann Arbor, MI)__
@@ -295,7 +295,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 ### Regional presentations & workshops
 
-`2024` [Bridging Digital Humanities and Information Literacy: Librarians' Role in Developing Interdisciplinary Skills](https://bit.ly/MUTXDH)
+`2024` [Bridging Digital Humanities and Information Literacy: Librarians' Role in Developing Interdisciplinary Skills](https://bit.ly/SMUTXDH)
 - Texas Digital Humanities Symposium.(Baylor University)
 - Presenters: Johnston, J, Mirza, R.  (2024, Sept. 6)
 
