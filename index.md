@@ -3,11 +3,12 @@ layout: cv
 title: Rafia Mirza's CV
 ---
 # Rafia Mirza
-Humanities Librarian.
+Digital Scholarship & Humanities Librarian.
 
 <div id="webaddress">
-<a href="https://librarianrafia.github.io/about/">librarianrafia.github.io/about/</a>
-| <a href="https://twitter.com/LibrarianRafia">My Twitter</a>
+<a href="https://librarianrafia.github.io/about/"> About Me </a>
+| <a href="https://www.linkedin.com/in/rafiamirza/">My LinkedIn  </a> 
+| <a href="https://bsky.app/profile/librarianrafia.bsky.social">My Bluesky </a>
 </div>
 
 ## Currently
