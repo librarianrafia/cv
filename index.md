@@ -12,7 +12,7 @@ Humanities Librarian.
 
 ## Currently
 
-Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and led the [Digital Humanities Research Institute at SMU.](http://www.smu.edu/dhri) She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan.
+Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects. She did graduate coursework in American studies at the University of Minnesota, received her MSI from the University of Michigan, and is in the process of obtaining a Master of Science in Data Science from SMU. 
 
 ### Research interests
 
@@ -21,7 +21,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 ## Education
 `2023- Present` __Southern Methodist University (Dallas, TX)__
 - MSDS (Master of Science in Data Science). 
- - Expected completion in Spring 2024.
+ - Expected completion in Spring 2025.
 
 `2008` __University of Michigan, School of Information (Ann Arbor, MI)__
 - MSI (Master of Science in Information).
@@ -383,13 +383,14 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Led committee to put on [DHRI@SMU (2018-2021)](http://www.smu.edu/dhri)
 
 *Committees at SMU (2017-Present)*
-- Chaired Data Literacy Working Group (Summer 2023 - Present)
+- Serves on library committee on AI, Research and Instruction Committee (Oct. 2024-Present)
+- Chaired Data Literacy Working Group (Summer 2023-Present)
 - Chaired Data Policy Working Group (Spring 2023)
-- Serves on Online Learning Committee (Jan. 2022- Present)
+- Serves on Online Learning Committee (Jan. 2022-Present)
 - Led committee on Workshops (Spring 2021-Fall 2021)
 - Leads committee on the Digital Humanities Research Institute (2018-2022, 2024)
 - Served on library committee on Research and Scholarly Communication (2017-2020)
-- Served on Search Committees (2019, 2021, 2023)
+- Served on Search Committees (2019, 2021, 2023, 2024)
 
 ### University of Texas at Arlington
 
@@ -675,6 +676,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: Sept 2024
+Last updated: Oct. 2024
 
 
