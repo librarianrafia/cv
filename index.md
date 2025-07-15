@@ -13,16 +13,16 @@ Digital Scholarship & Humanities Librarian.
 
 ## Currently
 
-Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects. She did graduate coursework in American studies at the University of Minnesota, received her MSI from the University of Michigan, and is in the process of obtaining a Master of Science in Data Science from SMU. 
+Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects. She did graduate coursework in American Studies at the University of Minnesota, received her MSI from the University of Michigan, and her MSDS from SMU. 
 
 ### Research interests
 
 Her research focuses on digital humanities, library pedagogy, project planning and infrastructure in libraries as well as race, gender and labor in librarianship.
 
 ## Education
-`2023- Present` __Southern Methodist University (Dallas, TX)__
+`2023- 2025` __Southern Methodist University (Dallas, TX)__
 - MSDS (Master of Science in Data Science). 
- - Expected completion in Spring 2025.
+- Machine Learning & Artificial Intelligence Specialization.
 
 `2008` __University of Michigan, School of Information (Ann Arbor, MI)__
 - MSI (Master of Science in Information).
@@ -677,6 +677,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: Oct. 2024
+Last updated: July 2025
 
 
