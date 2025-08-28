@@ -95,6 +95,10 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions.
 
 ## Continuing Education
+ `2025` <a href="https://htrc.github.io/torchlite-hackathon/"> TORCHLITE Hackathon, HTRC</a>
+- Participant in Spring 2024 [TORCHLITE Hackathon](https://htrc.github.io/torchlite-hackathon/projects), hosted by the HathiTrust Research Center (HTRC).
+- ["HathiTrust Research Center’s First Hackathon: What We Learned and Built"](https://www.hathitrust.org/blogs/hathitrust-research-centers-first-hackathon/) 
+
  `2023` <a href="https://www.libraryjournal.com/event/equity-centered-instruction-feb-2023"> Equity-Centered Instruction, Library Journal</a>
 - Participant in Spring 2023 cohort of Equity-Centered Instruction: Strategies for the Library or Classroom Online Workshop and Guest Speaker Program. 
 
@@ -127,6 +131,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 A list is also available <a href="https://scholar.google.com/citations?user=ritomzMAAAAJ&hl=en">through Google Scholar.</a>
 
 ### Articles
+`2025` Lane, R., Mirza, R., & Slater, R. (2025). A Modern Approach to Classifying Medieval Latin Scripts. SMU Data Science Review, 9(1). <a href="https://scholar.smu.edu/datasciencereview/vol9/iss1/7">https://scholar.smu.edu/datasciencereview/vol9/iss1/7</a>
 
 `2020` Seale, M., & Mirza, R. (2020). The Coin of Love and Virtue: Academic Libraries and Value in a Global Pandemic. The Canadian Journal of Academic Librarianship 6, 6 (December), 1-30. <a href="https://cjal.ca/index.php/capal/article/view/34457">https://cjal.ca/index.php/capal/article/view/34457</a>
 
@@ -172,10 +177,11 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 `2013` Bailey, J., & Mirza, R. (2013). LibGuides, videos, and screencasting: Technologies to enhance and promote digital wisdom in information literacy instruction. In B.Sietz (Ed.), <a href="http://www.worldcat.org/oclc/868908524 Fiesta de Excelencia: Celebrating Excellence in Library Instruction: Thirty-ninth National LOEX Library Instruction Conference Proceedings,"></a> Fort Worth, Texas, May 5-7, 2011 (pp. 71-74). Ypsilanti, MI: LOEX Press.
 
 ## Instruction
+`2025` [Software Carpentry Maintainer](https://carpentries.org/community/maintainers/)
+- Maintainer for [Introducing Computational Thinking](https://github.com/LibraryCarpentry/lc-computational-thinking)[(Library Carpentry)](https://github.com/LibraryCarpentry/lc-computational-thinking)
 
 `2023` [Software Carpentry Instructor](https://carpentries.org/instructors/)
 - Completed Instructor Certification in Summer 2023
-
 
 `2023` [Resources and Information Services in Professions and Disciplines - Data Services in Libraries INFO 220](https://sjsu.campusconcourse.com/view_syllabus?course_id=5388&public_mode=1)
 - San José State University School of Information (SJSU iSchool, Spring 2023 & Summer 2023)
@@ -677,6 +683,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: July 2025
+Last updated: August 2025
 
 
