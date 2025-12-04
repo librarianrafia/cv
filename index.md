@@ -9,7 +9,7 @@ Digital Scholarship & Humanities Librarian.
 <a href="https://librarianrafia.github.io/about/"> About Me </a>
 | <a href="https://www.linkedin.com/in/rafiamirza/">My LinkedIn  </a> 
 | <a href="https://bsky.app/profile/librarianrafia.bsky.social">My Bluesky </a>
-  <a href="https://librarianrafia.github.io/">My Blog </a>
+| <a href="https://librarianrafia.github.io/">My Blog </a>
 </div>
 
 ## Currently
