@@ -3,7 +3,7 @@ layout: cv
 title: Rafia Mirza's CV
 ---
 # Rafia Mirza
-Digital Scholarship & Humanities Librarian.
+Digital Scholarship Librarian.
 
 <div id="webaddress">
 <a href="https://librarianrafia.github.io/about/"> About Me </a>
@@ -96,7 +96,7 @@ Her research focuses on digital humanities, library pedagogy, project planning a
 - Facilitated visitors’ experiences in the Hands on History Room, ensuring safety and being available to answer guests’ questions.
 
 ## Continuing Education
- `2025` <a href="https://htrc.github.io/torchlite-hackathon/"> TORCHLITE Hackathon, HTRC</a>
+ `2024` <a href="https://htrc.github.io/torchlite-hackathon/"> TORCHLITE Hackathon, HTRC</a>
 - Participant in Spring 2024 [TORCHLITE Hackathon](https://htrc.github.io/torchlite-hackathon/projects), hosted by the HathiTrust Research Center (HTRC).
 - ["HathiTrust Research Center’s First Hackathon: What We Learned and Built"](https://www.hathitrust.org/blogs/hathitrust-research-centers-first-hackathon/) 
 
@@ -295,6 +295,11 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Presenter: Mirza, R.
 
 ### Virtual presentations & workshops
+
+`2025` [Navigating the Unknown: AI Tools for Humanities Research](https://bit.ly/SMUTXDH2025)
+- Texas Digital Humanities Symposium.(Baylor University)
+- Presenters: Johnston, J, Mirza, R.  (2025, Sept. 10)
+
 `2021` Mirza, R., & Seale, M., et al. (2021). [Academic Libraries and the Irrational – A Discussion with CJAL Special Issue Authors and Editors (CJAL).](https://cjal.ca/index.php/capal/issue/view/2290) May 25, 2021. [Online.](https://docs.google.com/document/d/1Ix2jKo7nPkn4iuuB7Llm6AUgJhqlHXIbA34JZuiEPmw/edit?usp=sharing)
 
 `2017` Mirza, R., & Ossom-Williamson, P. & Currier, B.D., (2017). The MOU — Your Blueprint for Managing Collaborative Projects. [Webinar]. The Library Leadership & Management Association (LLAMA). Oct 18, 2017. [Online.](https://www.ala.org/llama/llama-webinar-mou-your-blueprint-managing-collaborative-projects)
@@ -304,6 +309,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 `2016` Mirza, R., & Ossom-Williamson, P. & Currier, B.D., (2016). Memorandum of Understanding Workshop: Process for Successful Digital Collaboration. [Webinar]. The Digital Curation Interest Group of the Association of College and Research Libraries. May 23, 2016. Online.
 
 ### Regional presentations & workshops
+
 
 `2024` [Bridging Digital Humanities and Information Literacy: Librarians' Role in Developing Interdisciplinary Skills](https://bit.ly/SMUTXDH)
 - Texas Digital Humanities Symposium.(Baylor University)
@@ -684,6 +690,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: August 2025
+Last updated: Jan 2026
 
 
