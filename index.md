@@ -395,7 +395,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 `2022-2026` Title: Digital Scholarship Librarian. 
 - Workshops on Digital Scholarship  topics: Introduction to Data , Text and Data mining, Project Planning. Collaborate on workshops with OIT.  
-<!--- Begin April 2026 -->
+<!--- Begin April 2026 --->
 
 `2017-2021` Title: Humanities Research Librarian. 
 - Workshops on Humanities research, search, Digital Humanities and citation management. 
