@@ -401,7 +401,8 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 **`2017–2021`** Title: Humanities Research Librarian
 - Workshops on humanities research, search, Digital Humanities, and citation management
 
-- *SMU Liaison, Instruction and Collection responsibilities (2017–Present)*
+
+*SMU Liaison, Instruction and Collection responsibilities (2017–Present)*
 
 **Humanities:** History (Aug 2017–Dec 2021), Classical Studies (Aug 2017–Dec 2021), Philosophy (Aug 2017–Dec 2021), Religious Studies (Aug 2017–Apr 2020), World Languages and Literatures (Aug 2017–Dec 2021), International Film Minor (Jan 2018–Dec 2021), Honors Program (Aug 2017–Jan 2018), Digital Humanities (Jan 2020–Dec 2021)
 
