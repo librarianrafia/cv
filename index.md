@@ -383,6 +383,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 ### SMU
 
+
 **`2023-Current` Librarian IV (June 2023- Current)**
 
 **`2019-2023` Librarian III (July 2019- May 2023)**
@@ -393,9 +394,10 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Responsibilities: Institutional Repositories, Open Access, Data plans. 
 - Chair of SMU Scholar Advisory Group.
 
+<!-- Begin April 2026 -->
+
 `2022-2026` Title: Digital Scholarship Librarian. 
 - Workshops on Digital Scholarship  topics: Introduction to Data , Text and Data mining, Project Planning. Collaborate on workshops with OIT.  
-<!--- Begin April 2026 --->
 
 `2017-2021` Title: Humanities Research Librarian. 
 - Workshops on Humanities research, search, Digital Humanities and citation management. 
