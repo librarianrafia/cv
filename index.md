@@ -3,7 +3,7 @@ layout: cv
 title: Rafia Mirza's CV
 ---
 # Rafia Mirza
-Digital Scholarship Librarian.
+Scholarly Communication Librarian.
 
 <div id="webaddress">
 <a href="https://librarianrafia.github.io/about/"> About Me </a>
@@ -14,7 +14,7 @@ Digital Scholarship Librarian.
 
 ## Currently
 
-Rafia Mirza is currently the Scholarly Communications Librarian at SMU. 
+Rafia Mirza is the Scholarly Communications Librarian at SMU. 
 
 
 ### Research interests
@@ -402,18 +402,29 @@ Liaison Responsibilities:
 - Workshops on Digital Scholarship  topics: Introduction to Data , Text and Data mining, Project Planning. Collaborate on workshops with OIT.  
 
 `2017-2021` Title: Humanities Research Librarian. 
-- Liaison, Instruction and Collection responsibilities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Dec. 2021)
+- Workshops on Humanities research, search, Digital Humanities and citation management. 
+
+#### SMU Liaison, Instruction and Collection responsibilities (2017-Present): 
+
+- Humanities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Dec. 2021)
+
+- Social Sciences: Economics (1/2025-Present), Statistics and Data Science (4/2026-Present) 
+                   
+- Engineering:  Civil & Environmental, Computer Science, Cybersecurity, Design & Innovation, Electrical & Computer, Operations Research & Engineering Management, Game Development Mechanical. (4/2026-Present)
+
+- Math & Sciences: Applied Physiology, Biology, Chemistry, Data Science, Earth Sciences, Mathematics, Physics, Statistical Science (4/2026-Present)   
 
 `2018` Participant in initial cohort (2018) of NEH grant funded [Digital Humanities Research Institute (DHRI)at CUNY](https://www.dhinstitutes.org/) to train in becoming local Community Leader
 - Led committee to put on [DHRI@SMU (2018-2021)](http://www.smu.edu/dhri)
 
 *Committees at SMU (2017-Present)*
+- Chair of SMU Scholar Advisory Group (April 2026- Present)
 - Serves on library committee on AI, Research and Instruction Committee (Oct. 2024-Present)
-- Chaired Data Literacy Working Group (Summer 2023-Present)
+- Chaired Data Literacy Working Group (Summer 2023-Summer 2024)
 - Chaired Data Policy Working Group (Spring 2023)
-- Serves on Online Learning Committee (Jan. 2022-Present)
+- Served on Online Learning Committee (Jan. 2022- April 2026)
 - Led committee on Workshops (Spring 2021-Fall 2021)
-- Leads committee on the Digital Humanities Research Institute (2018-2022, 2024)
+- Led committee on the Digital Humanities Research Institute (2018-2022, 2024)
 - Served on library committee on Research and Scholarly Communication (2017-2020)
 - Served on Search Committees (2019, 2021, 2023, 2024)
 
@@ -467,7 +478,7 @@ Liaison Responsibilities:
   - We were one of 842 libraries and state humanities councils awarded the Muslim Journeys Bookshelf grant from the NEH.
   - Supported the grant by helping with displays, creating a web page to highlight the materials.
 
-- On Committee for creating the <a href="http://library.uta.edu/mavvets/">MavVets project.</a>
+- On Committee for creating the <a href="https://web.archive.org/web/20200609131455/https://library.uta.edu/mavvets/">MavVets project.</a>
     - Worked on white paper for original internal grant.
 
 <!--- 
