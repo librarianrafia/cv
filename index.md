@@ -393,26 +393,23 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Responsibilities: Institutional Repositories, Open Access, Data plans. 
 - Chair of SMU Scholar Advisory Group.
 
-Liaison Responsibilities:
-- Economics (2024-Present), Statistics and Data Science (2026-Present), 
-- Engineering:  Civil & Environmental, Computer Science, Cybersecurity, Design & Innovation, Electrical & Computer, Operations Research & Engineering Management, Game Development Mechanical. (2026-Present)
-- Math & Sciences: Applied Physiology, Biology, Chemistry, Data Science, Earth Sciences, Mathematics, Physics (2026-Present)   
-
 `2022-2026` Title: Digital Scholarship Librarian. 
 - Workshops on Digital Scholarship  topics: Introduction to Data , Text and Data mining, Project Planning. Collaborate on workshops with OIT.  
+<!--- Begin April 2026 -->
 
 `2017-2021` Title: Humanities Research Librarian. 
 - Workshops on Humanities research, search, Digital Humanities and citation management. 
 
-#### SMU Liaison, Instruction and Collection responsibilities (2017-Present): 
+*SMU Liaison, Instruction and Collection responsibilities (2017-Present)*
 
 - Humanities: History (August 2017-Dec. 2021), Classical Studies (August 2017-Dec. 2021), Philosophy (August 2017-Dec. 2021), Religious Studies (August 2017-April 2020), World Languages and Literatures (August 2017-Dec. 2021), International Film Minor (January 2018-Dec. 2021), Honors Program (August 2017-January 2018), Digital Humanities (Jan. 2020-Dec. 2021)
 
-- Social Sciences: Economics (1/2025-Present), Statistics and Data Science (4/2026-Present) 
+- Social Sciences: Economics (Jan. 2025-Present)
                    
-- Engineering:  Civil & Environmental, Computer Science, Cybersecurity, Design & Innovation, Electrical & Computer, Operations Research & Engineering Management, Game Development Mechanical. (4/2026-Present)
+- Engineering:  Civil & Environmental, Computer Science, Cybersecurity, Design & Innovation, Electrical & Computer, Operations Research & Engineering Management, Game Development Mechanical. (April 2026-Present)
 
-- Math & Sciences: Applied Physiology, Biology, Chemistry, Data Science, Earth Sciences, Mathematics, Physics, Statistical Science (4/2026-Present)   
+- Math & Sciences: Applied Physiology, Biology, Chemistry, Data Science, Earth Sciences, Mathematics, Physics, Statistical Science (April 2026-Present)   
+
 
 `2018` Participant in initial cohort (2018) of NEH grant funded [Digital Humanities Research Institute (DHRI)at CUNY](https://www.dhinstitutes.org/) to train in becoming local Community Leader
 - Led committee to put on [DHRI@SMU (2018-2021)](http://www.smu.edu/dhri)
