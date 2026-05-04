@@ -398,18 +398,18 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Workshops on Digital Scholarship topics: Introduction to Data, Text and Data Mining, Project Planning  
 - Collaborated on workshops with OIT  
 
-**`2017–2021`** Title: Humanities Research Librarian  
-- Workshops on humanities research, search, Digital Humanities, and citation management  
+**`2017–2021`** Title: Humanities Research Librarian
+- Workshops on humanities research, search, Digital Humanities, and citation management
 
 - *SMU Liaison, Instruction and Collection responsibilities (2017–Present)*
 
 **Humanities:** History (Aug 2017–Dec 2021), Classical Studies (Aug 2017–Dec 2021), Philosophy (Aug 2017–Dec 2021), Religious Studies (Aug 2017–Apr 2020), World Languages and Literatures (Aug 2017–Dec 2021), International Film Minor (Jan 2018–Dec 2021), Honors Program (Aug 2017–Jan 2018), Digital Humanities (Jan 2020–Dec 2021)
 
-- **Social Sciences:** Economics (Jan 2025–Present)
+**Social Sciences:** Economics (Jan 2025–Present)
 
-- **Engineering:** Civil & Environmental, Computer Science, Cybersecurity, Design & Innovation, Electrical & Computer Engineering, Operations Research & Engineering Management, Game Development, Mechanical (April 2026–Present)
+**Engineering:** Civil & Environmental, Computer Science, Cybersecurity, Design & Innovation, Electrical & Computer Engineering, Operations Research & Engineering Management, Game Development, Mechanical (April 2026–Present)
 
-- **Math & Sciences:** Applied Physiology, Biology, Chemistry, Data Science, Earth Sciences, Mathematics, Physics, Statistical Science (April 2026–Present)
+**Math & Sciences:**  Applied Physiology, Biology, Chemistry, Data Science, Earth Sciences, Mathematics, Physics, Statistical Science (April 2026–Present)
 
 **`2018`** Participant in initial cohort of NEH grant-funded  
 [Digital Humanities Research Institute (DHRI) at CUNY](https://www.dhinstitutes.org/)  
