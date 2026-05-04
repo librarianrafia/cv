@@ -14,11 +14,13 @@ Digital Scholarship Librarian.
 
 ## Currently
 
-Rafia Mirza is currently a Digital Scholarship Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects. She did graduate coursework in American Studies at the University of Minnesota, received her MSI from the University of Michigan, and her MSDS from SMU. 
+Rafia Mirza is currently the Scholarly Communications Librarian at SMU. 
+
 
 ### Research interests
 
 Her research focuses on digital humanities, library pedagogy, project planning and infrastructure in libraries as well as race, gender and labor in librarianship.
+She did graduate coursework in American Studies at the University of Minnesota, received her MSI from the University of Michigan, and her MSDS from SMU. 
 
 ## Education
 `2023- 2025` __Southern Methodist University (Dallas, TX)__
@@ -387,7 +389,16 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 **`2017-2019` Librarian II (August 2017- July 2019)**
 
-`2022-Current` Title: Digital Scholarship Librarian. 
+`2026-Present` Title: Scholarly Communication Librarian. 
+- Responsibilities: Institutional Repositories, Open Access, Data plans. 
+- Chair of SMU Scholar Advisory Group.
+
+Liaison Responsibilities:
+- Economics (2024-Present), Statistics and Data Science (2026-Present), 
+- Engineering:  Civil & Environmental, Computer Science, Cybersecurity, Design & Innovation, Electrical & Computer, Operations Research & Engineering Management, Game Development Mechanical. (2026-Present)
+- Math & Sciences: Applied Physiology, Biology, Chemistry, Data Science, Earth Sciences, Mathematics, Physics (2026-Present)   
+
+`2022-2026` Title: Digital Scholarship Librarian. 
 - Workshops on Digital Scholarship  topics: Introduction to Data , Text and Data mining, Project Planning. Collaborate on workshops with OIT.  
 
 `2017-2021` Title: Humanities Research Librarian. 
@@ -690,6 +701,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: Jan 2026
+Last updated: May 2026
 
 
