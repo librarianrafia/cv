@@ -159,12 +159,12 @@ A list is also available <a href="https://scholar.google.com/citations?user=rito
 ### Book Chapters
 
 
-`2023` Mirza, R., Nicholson, K., & Seale, M. (2023). Acting “As If”: Critical Pedagogy, Empowerment, and Labor. In Y. Mery & A. Sanchez (Eds.), <a href="https://www.alastore.ala.org/content/critical-librarianship-and-pedagogy-symposium-reflections-revisions-and-new-work"> The Critical Librarianship and Pedagogy Symposium: Reflections, Revisions, and New Works.</a>(pp.111-126) ACRL.
+`2023` Mirza, R., Nicholson, K., & Seale, M. (2023). <a href="https://hdl.handle.net/20.500.14721/29054"> Acting “As If”: Critical Pedagogy, Empowerment, and Labor. "In Y. Mery & A. Sanchez (Eds.), <a href="https://www.alastore.ala.org/content/critical-librarianship-and-pedagogy-symposium-reflections-revisions-and-new-work"> The Critical Librarianship and Pedagogy Symposium: Reflections, Revisions, and New Works.</a>(pp.111-126) ACRL.
 
 
 `2023` Keralis, S., Mirza, R. & Seale, M. (2023).Librarians' Illegible Labor: Toward a Documentary Practice of Digital Humanities. In Klein, L.F., & Gold, M.K. (eds.), <a href="https://www.upress.umn.edu/book-division/books/debates-in-the-digital-humanities-2023"> Debates in the Digital Humanities 2023.</a> (pp. 305-323) Minneapolis: University of Minnesota Press.
 
-`2017` Mirza, R. & Seale, M. (2017). Who Killed the World? White Masculinity and the Technocratic Library of the Future. In Schlesselman-Tarango, G. (ed.), <a href="https://litwinbooks.com/books/topographies-of-whiteness/">Topographies of Whiteness: Mapping Whiteness in Library and Information Science</a> (pp. 175-201) (Series on Critical Race Studies and Multiculturalism in LIS). Sacramento: Library Juice Press.
+`2017` Mirza, R. & Seale, M. (2017). <a href="https://mauraseale.org/wp-content/uploads/2016/03/Mirza-Seale-Technocratic-Library.pdf">Who Killed the World? White Masculinity and the Technocratic Library of the Future.</a> In Schlesselman-Tarango, G. (ed.), <a href="https://litwinbooks.com/books/topographies-of-whiteness/">Topographies of Whiteness: Mapping Whiteness in Library and Information Science</a> (pp. 175-201) (Series on Critical Race Studies and Multiculturalism in LIS). Sacramento: Library Juice Press.
 
 - Note:<a href="https://litwinbooks.com/david-hudson-wins-fifth-annual-library-juice-paper-contest/">Honorable mention for Fifth (2017) Annual Library Juice Paper Contest.</a><a href="http://mauraseale.org/wp-content/uploads/2016/03/Mirza-Seale-Technocratic-Library.pdf">Text available here.</a>
 
@@ -300,7 +300,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 `2025` [Navigating the Unknown: AI Tools for Humanities Research](https://bit.ly/SMUTXDH2025)
 - Texas Digital Humanities Symposium.(Baylor University)
-- Presenters: Johnston, J, Mirza, R.  (2025, Sept. 10)
+- Presenters: Johnston, C., Mirza, R.  (2025, Sept. 10)
 
 `2021` Mirza, R., & Seale, M., et al. (2021). [Academic Libraries and the Irrational – A Discussion with CJAL Special Issue Authors and Editors (CJAL).](https://cjal.ca/index.php/capal/issue/view/2290) May 25, 2021. [Online.](https://docs.google.com/document/d/1Ix2jKo7nPkn4iuuB7Llm6AUgJhqlHXIbA34JZuiEPmw/edit?usp=sharing)
 
@@ -315,7 +315,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 `2024` [Bridging Digital Humanities and Information Literacy: Librarians' Role in Developing Interdisciplinary Skills](https://bit.ly/SMUTXDH)
 - Texas Digital Humanities Symposium.(Baylor University)
-- Presenters: Johnston, J, Mirza, R.  (2024, Sept. 6)
+- Presenters: Johnston, C., Mirza, R.  (2024, Sept. 6)
 
 `2022` [Develop Your Own Digital Humanities Research Institute](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/TLA2022.md)
 - Texas Library Association (TLA) 2022 Annual Conference.
