@@ -14,7 +14,7 @@ Scholarly Communication Librarian.
 
 ## Currently
 
-Rafia Mirza is the Scholarly Communications Librarian at SMU. 
+Rafia Mirza is the <a href="https://librarianrafia.github.io/Scholarly-Communication-Librarian/">Scholarly Communication Librarian</a> at SMU. 
 
 
 ### Research interests
@@ -408,9 +408,9 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
 **Social Sciences:** Economics (Jan 2025–Present)
 
-**Engineering:** Civil & Environmental, Computer Science, Cybersecurity, Design & Innovation, Electrical & Computer Engineering, Operations Research & Engineering Management, Game Development, Mechanical (April 2026–Present)
+**Engineering:** Civil & Environmental, Computer Science, Cybersecurity, Design & Innovation, Electrical & Computer Engineering, Operations Research & Engineering Management, Game Development, Mechanical (April 2026–Present) *Interim*
 
-**Math & Sciences:**  Applied Physiology, Biology, Chemistry, Data Science, Earth Sciences, Mathematics, Physics, Statistical Science (April 2026–Present)
+**Math & Sciences:**  Applied Physiology, Biology, Chemistry, Data Science, Earth Sciences, Mathematics, Physics, Statistical Science (April 2026–Present) *Interim*
 
 **`2018`** Participant in initial cohort of NEH grant-funded  
 [Digital Humanities Research Institute (DHRI) at CUNY](https://www.dhinstitutes.org/)  
@@ -420,7 +420,12 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
  *Committees at SMU (2017-Present)*
 - Chair of SMU Scholar Advisory Group (April 2026- Present)
-- Serves on library committee on AI, Research and Instruction Committee (Oct. 2024-Present)
+- Member of SMU Libraries Entrepreneurial Engagement Team (Interim, as Engineering Librarian) (March 2026-Present)
+- Member of Office of Engaged Learning Undergrad Research Steering committee (August 2025-Present)
+- Member of Moody School Professional Development Network (August 2025-Present)
+- Member of Moody Working Group on Dissertation/Thesis Formatting (April 2026-Present)
+- Alternate on SMU IRB review board (September 2026-Present)
+- Serve on library committee on AI, Research and Instruction Committee (Oct. 2024-Present)
 - Chaired Data Literacy Working Group (Summer 2023-Summer 2024)
 - Chaired Data Policy Working Group (Spring 2023)
 - Served on Online Learning Committee (Jan. 2022- April 2026)
@@ -428,6 +433,16 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Led committee on the Digital Humanities Research Institute (2018-2022, 2024)
 - Served on library committee on Research and Scholarly Communication (2017-2020)
 - Served on Search Committees (2019, 2021, 2023, 2024)
+
+*Texas Digital Library Responsibilities (2026-Present)* 
+- Serve as SMU Libraries’ representative to the Texas Digital Library.
+- Manage and evaluate the portfolio of tools/services offered, including TDR and the Dataverse.
+- Attend Texas Data Repository (TDR) Steering Committee Monthly Meeting
+- Serve on TDL/TDR committees:
+- TDR Larger Data Subcommittee Meeting (April 2026-Present)
+- TDR Mentoring & Program Building Subcommittee (April 2026-Present)
+- Represent SMU Libraries at the annual TDL meeting.
+
 
 ### University of Texas at Arlington
 
@@ -713,6 +728,6 @@ Inducted 1999, January
 
 ### Footer
 
-Last updated: May 2026
+Last updated: August 2026
 
 
