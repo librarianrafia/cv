@@ -424,6 +424,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Member of Office of Engaged Learning Undergrad Research Steering committee (August 2025-Present)
 - Member of Moody School Professional Development Network (August 2025-Present)
 - Member of Moody Working Group on Dissertation/Thesis Formatting (April 2026-Present)
+- SMU ICPSR Representative (April 2026-Present)
 - Alternate on SMU IRB review board (September 2026-Present)
 - Serve on library committee on AI, Research and Instruction Committee (Oct. 2024-Present)
 - Chaired Data Literacy Working Group (Summer 2023-Summer 2024)
@@ -433,6 +434,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Led committee on the Digital Humanities Research Institute (2018-2022, 2024)
 - Served on library committee on Research and Scholarly Communication (2017-2020)
 - Served on Search Committees (2019, 2021, 2023, 2024)
+
 
 *Texas Digital Library Responsibilities (2026-Present)* 
 - Serve as SMU Libraries’ representative to the Texas Digital Library.
