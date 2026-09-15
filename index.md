@@ -420,6 +420,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 
  *Committees at SMU (2017-Present)*
 - Chair of SMU Scholar Advisory Group (April 2026- Present)
+- Member of Research & Digital Strategy Steering Committee (July 2026-Present)
 - Member of SMU Libraries Entrepreneurial Engagement Team (Interim, as Engineering Librarian) (March 2026-Present)
 - Member of Office of Engaged Learning Undergrad Research Steering committee (August 2025-Present)
 - Member of Moody School Professional Development Network (August 2025-Present)
@@ -443,6 +444,7 @@ DOI:<a href="http://doi.org/10.32855/utalibraries.2016.01">http://doi.org/10.328
 - Serve on TDL/TDR committees:
 - TDR Larger Data Subcommittee Meeting (April 2026-Present)
 - TDR Mentoring & Program Building Subcommittee (April 2026-Present)
+- TDR Accessibility Working Group (July 2026-Present)   
 - Represent SMU Libraries at the annual TDL meeting.
 
 
